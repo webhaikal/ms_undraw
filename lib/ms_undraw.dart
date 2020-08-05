@@ -147,7 +147,7 @@ class UnDraw extends StatelessWidget {
         http.Response response = await http.get(url);
         _memCacheSvg[url] = response.body;
       }
-      return _memCacheSvg['url'];
+      return _memCacheSvg[url];
     } else {
       http.Response response = await http.get(url);
       return response.body;
