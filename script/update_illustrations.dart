@@ -28,7 +28,8 @@ void main(List<String> args) async {
   print('File writed');
 
   print('Formatting file');
-  await Process.run('dartfmt.bat', ['-w','--fix','.\\lib\\illustrations.g.dart']);
+  await Process.run(
+      'dartfmt.bat', ['-w', '--fix', '.\\lib\\illustrations.g.dart']);
   print('File formatted');
 }
 
@@ -73,6 +74,7 @@ Future _updateFile(
     List<String> enuns, String baseUrl, List<String> identifierAndUrl) async {
   final File _illustrations = File('./lib/illustrations.g.dart');
   final content = '''
+// ignore_for_file: unused_field
 enum UnDrawIllustration {${enuns.join(',')}}
 
 const baseUrl = "$baseUrl";
