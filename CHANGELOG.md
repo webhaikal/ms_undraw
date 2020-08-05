@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.1.0]
+
+* Support memory cache
+
 ## [2.0.0]
 
 * Add a lot of new illustrations
