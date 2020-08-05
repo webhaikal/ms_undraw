@@ -1,6 +1,7 @@
 name: ms_undraw
-description: A new Flutter package for open source illustrations. These illustrations are designed by Katerina Limpitsouni and the application is developed by westdabestdb.
-version: 2.0.2
+description: A new Flutter package for open source illustrations. These illustrations are designed by Katerina Limpitsouni.
+version: 2.0.0
+repository: https://github.com/Marcus-Software/ms_undraw
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
@@ -9,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_svg: ">=0.13.1 <1.0.0"
-  http: ^0.12.0+2
+  http: ">=0.12.0+2 <1.0.0"
 
 dev_dependencies:
   flutter_test:

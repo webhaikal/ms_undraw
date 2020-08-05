@@ -1,24 +1,16 @@
 # undraw/UnDraw
 
-UnDraw is a Flutter widget that provides [700+ illustrations](https://undraw.co/illustrations), designed by [Katerina Limpitsouni](https://twitter.com/ninalimpi) and developed by [westdabestdb](https://www.instagram.com/westdabestdb/).
+UnDraw is a Flutter widget that provides [1277+ illustrations](https://undraw.co/illustrations), designed by [Katerina Limpitsouni](https://twitter.com/ninalimpi) forked from [westdabestdb](https://github.com/westdabestdb/undraw)
+
+## Disclaimer
+
+The reason of this library is because initial library is outdated, and a lot of new illustrations is been released.
 
 ![](https://media.giphy.com/media/MBf2NBhUXaEufSZFfa/giphy.gif)
 
-## Getting Started
-Add this to your package's `pubspec.yaml` file:
-```
-...
-dependencies:
-  undraw: ^1.0.2
-```
-
-Now in your Dart code, you can use:
-```
-import 'package:undraw/undraw.dart';
-```
-
 ## Usage
-```
+
+``` dart
 UnDraw(
   color: Colors.red,
   illustration: UnDrawIllustration.mobile_application,
