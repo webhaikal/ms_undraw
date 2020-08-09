@@ -1,5 +1,10 @@
 # Changelog
 
+## [2.1.0+1]
+
+* Update illustrations
+* Improve documentation
+
 ## [2.1.0]
 
 * Support memory cache

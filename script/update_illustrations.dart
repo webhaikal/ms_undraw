@@ -49,10 +49,15 @@ Future<List<IllustrationElement>> _getIllustrations() async {
   return _illustrations;
 }
 
-List<String> _getEnuns(List<IllustrationElement> illustrations) => illustrations
-    .map((illustration) => illustration.title)
-    .map(_kebabCase)
-    .toList();
+List<String> _getEnuns(List<IllustrationElement> illustrations) =>
+    (illustrations..sort((ia, ib) => ia.title.compareTo(ib.title)))
+        .map((illustration) {
+      return '''
+/// Title: ${illustration.title}
+/// Slug: ${illustration.slug}
+/// ![](${illustration.image})
+${_kebabCase(illustration.title)}''';
+    }).toList();
 
 final _startNum = RegExp(r"^\d");
 
@@ -75,10 +80,13 @@ Future _updateFile(
   final File _illustrations = File('./lib/illustrations.g.dart');
   final content = '''
 // ignore_for_file: unused_field
+/// Enums to help locate the correct illustration
 enum UnDrawIllustration {${enuns.join(',')}}
 
+/// Base url for the illustrations
 const baseUrl = "$baseUrl";
 
+/// List of illustrations with url to download
 List<Map<String, String>> illustrationList = [${identifierAndUrl.join(',')}];
 ''';
   if (!await _illustrations.exists())
