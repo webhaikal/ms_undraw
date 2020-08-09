@@ -54,7 +54,6 @@ List<String> _getEnuns(List<IllustrationElement> illustrations) =>
         .map((illustration) {
       return '''
 /// Title: ${illustration.title}
-/// Slug: ${illustration.slug}
 /// ![](${illustration.image})
 ${_kebabCase(illustration.title)}''';
     }).toList();
@@ -72,7 +71,7 @@ String _kebabCase(String value) => value
 List<String> _getIdentifierAndUrl(List<IllustrationElement> illustrations) =>
     illustrations
         .map((ill) =>
-            "{'url': '\$baseUrl/${ill.image.split('/').last}','identifier': '${_kebabCase(ill.title)}'}")
+            "UnDrawIllustration.${_kebabCase(ill.title)}: '\$baseUrl/${ill.image.split('/').last}'")
         .toList();
 
 Future _updateFile(
@@ -86,8 +85,11 @@ enum UnDrawIllustration {${enuns.join(',')}}
 /// Base url for the illustrations
 const baseUrl = "$baseUrl";
 
-/// List of illustrations with url to download
-List<Map<String, String>> illustrationList = [${identifierAndUrl.join(',')}];
+/// Map of illustrations with url to download
+const illustrationMap = const <UnDrawIllustration, String>{
+  ${identifierAndUrl.join(',')}
+};
+
 ''';
   if (!await _illustrations.exists())
     await _illustrations.create(recursive: true);

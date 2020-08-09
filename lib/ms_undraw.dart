@@ -95,12 +95,8 @@ class UnDraw extends StatelessWidget {
   /// If cache image in memory, if enable reload the same illustration is be more fast
   final bool useMemCache;
 
-  Future<SvgPicture> renderIllustration(String name, Color _exColor) async {
-    var nameSplit = name.toString().split("UnDrawIllustration.");
-    var illustration =
-        illustrationList.where((i) => i["identifier"] == nameSplit[1]);
-    String url = illustration.toList()[0]["url"];
-    String image = await _getSvgString(url, this.useMemCache);
+  Future<SvgPicture> renderIllustration(UnDrawIllustration illustration, Color _exColor) async {
+    String image = await _getSvgString(illustrationMap[illustration], this.useMemCache);
 
     String valueString = color.toString().split('(0x')[1].split(')')[0];
     valueString = valueString.substring(2, valueString.length);
@@ -120,7 +116,7 @@ class UnDraw extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       child: FutureBuilder(
-        future: renderIllustration(illustration.toString(), color),
+        future: renderIllustration(illustration, color),
         builder: (BuildContext context, AsyncSnapshot snapshot) {
           if (snapshot.hasData) {
             return Container(
