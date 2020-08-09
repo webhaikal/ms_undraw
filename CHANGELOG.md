@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.2.0]
+
+* Improved performance
+
 ## [2.1.0+1]
 
 * Update illustrations
