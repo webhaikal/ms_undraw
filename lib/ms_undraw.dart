@@ -95,8 +95,10 @@ class UnDraw extends StatelessWidget {
   /// If cache image in memory, if enable reload the same illustration is be more fast
   final bool useMemCache;
 
-  Future<SvgPicture> renderIllustration(UnDrawIllustration illustration, Color _exColor) async {
-    String image = await _getSvgString(illustrationMap[illustration], this.useMemCache);
+  Future<SvgPicture> renderIllustration(
+      UnDrawIllustration illustration, Color _exColor) async {
+    String image =
+        await _getSvgString(illustrationMap[illustration], this.useMemCache);
 
     String valueString = color.toString().split('(0x')[1].split(')')[0];
     valueString = valueString.substring(2, valueString.length);
