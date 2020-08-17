@@ -1,6 +1,6 @@
 # undraw/UnDraw
 
-UnDraw is a Flutter widget that provides [1277+ illustrations](https://undraw.co/illustrations), designed by [Katerina Limpitsouni](https://twitter.com/ninalimpi) forked from [westdabestdb](https://github.com/westdabestdb/undraw)
+UnDraw is a Flutter widget that provides [1281+ illustrations](https://undraw.co/illustrations), designed by [Katerina Limpitsouni](https://twitter.com/ninalimpi) forked from [westdabestdb](https://github.com/westdabestdb/undraw)
 
 ## Disclaimer
 

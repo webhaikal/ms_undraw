@@ -394,7 +394,7 @@ enum UnDrawIllustration {
   bitcoin,
 
   /// Title: Bitcoin P2P
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/btc_p2p_lth5.svg)
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Bitcoin_P2P_re_1xqa.svg)
   bitcoin_p2p,
 
   /// Title: Black lives matter
@@ -1002,7 +1002,7 @@ enum UnDrawIllustration {
   creativity,
 
   /// Title: Credit card
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Credit_card_3ed6.svg)
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Credit_card_re_blml.svg)
   credit_card,
 
   /// Title: Credit card payment
@@ -2394,7 +2394,7 @@ enum UnDrawIllustration {
   mail,
 
   /// Title: Mail sent
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Mail_sent_qwwx.svg)
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Mail_sent_re_0ofv.svg)
   mail_sent,
 
   /// Title: Mailbox
@@ -2446,7 +2446,7 @@ enum UnDrawIllustration {
   marilyn,
 
   /// Title: Marketing
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/marketing_v0iu.svg)
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Marketing_re_7f1g.svg)
   marketing,
 
   /// Title: Master plan
@@ -2622,7 +2622,7 @@ enum UnDrawIllustration {
   mobile_messages,
 
   /// Title: Mobile pay
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_pay_9abj.svg)
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Mobile_pay_re_sjb8.svg)
   mobile_pay,
 
   /// Title: Mobile payments
@@ -3022,7 +3022,7 @@ enum UnDrawIllustration {
   online_page,
 
   /// Title: Online party
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_party_ar9g.svg)
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Online_party_re_7t6g.svg)
   online_party,
 
   /// Title: Online payments
@@ -3842,7 +3842,7 @@ enum UnDrawIllustration {
   save_to_bookmarks,
 
   /// Title: Savings
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Savings_dwkw.svg)
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Savings_re_eq4w.svg)
   savings,
 
   /// Title: Schedule
@@ -5232,7 +5232,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.biking: '$baseUrl/biking_kc4f.svg',
   UnDrawIllustration.birthday_cake: '$baseUrl/Birthday_cake_2wxy.svg',
   UnDrawIllustration.bitcoin: '$baseUrl/bitcoin2_ave7.svg',
-  UnDrawIllustration.bitcoin_p2p: '$baseUrl/btc_p2p_lth5.svg',
+  UnDrawIllustration.bitcoin_p2p: '$baseUrl/Bitcoin_P2P_re_1xqa.svg',
   UnDrawIllustration.black_lives_matter: '$baseUrl/black_lives_matter_rndk.svg',
   UnDrawIllustration.blank_canvas: '$baseUrl/blank_canvas_3rbb.svg',
   UnDrawIllustration.blog_post: '$baseUrl/blog_anyj.svg',
@@ -5385,7 +5385,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.creative_thinking: '$baseUrl/creative_thinking_b3bc.svg',
   UnDrawIllustration.creative_woman: '$baseUrl/creative_woman_v415.svg',
   UnDrawIllustration.creativity: '$baseUrl/creativity_wqmm.svg',
-  UnDrawIllustration.credit_card: '$baseUrl/Credit_card_3ed6.svg',
+  UnDrawIllustration.credit_card: '$baseUrl/Credit_card_re_blml.svg',
   UnDrawIllustration.credit_card_payment:
       '$baseUrl/credit_card_payment_yb88.svg',
   UnDrawIllustration.credit_card_payments:
@@ -5745,7 +5745,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.loving_it: '$baseUrl/loving_it_y27c.svg',
   UnDrawIllustration.loving_story: '$baseUrl/loving_story_0j59.svg',
   UnDrawIllustration.mail: '$baseUrl/mail_2_tqip.svg',
-  UnDrawIllustration.mail_sent: '$baseUrl/Mail_sent_qwwx.svg',
+  UnDrawIllustration.mail_sent: '$baseUrl/Mail_sent_re_0ofv.svg',
   UnDrawIllustration.mailbox: '$baseUrl/mail_box_kd5i.svg',
   UnDrawIllustration.maintenance: '$baseUrl/maintenance_cn7j.svg',
   UnDrawIllustration.make_it_rain: '$baseUrl/make_it_rain_iwk4.svg',
@@ -5758,7 +5758,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.map_dark: '$baseUrl/Map_dark_k9pw.svg',
   UnDrawIllustration.map_light: '$baseUrl/Map_light_3hjy.svg',
   UnDrawIllustration.marilyn: '$baseUrl/marilyn_v73y.svg',
-  UnDrawIllustration.marketing: '$baseUrl/marketing_v0iu.svg',
+  UnDrawIllustration.marketing: '$baseUrl/Marketing_re_7f1g.svg',
   UnDrawIllustration.master_plan: '$baseUrl/Master_plan_re_jvit.svg',
   UnDrawIllustration.mathematics: '$baseUrl/mathematics_4otb.svg',
   UnDrawIllustration.media_player: '$baseUrl/media_player_ylg8.svg',
@@ -5802,7 +5802,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.mobile_login: '$baseUrl/mobile_login_ikmv.svg',
   UnDrawIllustration.mobile_marketing: '$baseUrl/mobile_marketing_iqbr.svg',
   UnDrawIllustration.mobile_messages: '$baseUrl/mobile_messages_u848.svg',
-  UnDrawIllustration.mobile_pay: '$baseUrl/mobile_pay_9abj.svg',
+  UnDrawIllustration.mobile_pay: '$baseUrl/Mobile_pay_re_sjb8.svg',
   UnDrawIllustration.mobile_payments: '$baseUrl/mobile_payments_vftl.svg',
   UnDrawIllustration.mobile_posts: '$baseUrl/mobile_posts_tlwg.svg',
   UnDrawIllustration.mobile_prototyping: '$baseUrl/mobile_prototyping_grmd.svg',
@@ -5905,7 +5905,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.online_messaging: '$baseUrl/online_messaging_9ro6.svg',
   UnDrawIllustration.online_organizer: '$baseUrl/online_organizer_ofxm.svg',
   UnDrawIllustration.online_page: '$baseUrl/Online_page_re_lhgx.svg',
-  UnDrawIllustration.online_party: '$baseUrl/online_party_ar9g.svg',
+  UnDrawIllustration.online_party: '$baseUrl/Online_party_re_7t6g.svg',
   UnDrawIllustration.online_payments: '$baseUrl/online_payments_luau.svg',
   UnDrawIllustration.online_popularity: '$baseUrl/online_popularity_elhc.svg',
   UnDrawIllustration.online_posts: '$baseUrl/online_posts_h475.svg',
@@ -6124,7 +6124,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.santa_claus: '$baseUrl/santa_claus_q0g4.svg',
   UnDrawIllustration.santa_visit: '$baseUrl/santa_visit_loux.svg',
   UnDrawIllustration.save_to_bookmarks: '$baseUrl/save_to_bookmarks_y708.svg',
-  UnDrawIllustration.savings: '$baseUrl/Savings_dwkw.svg',
+  UnDrawIllustration.savings: '$baseUrl/Savings_re_eq4w.svg',
   UnDrawIllustration.schedule: '$baseUrl/schedule_pnbk.svg',
   UnDrawIllustration.science: '$baseUrl/science_fqhl.svg',
   UnDrawIllustration.scooter: '$baseUrl/scooter_aia8.svg',
