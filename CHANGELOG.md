@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.2.0+4]
+
+* Illustrations updated
+
 ## [2.2.0+3]
 
 * More illustrations added
