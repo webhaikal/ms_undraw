@@ -389,6 +389,10 @@ enum UnDrawIllustration {
   /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Birthday_cake_2wxy.svg)
   birthday_cake,
 
+  /// Title: Birthday girl
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/birthday_girl_n46w.svg)
+  birthday_girl,
+
   /// Title: Bitcoin
   /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/bitcoin2_ave7.svg)
   bitcoin,
@@ -430,7 +434,7 @@ enum UnDrawIllustration {
   book_reading,
 
   /// Title: Booked
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Booked_j7rj.svg)
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Booked_re_vtod.svg)
   booked,
 
   /// Title: Booking
@@ -861,6 +865,10 @@ enum UnDrawIllustration {
   /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/conference_speaker_6nt7.svg)
   conference_speaker,
 
+  /// Title: Confidential letter
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/confidential_letter_w6ux.svg)
+  confidential_letter,
+
   /// Title: Confirm
   /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Confirm_re_69me.svg)
   confirm,
@@ -902,7 +910,7 @@ enum UnDrawIllustration {
   contemplating,
 
   /// Title: Content
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/content_vbqo.svg)
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Content_re_33px.svg)
   content,
 
   /// Title: Content creator
@@ -1994,7 +2002,7 @@ enum UnDrawIllustration {
   home_screen,
 
   /// Title: Home settings
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/home_settings_8rlf.svg)
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Home_settings_re_pkya.svg)
   home_settings,
 
   /// Title: Hooked
@@ -3622,7 +3630,7 @@ enum UnDrawIllustration {
   quality_time,
 
   /// Title: Questions
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/questions_75e0.svg)
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Questions_re_1fy7.svg)
   questions,
 
   /// Title: Queue
@@ -3686,7 +3694,7 @@ enum UnDrawIllustration {
   recording,
 
   /// Title: Redesign feedback
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/redesign_feedback_48ti.svg)
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Redesign_feedback_re_jvm0.svg)
   redesign_feedback,
 
   /// Title: Referral
@@ -4314,7 +4322,7 @@ enum UnDrawIllustration {
   stepping_up,
 
   /// Title: Steps
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/steps_ngvm.svg)
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Steps_re_odoy.svg)
   steps,
 
   /// Title: Stock prices
@@ -4510,7 +4518,7 @@ enum UnDrawIllustration {
   teddy_bear,
 
   /// Title: Terms
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/terms_lso0.svg)
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Terms_re_6ak4.svg)
   terms,
 
   /// Title: Text field
@@ -4628,6 +4636,10 @@ enum UnDrawIllustration {
   /// Title: Travel plans
   /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/travel_plans_li01.svg)
   travel_plans,
+
+  /// Title: Travel together
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/travel_together_re_kjf2.svg)
+  travel_together,
 
   /// Title: Travelers
   /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/travelers_qlt1.svg)
@@ -5235,6 +5247,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.bibliophile: '$baseUrl/Bibliophile_hwqc.svg',
   UnDrawIllustration.biking: '$baseUrl/biking_kc4f.svg',
   UnDrawIllustration.birthday_cake: '$baseUrl/Birthday_cake_2wxy.svg',
+  UnDrawIllustration.birthday_girl: '$baseUrl/birthday_girl_n46w.svg',
   UnDrawIllustration.bitcoin: '$baseUrl/bitcoin2_ave7.svg',
   UnDrawIllustration.bitcoin_p2p: '$baseUrl/Bitcoin_P2P_re_1xqa.svg',
   UnDrawIllustration.black_lives_matter: '$baseUrl/black_lives_matter_rndk.svg',
@@ -5245,7 +5258,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.body_text: '$baseUrl/body_text_l3ld.svg',
   UnDrawIllustration.book_lover: '$baseUrl/book_lover_mkck.svg',
   UnDrawIllustration.book_reading: '$baseUrl/book_reading_kx9s.svg',
-  UnDrawIllustration.booked: '$baseUrl/Booked_j7rj.svg',
+  UnDrawIllustration.booked: '$baseUrl/Booked_re_vtod.svg',
   UnDrawIllustration.booking: '$baseUrl/booking_33fn.svg',
   UnDrawIllustration.bookmarks: '$baseUrl/bookmarks_r6up.svg',
   UnDrawIllustration.books: '$baseUrl/Books_l33t.svg',
@@ -5353,6 +5366,8 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.conference: '$baseUrl/conference_uo36.svg',
   UnDrawIllustration.conference_call: '$baseUrl/conference_call_b0w6.svg',
   UnDrawIllustration.conference_speaker: '$baseUrl/conference_speaker_6nt7.svg',
+  UnDrawIllustration.confidential_letter:
+      '$baseUrl/confidential_letter_w6ux.svg',
   UnDrawIllustration.confirm: '$baseUrl/Confirm_re_69me.svg',
   UnDrawIllustration.confirmation: '$baseUrl/confirmation_2uy0.svg',
   UnDrawIllustration.confirmed: '$baseUrl/confirmed_81ex.svg',
@@ -5363,7 +5378,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.contact_us: '$baseUrl/contact_us_15o2.svg',
   UnDrawIllustration.container_ship: '$baseUrl/Container_ship_ok1c.svg',
   UnDrawIllustration.contemplating: '$baseUrl/Contemplating_re_ynec.svg',
-  UnDrawIllustration.content: '$baseUrl/content_vbqo.svg',
+  UnDrawIllustration.content: '$baseUrl/Content_re_33px.svg',
   UnDrawIllustration.content_creator: '$baseUrl/content_creator_xeju.svg',
   UnDrawIllustration.content_structure: '$baseUrl/content_structure_79gj.svg',
   UnDrawIllustration.content_team: '$baseUrl/content_team_3epn.svg',
@@ -5647,7 +5662,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.home_cinema: '$baseUrl/home_cinema_l7yl.svg',
   UnDrawIllustration.home_run: '$baseUrl/home_run_oerh.svg',
   UnDrawIllustration.home_screen: '$baseUrl/home_screen_4n7s.svg',
-  UnDrawIllustration.home_settings: '$baseUrl/home_settings_8rlf.svg',
+  UnDrawIllustration.home_settings: '$baseUrl/Home_settings_re_pkya.svg',
   UnDrawIllustration.hooked: '$baseUrl/hooked_c757.svg',
   UnDrawIllustration.horror_movie: '$baseUrl/horror_movie_3988.svg',
   UnDrawIllustration.hot_beverage: '$baseUrl/hot_beverage_2vw3.svg',
@@ -6070,7 +6085,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.push_notifications: '$baseUrl/push_notifications_im0o.svg',
   UnDrawIllustration.qa_engineers: '$baseUrl/QA_engineers_dg5p.svg',
   UnDrawIllustration.quality_time: '$baseUrl/quality_time_wiyl.svg',
-  UnDrawIllustration.questions: '$baseUrl/questions_75e0.svg',
+  UnDrawIllustration.questions: '$baseUrl/Questions_re_1fy7.svg',
   UnDrawIllustration.queue: '$baseUrl/Queue_j6ij.svg',
   UnDrawIllustration.quiet_town: '$baseUrl/quite_town_mg2q.svg',
   UnDrawIllustration.quitting_time: '$baseUrl/quitting_time_dm8t.svg',
@@ -6087,7 +6102,8 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.real_time_sync: '$baseUrl/real-time_sync_o57k.svg',
   UnDrawIllustration.receipt: '$baseUrl/receipt_ecdd.svg',
   UnDrawIllustration.recording: '$baseUrl/Recording_re_5xyq.svg',
-  UnDrawIllustration.redesign_feedback: '$baseUrl/redesign_feedback_48ti.svg',
+  UnDrawIllustration.redesign_feedback:
+      '$baseUrl/Redesign_feedback_re_jvm0.svg',
   UnDrawIllustration.referral: '$baseUrl/referral_4ki4.svg',
   UnDrawIllustration.refreshing: '$baseUrl/refreshing_ncum.svg',
   UnDrawIllustration.refreshing_beverage:
@@ -6247,7 +6263,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.staying_in: '$baseUrl/staying_in_i80u.svg',
   UnDrawIllustration.step_to_the_sun: '$baseUrl/step_to_the_sun_nxqq.svg',
   UnDrawIllustration.stepping_up: '$baseUrl/stepping_up_g6oo.svg',
-  UnDrawIllustration.steps: '$baseUrl/steps_ngvm.svg',
+  UnDrawIllustration.steps: '$baseUrl/Steps_re_odoy.svg',
   UnDrawIllustration.stock_prices: '$baseUrl/stock_prices_afrt.svg',
   UnDrawIllustration.stranded_traveler: '$baseUrl/stranded_traveler_pdbw.svg',
   UnDrawIllustration.street_food: '$baseUrl/street_food_hm5i.svg',
@@ -6297,7 +6313,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.team_spirit: '$baseUrl/team_spirit_hrr4.svg',
   UnDrawIllustration.team_work: '$baseUrl/team_work_k80m.svg',
   UnDrawIllustration.teddy_bear: '$baseUrl/teddy_bear_hns1.svg',
-  UnDrawIllustration.terms: '$baseUrl/terms_lso0.svg',
+  UnDrawIllustration.terms: '$baseUrl/Terms_re_6ak4.svg',
   UnDrawIllustration.text_field: '$baseUrl/text_field_htlv.svg',
   UnDrawIllustration.text_files: '$baseUrl/text_files_au1q.svg',
   UnDrawIllustration.texting: '$baseUrl/texting_k35o.svg',
@@ -6327,6 +6343,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.travel_booking: '$baseUrl/travel_booking_6koc.svg',
   UnDrawIllustration.travel_mode: '$baseUrl/travel_mode_7sf4.svg',
   UnDrawIllustration.travel_plans: '$baseUrl/travel_plans_li01.svg',
+  UnDrawIllustration.travel_together: '$baseUrl/travel_together_re_kjf2.svg',
   UnDrawIllustration.travelers: '$baseUrl/travelers_qlt1.svg',
   UnDrawIllustration.traveling: '$baseUrl/traveling_t8y2.svg',
   UnDrawIllustration.treasure: '$baseUrl/treasure_of9i.svg',
