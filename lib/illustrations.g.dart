@@ -258,7 +258,7 @@ enum UnDrawIllustration {
   art_thinking,
 
   /// Title: Artificial intelligence
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Artificial_intelligence_oyxx.svg)
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Artificial_intelligence_re_enpp.svg)
   artificial_intelligence,
 
   /// Title: Artist
@@ -634,7 +634,7 @@ enum UnDrawIllustration {
   character_drawing,
 
   /// Title: Charts
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/charts_jj6t.svg)
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Charts_re_5qe9.svg)
   charts,
 
   /// Title: Chasing love
@@ -812,6 +812,10 @@ enum UnDrawIllustration {
   /// Title: Color palette
   /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/color_palette_yamk.svg)
   color_palette,
+
+  /// Title: Color schemes
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/color__schemes_wv48.svg)
+  color_schemes,
 
   /// Title: Coming home
   /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/coming_home_52ir.svg)
@@ -3581,6 +3585,10 @@ enum UnDrawIllustration {
   /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/project_feedback_2s92.svg)
   project_feedback,
 
+  /// Title: Project team
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/project_team_lc5a.svg)
+  project_team,
+
   /// Title: Projections
   /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Projections_re_1mrh.svg)
   projections,
@@ -4578,7 +4586,7 @@ enum UnDrawIllustration {
   time_management,
 
   /// Title: Timeline
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/timeline_9u4u.svg)
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Timeline_re_aw6g.svg)
   timeline,
 
   /// Title: To do
@@ -4586,7 +4594,7 @@ enum UnDrawIllustration {
   to_do,
 
   /// Title: To do list
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/to_do_list_a49b.svg)
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/To_do_list_re_9nt7.svg)
   to_do_list,
 
   /// Title: To the moon
@@ -5214,7 +5222,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.art_museum: '$baseUrl/art_museum_8or4.svg',
   UnDrawIllustration.art_thinking: '$baseUrl/art_thinking_3g82.svg',
   UnDrawIllustration.artificial_intelligence:
-      '$baseUrl/Artificial_intelligence_oyxx.svg',
+      '$baseUrl/Artificial_intelligence_re_enpp.svg',
   UnDrawIllustration.artist: '$baseUrl/artist_b4rc.svg',
   UnDrawIllustration.ask_me_anything: '$baseUrl/ask_me_anything_k8o0.svg',
   UnDrawIllustration.asset_selection: '$baseUrl/asset_selection_ix3v.svg',
@@ -5308,7 +5316,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.certificate: '$baseUrl/certificate_343v.svg',
   UnDrawIllustration.certification: '$baseUrl/certification_aif8.svg',
   UnDrawIllustration.character_drawing: '$baseUrl/Character_drawing_ii11.svg',
-  UnDrawIllustration.charts: '$baseUrl/charts_jj6t.svg',
+  UnDrawIllustration.charts: '$baseUrl/Charts_re_5qe9.svg',
   UnDrawIllustration.chasing_love: '$baseUrl/chasing_love_3v98.svg',
   UnDrawIllustration.chat: '$baseUrl/Chat_re_re1u.svg',
   UnDrawIllustration.chat_bot: '$baseUrl/chat_bot_kli5.svg',
@@ -5353,6 +5361,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.collecting: '$baseUrl/collecting_fjjl.svg',
   UnDrawIllustration.collection: '$baseUrl/collection_u2np.svg',
   UnDrawIllustration.color_palette: '$baseUrl/color_palette_yamk.svg',
+  UnDrawIllustration.color_schemes: '$baseUrl/color__schemes_wv48.svg',
   UnDrawIllustration.coming_home: '$baseUrl/coming_home_52ir.svg',
   UnDrawIllustration.community: '$baseUrl/community_8nwl.svg',
   UnDrawIllustration.complete_design: '$baseUrl/complete_design_ongo.svg',
@@ -6072,6 +6081,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.progressive_app: '$baseUrl/progressive_app_m9ms.svg',
   UnDrawIllustration.project_completed: '$baseUrl/project_completed_w0oq.svg',
   UnDrawIllustration.project_feedback: '$baseUrl/project_feedback_2s92.svg',
+  UnDrawIllustration.project_team: '$baseUrl/project_team_lc5a.svg',
   UnDrawIllustration.projections: '$baseUrl/Projections_re_1mrh.svg',
   UnDrawIllustration.prototyping_process:
       '$baseUrl/prototyping_process_rswj.svg',
@@ -6328,9 +6338,9 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.throw_away: '$baseUrl/Throw_away_re_x60k.svg',
   UnDrawIllustration.throw_down: '$baseUrl/throw_down_ub2l.svg',
   UnDrawIllustration.time_management: '$baseUrl/time_management_30iu.svg',
-  UnDrawIllustration.timeline: '$baseUrl/timeline_9u4u.svg',
+  UnDrawIllustration.timeline: '$baseUrl/Timeline_re_aw6g.svg',
   UnDrawIllustration.to_do: '$baseUrl/to_do_xvvc.svg',
-  UnDrawIllustration.to_do_list: '$baseUrl/to_do_list_a49b.svg',
+  UnDrawIllustration.to_do_list: '$baseUrl/To_do_list_re_9nt7.svg',
   UnDrawIllustration.to_the_moon: '$baseUrl/to_the_moon_v1mv.svg',
   UnDrawIllustration.to_the_stars: '$baseUrl/To_the_stars_qhyy.svg',
   UnDrawIllustration.together: '$baseUrl/together_j0gj.svg',
