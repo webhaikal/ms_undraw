@@ -381,6 +381,10 @@ enum UnDrawIllustration {
   /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Bibliophile_hwqc.svg)
   bibliophile,
 
+  /// Title: Bike ride
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/bike_ride_7xit.svg)
+  bike_ride,
+
   /// Title: Biking
   /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/biking_kc4f.svg)
   biking,
@@ -582,7 +586,7 @@ enum UnDrawIllustration {
   calling,
 
   /// Title: Camera
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/camera_mg5h.svg)
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Camera_re_cnp4.svg)
   camera,
 
   /// Title: Campfire
@@ -1298,7 +1302,7 @@ enum UnDrawIllustration {
   done,
 
   /// Title: Done checking
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/done_checking_ty9a.svg)
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Done_checking_re_6vyx.svg)
   done_checking,
 
   /// Title: Donut love
@@ -2136,6 +2140,10 @@ enum UnDrawIllustration {
   /// Title: Information tab
   /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/information_tab_ocka.svg)
   information_tab,
+
+  /// Title: Informed decision
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/informed_decision_p2lh.svg)
+  informed_decision,
 
   /// Title: Innovative
   /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/innovative_b409.svg)
@@ -5253,6 +5261,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.begin_chat: '$baseUrl/begin_chat_c6pj.svg',
   UnDrawIllustration.best_place: '$baseUrl/best_place_r685.svg',
   UnDrawIllustration.bibliophile: '$baseUrl/Bibliophile_hwqc.svg',
+  UnDrawIllustration.bike_ride: '$baseUrl/bike_ride_7xit.svg',
   UnDrawIllustration.biking: '$baseUrl/biking_kc4f.svg',
   UnDrawIllustration.birthday_cake: '$baseUrl/Birthday_cake_2wxy.svg',
   UnDrawIllustration.birthday_girl: '$baseUrl/birthday_girl_n46w.svg',
@@ -5303,7 +5312,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.calculator: '$baseUrl/Calculator_0evy.svg',
   UnDrawIllustration.calendar: '$baseUrl/calendar_dutt.svg',
   UnDrawIllustration.calling: '$baseUrl/calling_kpbp.svg',
-  UnDrawIllustration.camera: '$baseUrl/camera_mg5h.svg',
+  UnDrawIllustration.camera: '$baseUrl/Camera_re_cnp4.svg',
   UnDrawIllustration.campfire: '$baseUrl/campfire_s6y4.svg',
   UnDrawIllustration.camping: '$baseUrl/camping_noc8.svg',
   UnDrawIllustration.cancel: '$baseUrl/cancel_u1it.svg',
@@ -5488,7 +5497,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.doll_play: '$baseUrl/doll_play_evbw.svg',
   UnDrawIllustration.domain_names: '$baseUrl/Domain_names_re_0uun.svg',
   UnDrawIllustration.done: '$baseUrl/done_a34v.svg',
-  UnDrawIllustration.done_checking: '$baseUrl/done_checking_ty9a.svg',
+  UnDrawIllustration.done_checking: '$baseUrl/Done_checking_re_6vyx.svg',
   UnDrawIllustration.donut_love: '$baseUrl/donut_love_kau1.svg',
   UnDrawIllustration.download: '$baseUrl/download_pc33.svg',
   UnDrawIllustration.download_files: '$baseUrl/download_files_aydf.svg',
@@ -5704,6 +5713,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.indoor_bike: '$baseUrl/indoor_bike_pwa4.svg',
   UnDrawIllustration.influencer: '$baseUrl/influencer_d3xx.svg',
   UnDrawIllustration.information_tab: '$baseUrl/information_tab_ocka.svg',
+  UnDrawIllustration.informed_decision: '$baseUrl/informed_decision_p2lh.svg',
   UnDrawIllustration.innovative: '$baseUrl/innovative_b409.svg',
   UnDrawIllustration.insert: '$baseUrl/insert_08ir.svg',
   UnDrawIllustration.insert_block: '$baseUrl/insert_block_efyb.svg',
