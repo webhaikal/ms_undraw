@@ -82,7 +82,7 @@ enum UnDrawIllustration {
   add_color,
 
   /// Title: Add content
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/add_content_d1tf.svg)
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Add_content_re_vgqa.svg)
   add_content,
 
   /// Title: Add document
@@ -442,7 +442,7 @@ enum UnDrawIllustration {
   booked,
 
   /// Title: Booking
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/booking_33fn.svg)
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Booking_re_gw4j.svg)
   booking,
 
   /// Title: Bookmarks
@@ -538,7 +538,7 @@ enum UnDrawIllustration {
   business_decisions,
 
   /// Title: Business plan
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/business_plan_5i9d.svg)
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Business_plan_re_0v81.svg)
   business_plan,
 
   /// Title: Business shop
@@ -1074,7 +1074,7 @@ enum UnDrawIllustration {
   data_extraction,
 
   /// Title: Data points
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Data_points_ubvs.svg)
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Data_points_re_vkpq.svg)
   data_points,
 
   /// Title: Data processing
@@ -1442,7 +1442,7 @@ enum UnDrawIllustration {
   ether,
 
   /// Title: Ethereum
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/ethereum_fb7n.svg)
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Ethereum_re_0m68.svg)
   ethereum,
 
   /// Title: Events
@@ -1652,6 +1652,10 @@ enum UnDrawIllustration {
   /// Title: Fitting pieces
   /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fitting_pieces_cli3.svg)
   fitting_pieces,
+
+  /// Title: Fixing bugs
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fixing_bugs_qkdj.svg)
+  fixing_bugs,
 
   /// Title: Floating
   /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/floating_61u6.svg)
@@ -3070,7 +3074,7 @@ enum UnDrawIllustration {
   online_resume,
 
   /// Title: Online shopping
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_shopping_ga73.svg)
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Online_shopping_re_k1sv.svg)
   online_shopping,
 
   /// Title: Online test
@@ -3114,7 +3118,7 @@ enum UnDrawIllustration {
   opinion,
 
   /// Title: Optimize image
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/optimize_image_yp8f.svg)
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Optimize_image_re_3tb1.svg)
   optimize_image,
 
   /// Title: Options
@@ -3330,7 +3334,7 @@ enum UnDrawIllustration {
   photocopy,
 
   /// Title: Photograph
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/photograph_rde1.svg)
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Photograph_re_up3b.svg)
   photograph,
 
   /// Title: Photos
@@ -3410,7 +3414,7 @@ enum UnDrawIllustration {
   popular,
 
   /// Title: Portfolio
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/portfolio_essv.svg)
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Portfolio_re_qwm5.svg)
   portfolio,
 
   /// Title: Portfolio feedback
@@ -4525,6 +4529,10 @@ enum UnDrawIllustration {
   /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/team_spirit_hrr4.svg)
   team_spirit,
 
+  /// Title: Team up
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/team_up_ip2x.svg)
+  team_up,
+
   /// Title: Team work
   /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/team_work_k80m.svg)
   team_work,
@@ -4782,7 +4790,7 @@ enum UnDrawIllustration {
   usability_testing,
 
   /// Title: User flow
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/user_flow_vr6w.svg)
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/User_flow_re_bvfx.svg)
   user_flow,
 
   /// Title: VR chat
@@ -5184,7 +5192,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.active_support: '$baseUrl/active_support_6rwo.svg',
   UnDrawIllustration.activity_tracker: '$baseUrl/activity_tracker_1l9o.svg',
   UnDrawIllustration.add_color: '$baseUrl/add_color_19gv.svg',
-  UnDrawIllustration.add_content: '$baseUrl/add_content_d1tf.svg',
+  UnDrawIllustration.add_content: '$baseUrl/Add_content_re_vgqa.svg',
   UnDrawIllustration.add_document: '$baseUrl/add_document_0hek.svg',
   UnDrawIllustration.add_file: '$baseUrl/add_file_4gfw.svg',
   UnDrawIllustration.add_files: '$baseUrl/add_file2_gvbb.svg',
@@ -5276,7 +5284,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.book_lover: '$baseUrl/book_lover_mkck.svg',
   UnDrawIllustration.book_reading: '$baseUrl/book_reading_kx9s.svg',
   UnDrawIllustration.booked: '$baseUrl/Booked_re_vtod.svg',
-  UnDrawIllustration.booking: '$baseUrl/booking_33fn.svg',
+  UnDrawIllustration.booking: '$baseUrl/Booking_re_gw4j.svg',
   UnDrawIllustration.bookmarks: '$baseUrl/bookmarks_r6up.svg',
   UnDrawIllustration.books: '$baseUrl/Books_l33t.svg',
   UnDrawIllustration.bookshelves: '$baseUrl/Bookshelves_re_lxoy.svg',
@@ -5300,7 +5308,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.business_chat: '$baseUrl/business_chat_ldig.svg',
   UnDrawIllustration.business_deal: '$baseUrl/business_deal_cpi9.svg',
   UnDrawIllustration.business_decisions: '$baseUrl/business_decisions_gjwy.svg',
-  UnDrawIllustration.business_plan: '$baseUrl/business_plan_5i9d.svg',
+  UnDrawIllustration.business_plan: '$baseUrl/Business_plan_re_0v81.svg',
   UnDrawIllustration.business_shop: '$baseUrl/business_shop_qw5t.svg',
   UnDrawIllustration.businessman: '$baseUrl/businessman_97x4.svg',
   UnDrawIllustration.businesswoman: '$baseUrl/businesswoman_pc12.svg',
@@ -5438,7 +5446,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.dashboard: '$baseUrl/dashboard_nklg.svg',
   UnDrawIllustration.data: '$baseUrl/data_xmfy.svg',
   UnDrawIllustration.data_extraction: '$baseUrl/data_extraction_ih3n.svg',
-  UnDrawIllustration.data_points: '$baseUrl/Data_points_ubvs.svg',
+  UnDrawIllustration.data_points: '$baseUrl/Data_points_re_vkpq.svg',
   UnDrawIllustration.data_processing: '$baseUrl/data_processing_yrrv.svg',
   UnDrawIllustration.data_report: '$baseUrl/data_report_bi6l.svg',
   UnDrawIllustration.data_reports: '$baseUrl/data_reports_706v.svg',
@@ -5533,7 +5541,7 @@ const illustrationMap = <UnDrawIllustration, String>{
       '$baseUrl/environmental_study_skau.svg',
   UnDrawIllustration.escaping: '$baseUrl/escaping_my1b.svg',
   UnDrawIllustration.ether: '$baseUrl/ethereum_desire_wy1b.svg',
-  UnDrawIllustration.ethereum: '$baseUrl/ethereum_fb7n.svg',
+  UnDrawIllustration.ethereum: '$baseUrl/Ethereum_re_0m68.svg',
   UnDrawIllustration.events: '$baseUrl/events_2p66.svg',
   UnDrawIllustration.everyday_design: '$baseUrl/everyday_design_gy64.svg',
   UnDrawIllustration.everyday_life: '$baseUrl/everyday_life_hjnw.svg',
@@ -5589,6 +5597,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.fitness_tracker: '$baseUrl/fitness_tracker_3033.svg',
   UnDrawIllustration.fitting_piece: '$baseUrl/fitting_piece_iilo.svg',
   UnDrawIllustration.fitting_pieces: '$baseUrl/fitting_pieces_cli3.svg',
+  UnDrawIllustration.fixing_bugs: '$baseUrl/fixing_bugs_qkdj.svg',
   UnDrawIllustration.floating: '$baseUrl/floating_61u6.svg',
   UnDrawIllustration.flowers: '$baseUrl/flowers_vx06.svg',
   UnDrawIllustration.focus: '$baseUrl/focus_sey6.svg',
@@ -5950,7 +5959,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.online_posts: '$baseUrl/online_posts_h475.svg',
   UnDrawIllustration.online_reading: '$baseUrl/online_reading_np7n.svg',
   UnDrawIllustration.online_resume: '$baseUrl/online_resume_qyys.svg',
-  UnDrawIllustration.online_shopping: '$baseUrl/online_shopping_ga73.svg',
+  UnDrawIllustration.online_shopping: '$baseUrl/Online_shopping_re_k1sv.svg',
   UnDrawIllustration.online_test: '$baseUrl/online_test_gba7.svg',
   UnDrawIllustration.online_transactions:
       '$baseUrl/online_transactions_02ka.svg',
@@ -5962,7 +5971,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.opened_tabs: '$baseUrl/opened_tabs_ly11.svg',
   UnDrawIllustration.operating_system: '$baseUrl/Operating_system_re_iqsc.svg',
   UnDrawIllustration.opinion: '$baseUrl/opinion_dxp8.svg',
-  UnDrawIllustration.optimize_image: '$baseUrl/optimize_image_yp8f.svg',
+  UnDrawIllustration.optimize_image: '$baseUrl/Optimize_image_re_3tb1.svg',
   UnDrawIllustration.options: '$baseUrl/options_2fvi.svg',
   UnDrawIllustration.order_a_car: '$baseUrl/order_a_car_3tww.svg',
   UnDrawIllustration.order_confirmed: '$baseUrl/order_confirmed_aaw7.svg',
@@ -6021,7 +6030,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.photo_session: '$baseUrl/photo_session_clqr.svg',
   UnDrawIllustration.photo_sharing: '$baseUrl/photo_sharing_1_85vy.svg',
   UnDrawIllustration.photocopy: '$baseUrl/photocopy_gj0t.svg',
-  UnDrawIllustration.photograph: '$baseUrl/photograph_rde1.svg',
+  UnDrawIllustration.photograph: '$baseUrl/Photograph_re_up3b.svg',
   UnDrawIllustration.photos: '$baseUrl/photos_1nui.svg',
   UnDrawIllustration.picture: '$baseUrl/picture_k52w.svg',
   UnDrawIllustration.pie_chart: '$baseUrl/pie_chart_6efe.svg',
@@ -6041,7 +6050,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.podcast_audience: '$baseUrl/podcast_audience_ddap.svg',
   UnDrawIllustration.polaroid: '$baseUrl/polaroid_gg6n.svg',
   UnDrawIllustration.popular: '$baseUrl/Popular_re_mlfe.svg',
-  UnDrawIllustration.portfolio: '$baseUrl/portfolio_essv.svg',
+  UnDrawIllustration.portfolio: '$baseUrl/Portfolio_re_qwm5.svg',
   UnDrawIllustration.portfolio_feedback: '$baseUrl/portfolio_feedback_exfk.svg',
   UnDrawIllustration.portfolio_update: '$baseUrl/Portfolio_update_re_jqnp.svg',
   UnDrawIllustration.portfolio_website: '$baseUrl/portfolio_website_lidw.svg',
@@ -6331,6 +6340,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.team_goals: '$baseUrl/team_goals_hrii.svg',
   UnDrawIllustration.team_page: '$baseUrl/Team_page_re_cffb.svg',
   UnDrawIllustration.team_spirit: '$baseUrl/team_spirit_hrr4.svg',
+  UnDrawIllustration.team_up: '$baseUrl/team_up_ip2x.svg',
   UnDrawIllustration.team_work: '$baseUrl/team_work_k80m.svg',
   UnDrawIllustration.teddy_bear: '$baseUrl/teddy_bear_hns1.svg',
   UnDrawIllustration.terms: '$baseUrl/Terms_re_6ak4.svg',
@@ -6396,7 +6406,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.upvote: '$baseUrl/upvote_96dp.svg',
   UnDrawIllustration.urban_design: '$baseUrl/urban_design_kpu8.svg',
   UnDrawIllustration.usability_testing: '$baseUrl/usability_testing_2xs4.svg',
-  UnDrawIllustration.user_flow: '$baseUrl/user_flow_vr6w.svg',
+  UnDrawIllustration.user_flow: '$baseUrl/User_flow_re_bvfx.svg',
   UnDrawIllustration.vr_chat: '$baseUrl/vr_chat_kq3p.svg',
   UnDrawIllustration.vault: '$baseUrl/vault_9cmw.svg',
   UnDrawIllustration.vehicle_sale: '$baseUrl/Vehicle_sale_a645.svg',
