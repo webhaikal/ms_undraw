@@ -118,7 +118,7 @@ enum UnDrawIllustration {
   add_to_cart,
 
   /// Title: Add user
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/add_user_ipe3.svg)
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Add_user_re_5oib.svg)
   add_user,
 
   /// Title: Address
@@ -1654,7 +1654,7 @@ enum UnDrawIllustration {
   fitting_pieces,
 
   /// Title: Fixing bugs
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fixing_bugs_qkdj.svg)
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fixing_bugs_w7gi.svg)
   fixing_bugs,
 
   /// Title: Floating
@@ -1664,6 +1664,10 @@ enum UnDrawIllustration {
   /// Title: Flowers
   /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/flowers_vx06.svg)
   flowers,
+
+  /// Title: Flutter dev
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/flutter_dev_wvqj.svg)
+  flutter_dev,
 
   /// Title: Focus
   /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/focus_sey6.svg)
@@ -2894,7 +2898,7 @@ enum UnDrawIllustration {
   ninja,
 
   /// Title: No data
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/no_data_qbuo.svg)
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/No_data_re_kwbl.svg)
   no_data,
 
   /// Title: Not found
@@ -3122,7 +3126,7 @@ enum UnDrawIllustration {
   optimize_image,
 
   /// Title: Options
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/options_2fvi.svg)
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Options_re_9vxh.svg)
   options,
 
   /// Title: Order a car
@@ -4134,7 +4138,7 @@ enum UnDrawIllustration {
   smartwatch,
 
   /// Title: Smiley face
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/smiley_face_lmgm.svg)
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Smiley_face_re_9uid.svg)
   smiley_face,
 
   /// Title: Snap the moment
@@ -4194,7 +4198,7 @@ enum UnDrawIllustration {
   social_life,
 
   /// Title: Social media
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/pcsocial_16rw.svg)
+  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Social_media_re_w12q.svg)
   social_media,
 
   /// Title: Social networking
@@ -5201,7 +5205,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.add_post: '$baseUrl/add_post_64nu.svg',
   UnDrawIllustration.add_tasks: '$baseUrl/add_tasks_mxew.svg',
   UnDrawIllustration.add_to_cart: '$baseUrl/add_to_cart_vkjp.svg',
-  UnDrawIllustration.add_user: '$baseUrl/add_user_ipe3.svg',
+  UnDrawIllustration.add_user: '$baseUrl/Add_user_re_5oib.svg',
   UnDrawIllustration.address: '$baseUrl/address_udes.svg',
   UnDrawIllustration.adjustments: '$baseUrl/adjustments_p22m.svg',
   UnDrawIllustration.advanced_customization:
@@ -5597,9 +5601,10 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.fitness_tracker: '$baseUrl/fitness_tracker_3033.svg',
   UnDrawIllustration.fitting_piece: '$baseUrl/fitting_piece_iilo.svg',
   UnDrawIllustration.fitting_pieces: '$baseUrl/fitting_pieces_cli3.svg',
-  UnDrawIllustration.fixing_bugs: '$baseUrl/fixing_bugs_qkdj.svg',
+  UnDrawIllustration.fixing_bugs: '$baseUrl/fixing_bugs_w7gi.svg',
   UnDrawIllustration.floating: '$baseUrl/floating_61u6.svg',
   UnDrawIllustration.flowers: '$baseUrl/flowers_vx06.svg',
+  UnDrawIllustration.flutter_dev: '$baseUrl/flutter_dev_wvqj.svg',
   UnDrawIllustration.focus: '$baseUrl/focus_sey6.svg',
   UnDrawIllustration.folder: '$baseUrl/folder_39kl.svg',
   UnDrawIllustration.folder_files: '$baseUrl/folder_files_nweq.svg',
@@ -5913,7 +5918,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.nextjs: '$baseUrl/next_js_8g5m.svg',
   UnDrawIllustration.night_calls: '$baseUrl/night_calls_5jh7.svg',
   UnDrawIllustration.ninja: '$baseUrl/ninja_e52b.svg',
-  UnDrawIllustration.no_data: '$baseUrl/no_data_qbuo.svg',
+  UnDrawIllustration.no_data: '$baseUrl/No_data_re_kwbl.svg',
   UnDrawIllustration.not_found: '$baseUrl/not_found_60pq.svg',
   UnDrawIllustration.note_list: '$baseUrl/Note_list_re_r4u9.svg',
   UnDrawIllustration.notebook: '$baseUrl/Notebook_tlkl.svg',
@@ -5972,7 +5977,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.operating_system: '$baseUrl/Operating_system_re_iqsc.svg',
   UnDrawIllustration.opinion: '$baseUrl/opinion_dxp8.svg',
   UnDrawIllustration.optimize_image: '$baseUrl/Optimize_image_re_3tb1.svg',
-  UnDrawIllustration.options: '$baseUrl/options_2fvi.svg',
+  UnDrawIllustration.options: '$baseUrl/Options_re_9vxh.svg',
   UnDrawIllustration.order_a_car: '$baseUrl/order_a_car_3tww.svg',
   UnDrawIllustration.order_confirmed: '$baseUrl/order_confirmed_aaw7.svg',
   UnDrawIllustration.order_delivered: '$baseUrl/order_delivered_p6ba.svg',
@@ -6239,7 +6244,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.smart_home: '$baseUrl/smart_home_28oy.svg',
   UnDrawIllustration.smart_resize: '$baseUrl/smart_resize_wpn8.svg',
   UnDrawIllustration.smartwatch: '$baseUrl/smartwatch_74tv.svg',
-  UnDrawIllustration.smiley_face: '$baseUrl/smiley_face_lmgm.svg',
+  UnDrawIllustration.smiley_face: '$baseUrl/Smiley_face_re_9uid.svg',
   UnDrawIllustration.snap_the_moment: '$baseUrl/snap_the_moment_oyn6.svg',
   UnDrawIllustration.snow_games: '$baseUrl/snow_games_ohkc.svg',
   UnDrawIllustration.snowman: '$baseUrl/snowman_1_a2ch.svg',
@@ -6254,7 +6259,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.social_influencer: '$baseUrl/social_influencer_sgsv.svg',
   UnDrawIllustration.social_interaction: '$baseUrl/social_interaction_cy9i.svg',
   UnDrawIllustration.social_life: '$baseUrl/social_life_4np1.svg',
-  UnDrawIllustration.social_media: '$baseUrl/pcsocial_16rw.svg',
+  UnDrawIllustration.social_media: '$baseUrl/Social_media_re_w12q.svg',
   UnDrawIllustration.social_networking: '$baseUrl/social_networking_nqk4.svg',
   UnDrawIllustration.social_notifications:
       '$baseUrl/social_notifications_ro8o.svg',
