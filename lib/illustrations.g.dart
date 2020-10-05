@@ -2,5171 +2,6463 @@
 /// Enums to help locate the correct illustration
 enum UnDrawIllustration {
   /// Title: 3d modeling
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/3d_modeling_h60h.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/3d_modeling_h60h.svg" alt="3d modeling" width="200"/>
   _3d_modeling,
 
   /// Title: A better world
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/a_better_world_9xfd.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/a_better_world_9xfd.svg" alt="A better world" width="200"/>
   a_better_world,
 
   /// Title: A day at the park
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/a_day_at_the_park_owg1.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/a_day_at_the_park_owg1.svg" alt="A day at the park" width="200"/>
   a_day_at_the_park,
 
   /// Title: A day off
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/a_day_off_w9ex.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/a_day_off_w9ex.svg" alt="A day off" width="200"/>
   a_day_off,
 
   /// Title: A moment to relax
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/a_moment_to_relax_bbpa.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/a_moment_to_relax_bbpa.svg" alt="A moment to relax" width="200"/>
   a_moment_to_relax,
 
   /// Title: A whole year
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/a_whole_year_vnfm.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/a_whole_year_vnfm.svg" alt="A whole year" width="200"/>
   a_whole_year,
 
   /// Title: About me
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/about_me_wa29.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/about_me_wa29.svg" alt="About me" width="200"/>
   about_me,
 
   /// Title: About us page
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/about_us_page_ee1k.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/about_us_page_ee1k.svg" alt="About us page" width="200"/>
   about_us_page,
 
   /// Title: Absorbed in
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/absorbed_in_xahs.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/absorbed_in_xahs.svg" alt="Absorbed in" width="200"/>
   absorbed_in,
 
   /// Title: Abstract
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/abstract_x68e.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/abstract_x68e.svg" alt="Abstract" width="200"/>
   abstract,
 
   /// Title: Accept request
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/accept_request_vdsd.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/accept_request_vdsd.svg" alt="Accept request" width="200"/>
   accept_request,
 
   /// Title: Accept tasks
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/accept_tasks_po1c.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/accept_tasks_po1c.svg" alt="Accept tasks" width="200"/>
   accept_tasks,
 
   /// Title: Accept terms
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/accept_terms_4in8.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/accept_terms_4in8.svg" alt="Accept terms" width="200"/>
   accept_terms,
 
   /// Title: Access account
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Access_account_re_8spm.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Access_account_re_8spm.svg" alt="Access account" width="200"/>
   access_account,
 
   /// Title: Access denied
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/access_denied_6w73.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/access_denied_6w73.svg" alt="Access denied" width="200"/>
   access_denied,
 
   /// Title: Account
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/account_490v.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/account_490v.svg" alt="Account" width="200"/>
   account,
 
   /// Title: Active options
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/active_options_8je6.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/active_options_8je6.svg" alt="Active options" width="200"/>
   active_options,
 
   /// Title: Active support
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/active_support_6rwo.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/active_support_6rwo.svg" alt="Active support" width="200"/>
   active_support,
 
   /// Title: Activity tracker
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/activity_tracker_1l9o.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/activity_tracker_1l9o.svg" alt="Activity tracker" width="200"/>
   activity_tracker,
 
   /// Title: Add color
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/add_color_19gv.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/add_color_19gv.svg" alt="Add color" width="200"/>
   add_color,
 
   /// Title: Add content
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Add_content_re_vgqa.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Add_content_re_vgqa.svg" alt="Add content" width="200"/>
   add_content,
 
   /// Title: Add document
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/add_document_0hek.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/add_document_0hek.svg" alt="Add document" width="200"/>
   add_document,
 
   /// Title: Add file
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/add_file_4gfw.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/add_file_4gfw.svg" alt="Add file" width="200"/>
   add_file,
 
   /// Title: Add files
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/add_file2_gvbb.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/add_file2_gvbb.svg" alt="Add files" width="200"/>
   add_files,
 
   /// Title: Add friends
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Add_friends_wa2a.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Add_friends_wa2a.svg" alt="Add friends" width="200"/>
   add_friends,
 
   /// Title: Add notes
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/add_notes_8cfw.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/add_notes_8cfw.svg" alt="Add notes" width="200"/>
   add_notes,
 
   /// Title: Add post
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/add_post_64nu.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/add_post_64nu.svg" alt="Add post" width="200"/>
   add_post,
 
   /// Title: Add tasks
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/add_tasks_mxew.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/add_tasks_mxew.svg" alt="Add tasks" width="200"/>
   add_tasks,
 
   /// Title: Add to cart
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/add_to_cart_vkjp.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/add_to_cart_vkjp.svg" alt="Add to cart" width="200"/>
   add_to_cart,
 
   /// Title: Add user
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Add_user_re_5oib.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Add_user_re_5oib.svg" alt="Add user" width="200"/>
   add_user,
 
   /// Title: Address
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/address_udes.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/address_udes.svg" alt="Address" width="200"/>
   address,
 
   /// Title: Adjustments
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/adjustments_p22m.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/adjustments_p22m.svg" alt="Adjustments" width="200"/>
   adjustments,
 
   /// Title: Advanced customization
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/advanced_customization_58j6.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/advanced_customization_58j6.svg" alt="Advanced customization" width="200"/>
   advanced_customization,
 
   /// Title: Adventure
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/adventure_4hum.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/adventure_4hum.svg" alt="Adventure" width="200"/>
   adventure,
 
   /// Title: After the rain
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/after_the_rain_58op.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/after_the_rain_58op.svg" alt="After the rain" width="200"/>
   after_the_rain,
 
   /// Title: Agree
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/agree_8pb9.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/agree_8pb9.svg" alt="Agree" width="200"/>
   agree,
 
   /// Title: Agreement
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/agreement_aajr.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/agreement_aajr.svg" alt="Agreement" width="200"/>
   agreement,
 
   /// Title: Air support
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/air_support_wy1q.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/air_support_wy1q.svg" alt="Air support" width="200"/>
   air_support,
 
   /// Title: Aircraft
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/aircraft_fbvl.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/aircraft_fbvl.svg" alt="Aircraft" width="200"/>
   aircraft,
 
   /// Title: Airport
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/airport_2581.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/airport_2581.svg" alt="Airport" width="200"/>
   airport,
 
   /// Title: Alert
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/alert_mc7b.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/alert_mc7b.svg" alt="Alert" width="200"/>
   alert,
 
   /// Title: Algolia
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/algolia_msba.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/algolia_msba.svg" alt="Algolia" width="200"/>
   algolia,
 
   /// Title: Alien science
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/alien_science_nonm.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/alien_science_nonm.svg" alt="Alien science" width="200"/>
   alien_science,
 
   /// Title: All the data
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/all_the_data_h4ki.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/all_the_data_h4ki.svg" alt="All the data" width="200"/>
   all_the_data,
 
   /// Title: Among nature
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/among_nature_p1xb.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/among_nature_p1xb.svg" alt="Among nature" width="200"/>
   among_nature,
 
   /// Title: Analysis
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Analysis_re_w2vd.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Analysis_re_w2vd.svg" alt="Analysis" width="200"/>
   analysis,
 
   /// Title: Analytics
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/analytics_5pgy.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/analytics_5pgy.svg" alt="Analytics" width="200"/>
   analytics,
 
   /// Title: Analyze
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/analyze_17kw.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/analyze_17kw.svg" alt="Analyze" width="200"/>
   analyze,
 
   /// Title: Android
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/android_jr64.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/android_jr64.svg" alt="Android" width="200"/>
   android,
 
   /// Title: Animating
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/animating_1rgh.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/animating_1rgh.svg" alt="Animating" width="200"/>
   animating,
 
   /// Title: Annotation
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/annotation_7das.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/annotation_7das.svg" alt="Annotation" width="200"/>
   annotation,
 
   /// Title: Anonymous feedback
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/anonymous_feedback_y3co.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/anonymous_feedback_y3co.svg" alt="Anonymous feedback" width="200"/>
   anonymous_feedback,
 
   /// Title: Apartment rent
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/apartment_rent_o0ut.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/apartment_rent_o0ut.svg" alt="Apartment rent" width="200"/>
   apartment_rent,
 
   /// Title: App data
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/app_data_516s.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/app_data_516s.svg" alt="App data" width="200"/>
   app_data,
 
   /// Title: App installation
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/app_installation_mbdv.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/app_installation_mbdv.svg" alt="App installation" width="200"/>
   app_installation,
 
   /// Title: App wireframe
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/app_wireframe_9ssu.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/app_wireframe_9ssu.svg" alt="App wireframe" width="200"/>
   app_wireframe,
 
   /// Title: Appreciation
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Appreciation_sjc1.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Appreciation_sjc1.svg" alt="Appreciation" width="200"/>
   appreciation,
 
   /// Title: Apps
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/apps_m7mh.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/apps_m7mh.svg" alt="Apps" width="200"/>
   apps,
 
   /// Title: Around the world
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Around_the_world_re_n353.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Around_the_world_re_n353.svg" alt="Around the world" width="200"/>
   around_the_world,
 
   /// Title: Arrived
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/arrived_f58d.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/arrived_f58d.svg" alt="Arrived" width="200"/>
   arrived,
 
   /// Title: Art
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/art_0tat.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/art_0tat.svg" alt="Art" width="200"/>
   art,
 
   /// Title: Art lover
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/art_lover_yjfr.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/art_lover_yjfr.svg" alt="Art lover" width="200"/>
   art_lover,
 
   /// Title: Art museum
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/art_museum_8or4.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/art_museum_8or4.svg" alt="Art museum" width="200"/>
   art_museum,
 
   /// Title: Art thinking
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/art_thinking_3g82.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/art_thinking_3g82.svg" alt="Art thinking" width="200"/>
   art_thinking,
 
   /// Title: Artificial intelligence
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Artificial_intelligence_re_enpp.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Artificial_intelligence_re_enpp.svg" alt="Artificial intelligence" width="200"/>
   artificial_intelligence,
 
   /// Title: Artist
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/artist_b4rc.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/artist_b4rc.svg" alt="Artist" width="200"/>
   artist,
 
   /// Title: Ask me anything
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/ask_me_anything_k8o0.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/ask_me_anything_k8o0.svg" alt="Ask me anything" width="200"/>
   ask_me_anything,
 
   /// Title: Asset selection
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/asset_selection_ix3v.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/asset_selection_ix3v.svg" alt="Asset selection" width="200"/>
   asset_selection,
 
   /// Title: Astronaut
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Astronaut_xko2.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Astronaut_xko2.svg" alt="Astronaut" width="200"/>
   astronaut,
 
   /// Title: At home
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/at_home_octe.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/at_home_octe.svg" alt="At home" width="200"/>
   at_home,
 
   /// Title: At the park
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/at_the_park_2e47.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/at_the_park_2e47.svg" alt="At the park" width="200"/>
   at_the_park,
 
   /// Title: At work
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/files_6b3d.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/files_6b3d.svg" alt="At work" width="200"/>
   at_work,
 
   /// Title: Attached file
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/attached_file_n4wm.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/attached_file_n4wm.svg" alt="Attached file" width="200"/>
   attached_file,
 
   /// Title: Audio conversation
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/audio_conversation_dgtw.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/audio_conversation_dgtw.svg" alt="Audio conversation" width="200"/>
   audio_conversation,
 
   /// Title: Audio player
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/audio_player_yty9.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/audio_player_yty9.svg" alt="Audio player" width="200"/>
   audio_player,
 
   /// Title: Augmented reality
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/augmented_reality_heuy.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/augmented_reality_heuy.svg" alt="Augmented reality" width="200"/>
   augmented_reality,
 
   /// Title: Authentication
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/authentication_fsn5.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/authentication_fsn5.svg" alt="Authentication" width="200"/>
   authentication,
 
   /// Title: Autumn
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/autumn_2_ygk5.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/autumn_2_ygk5.svg" alt="Autumn" width="200"/>
   autumn,
 
   /// Title: Awards
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/awards_fieb.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/awards_fieb.svg" alt="Awards" width="200"/>
   awards,
 
   /// Title: Baby
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/baby_ja7a.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/baby_ja7a.svg" alt="Baby" width="200"/>
   baby,
 
   /// Title: Back home
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/back_home_nl5c.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/back_home_nl5c.svg" alt="Back home" width="200"/>
   back_home,
 
   /// Title: Back in the day
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/back_in_the_day_knsh.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/back_in_the_day_knsh.svg" alt="Back in the day" width="200"/>
   back_in_the_day,
 
   /// Title: Back to school
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/back_to_school_inwc.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/back_to_school_inwc.svg" alt="Back to school" width="200"/>
   back_to_school,
 
   /// Title: Balloons
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/balloons_vxx5.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/balloons_vxx5.svg" alt="Balloons" width="200"/>
   balloons,
 
   /// Title: Barbecue
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/barbecue_3x93.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/barbecue_3x93.svg" alt="Barbecue" width="200"/>
   barbecue,
 
   /// Title: Barber
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/barber_3uel.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/barber_3uel.svg" alt="Barber" width="200"/>
   barber,
 
   /// Title: Basketball
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/basketball_agx4.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/basketball_agx4.svg" alt="Basketball" width="200"/>
   basketball,
 
   /// Title: Be the hero
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/be_the_hero_ssr2.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/be_the_hero_ssr2.svg" alt="Be the hero" width="200"/>
   be_the_hero,
 
   /// Title: Beach
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Beach_rvmg.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Beach_rvmg.svg" alt="Beach" width="200"/>
   beach,
 
   /// Title: Bear market
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/bear_market_ania.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/bear_market_ania.svg" alt="Bear market" width="200"/>
   bear_market,
 
   /// Title: Beer celebration
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Beer_celebration_cefj.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Beer_celebration_cefj.svg" alt="Beer celebration" width="200"/>
   beer_celebration,
 
   /// Title: Before dawn
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/before_dawn_bqrj.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/before_dawn_bqrj.svg" alt="Before dawn" width="200"/>
   before_dawn,
 
   /// Title: Begin chat
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/begin_chat_c6pj.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/begin_chat_c6pj.svg" alt="Begin chat" width="200"/>
   begin_chat,
 
   /// Title: Best place
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/best_place_r685.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/best_place_r685.svg" alt="Best place" width="200"/>
   best_place,
 
   /// Title: Bibliophile
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Bibliophile_hwqc.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Bibliophile_hwqc.svg" alt="Bibliophile" width="200"/>
   bibliophile,
 
   /// Title: Bike ride
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/bike_ride_7xit.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/bike_ride_7xit.svg" alt="Bike ride" width="200"/>
   bike_ride,
 
   /// Title: Biking
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/biking_kc4f.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/biking_kc4f.svg" alt="Biking" width="200"/>
   biking,
 
   /// Title: Birthday cake
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Birthday_cake_2wxy.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Birthday_cake_2wxy.svg" alt="Birthday cake" width="200"/>
   birthday_cake,
 
   /// Title: Birthday girl
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/birthday_girl_n46w.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/birthday_girl_n46w.svg" alt="Birthday girl" width="200"/>
   birthday_girl,
 
   /// Title: Bitcoin
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/bitcoin2_ave7.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/bitcoin2_ave7.svg" alt="Bitcoin" width="200"/>
   bitcoin,
 
   /// Title: Bitcoin P2P
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Bitcoin_P2P_re_1xqa.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Bitcoin_P2P_re_1xqa.svg" alt="Bitcoin P2P" width="200"/>
   bitcoin_p2p,
 
   /// Title: Black lives matter
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/black_lives_matter_rndk.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/black_lives_matter_rndk.svg" alt="Black lives matter" width="200"/>
   black_lives_matter,
 
   /// Title: Blank canvas
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/blank_canvas_3rbb.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/blank_canvas_3rbb.svg" alt="Blank canvas" width="200"/>
   blank_canvas,
 
   /// Title: Blog post
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/blog_anyj.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/blog_anyj.svg" alt="Blog post" width="200"/>
   blog_post,
 
   /// Title: Blogging
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/blogging_vpvv.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/blogging_vpvv.svg" alt="Blogging" width="200"/>
   blogging,
 
   /// Title: Blooming
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/blooming_jtv6.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/blooming_jtv6.svg" alt="Blooming" width="200"/>
   blooming,
 
   /// Title: Body text
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/body_text_l3ld.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/body_text_l3ld.svg" alt="Body text" width="200"/>
   body_text,
 
   /// Title: Book lover
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/book_lover_mkck.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/book_lover_mkck.svg" alt="Book lover" width="200"/>
   book_lover,
 
   /// Title: Book reading
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/book_reading_kx9s.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/book_reading_kx9s.svg" alt="Book reading" width="200"/>
   book_reading,
 
   /// Title: Booked
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Booked_re_vtod.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Booked_re_vtod.svg" alt="Booked" width="200"/>
   booked,
 
   /// Title: Booking
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Booking_re_gw4j.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Booking_re_gw4j.svg" alt="Booking" width="200"/>
   booking,
 
   /// Title: Bookmarks
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/bookmarks_r6up.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/bookmarks_r6up.svg" alt="Bookmarks" width="200"/>
   bookmarks,
 
   /// Title: Books
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Books_l33t.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Books_l33t.svg" alt="Books" width="200"/>
   books,
 
   /// Title: Bookshelves
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Bookshelves_re_lxoy.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Bookshelves_re_lxoy.svg" alt="Bookshelves" width="200"/>
   bookshelves,
 
   /// Title: Both sides
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/both_sides_hbv3.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/both_sides_hbv3.svg" alt="Both sides" width="200"/>
   both_sides,
 
   /// Title: Brainstorming
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Brainstorming_akrv.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Brainstorming_akrv.svg" alt="Brainstorming" width="200"/>
   brainstorming,
 
   /// Title: Breakfast
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/breakfast_psiw.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/breakfast_psiw.svg" alt="Breakfast" width="200"/>
   breakfast,
 
   /// Title: Breaking barriers
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/breaking_barriers_vnf3.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/breaking_barriers_vnf3.svg" alt="Breaking barriers" width="200"/>
   breaking_barriers,
 
   /// Title: Broadcast
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/broadcast_jhwx.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/broadcast_jhwx.svg" alt="Broadcast" width="200"/>
   broadcast,
 
   /// Title: Browser stats
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Browser_stats_av6t.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Browser_stats_av6t.svg" alt="Browser stats" width="200"/>
   browser_stats,
 
   /// Title: Browsing
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/browsing_urt9.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/browsing_urt9.svg" alt="Browsing" width="200"/>
   browsing,
 
   /// Title: Browsing online
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/browsing_online_sr8c.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/browsing_online_sr8c.svg" alt="Browsing online" width="200"/>
   browsing_online,
 
   /// Title: Buddies
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/buddies_tb1l.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/buddies_tb1l.svg" alt="Buddies" width="200"/>
   buddies,
 
   /// Title: Buffer
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/buffer_wq43.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/buffer_wq43.svg" alt="Buffer" width="200"/>
   buffer,
 
   /// Title: Bug fixing
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/bug_fixing_oc7a.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/bug_fixing_oc7a.svg" alt="Bug fixing" width="200"/>
   bug_fixing,
 
   /// Title: Build wireframe
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/build_wireframe_u9m2.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/build_wireframe_u9m2.svg" alt="Build wireframe" width="200"/>
   build_wireframe,
 
   /// Title: Build your home
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/build_your__home_csh6.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/build_your__home_csh6.svg" alt="Build your home" width="200"/>
   build_your_home,
 
   /// Title: Building
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Building_vpxo.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Building_vpxo.svg" alt="Building" width="200"/>
   building,
 
   /// Title: Building blocks
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/building_blocks_n0nc.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/building_blocks_n0nc.svg" alt="Building blocks" width="200"/>
   building_blocks,
 
   /// Title: Bus stop
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Bus_stop_8ib0.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Bus_stop_8ib0.svg" alt="Bus stop" width="200"/>
   bus_stop,
 
   /// Title: Business analytics
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Business_analytics_64el.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Business_analytics_64el.svg" alt="Business analytics" width="200"/>
   business_analytics,
 
   /// Title: Business chat
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/business_chat_ldig.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/business_chat_ldig.svg" alt="Business chat" width="200"/>
   business_chat,
 
   /// Title: Business deal
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/business_deal_cpi9.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/business_deal_cpi9.svg" alt="Business deal" width="200"/>
   business_deal,
 
   /// Title: Business decisions
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/business_decisions_gjwy.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/business_decisions_gjwy.svg" alt="Business decisions" width="200"/>
   business_decisions,
 
   /// Title: Business plan
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Business_plan_re_0v81.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Business_plan_re_0v81.svg" alt="Business plan" width="200"/>
   business_plan,
 
   /// Title: Business shop
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/business_shop_qw5t.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/business_shop_qw5t.svg" alt="Business shop" width="200"/>
   business_shop,
 
   /// Title: Businessman
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/businessman_97x4.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/businessman_97x4.svg" alt="Businessman" width="200"/>
   businessman,
 
   /// Title: Businesswoman
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/businesswoman_pc12.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/businesswoman_pc12.svg" alt="Businesswoman" width="200"/>
   businesswoman,
 
   /// Title: Button style
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/button_style_70y7.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/button_style_70y7.svg" alt="Button style" width="200"/>
   button_style,
 
   /// Title: Buy house
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/buy_house_560d.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/buy_house_560d.svg" alt="Buy house" width="200"/>
   buy_house,
 
   /// Title: By my car
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/by_my_car_ttge.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/by_my_car_ttge.svg" alt="By my car" width="200"/>
   by_my_car,
 
   /// Title: By the road
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/by_the_road_4rfk.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/by_the_road_4rfk.svg" alt="By the road" width="200"/>
   by_the_road,
 
   /// Title: Cabin
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/cabin_hkfr.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/cabin_hkfr.svg" alt="Cabin" width="200"/>
   cabin,
 
   /// Title: Calculator
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Calculator_0evy.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Calculator_0evy.svg" alt="Calculator" width="200"/>
   calculator,
 
   /// Title: Calendar
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/calendar_dutt.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/calendar_dutt.svg" alt="Calendar" width="200"/>
   calendar,
 
   /// Title: Calling
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/calling_kpbp.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/calling_kpbp.svg" alt="Calling" width="200"/>
   calling,
 
   /// Title: Camera
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Camera_re_cnp4.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Camera_re_cnp4.svg" alt="Camera" width="200"/>
   camera,
 
   /// Title: Campfire
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/campfire_s6y4.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/campfire_s6y4.svg" alt="Campfire" width="200"/>
   campfire,
 
   /// Title: Camping
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/camping_noc8.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/camping_noc8.svg" alt="Camping" width="200"/>
   camping,
 
   /// Title: Cancel
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/cancel_u1it.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/cancel_u1it.svg" alt="Cancel" width="200"/>
   cancel,
 
   /// Title: Candidate
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/candidate_ubwv.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/candidate_ubwv.svg" alt="Candidate" width="200"/>
   candidate,
 
   /// Title: Card postal
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/card_postal_5wvw.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/card_postal_5wvw.svg" alt="Card postal" width="200"/>
   card_postal,
 
   /// Title: Career development
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/career_development_oqcb.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/career_development_oqcb.svg" alt="Career development" width="200"/>
   career_development,
 
   /// Title: Cautious dog
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Cautious_dog_q83f.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Cautious_dog_q83f.svg" alt="Cautious dog" width="200"/>
   cautious_dog,
 
   /// Title: Celebrating
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/celebrating_bol5.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Celebrating_re_fsbq.svg" alt="Celebrating" width="200"/>
   celebrating,
 
   /// Title: Celebration
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/celebration_0jvk.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/celebration_0jvk.svg" alt="Celebration" width="200"/>
   celebration,
 
   /// Title: Certificate
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/certificate_343v.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/certificate_343v.svg" alt="Certificate" width="200"/>
   certificate,
 
   /// Title: Certification
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/certification_aif8.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/certification_aif8.svg" alt="Certification" width="200"/>
   certification,
 
   /// Title: Character drawing
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Character_drawing_ii11.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Character_drawing_ii11.svg" alt="Character drawing" width="200"/>
   character_drawing,
 
   /// Title: Charts
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Charts_re_5qe9.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Charts_re_5qe9.svg" alt="Charts" width="200"/>
   charts,
 
   /// Title: Chasing love
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/chasing_love_3v98.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/chasing_love_3v98.svg" alt="Chasing love" width="200"/>
   chasing_love,
 
   /// Title: Chat
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Chat_re_re1u.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Chat_re_re1u.svg" alt="Chat" width="200"/>
   chat,
 
   /// Title: Chat bot
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/chat_bot_kli5.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/chat_bot_kli5.svg" alt="Chat bot" width="200"/>
   chat_bot,
 
   /// Title: Chatting
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/chatting_2yvo.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/chatting_2yvo.svg" alt="Chatting" width="200"/>
   chatting,
 
   /// Title: Check boxes
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/check_boxes_m3d0.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/check_boxes_m3d0.svg" alt="Check boxes" width="200"/>
   check_boxes,
 
   /// Title: Checking boxes
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/checking_boxes_2ibd.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/checking_boxes_2ibd.svg" alt="Checking boxes" width="200"/>
   checking_boxes,
 
   /// Title: Checklist
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Checklist__re_2w7v.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Checklist__re_2w7v.svg" alt="Checklist" width="200"/>
   checklist,
 
   /// Title: Chef
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Chef_cu0r.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Chef_cu0r.svg" alt="Chef" width="200"/>
   chef,
 
   /// Title: Children
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/children_4rtb.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/children_4rtb.svg" alt="Children" width="200"/>
   children,
 
   /// Title: Chilling
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/chilling_8tii.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/chilling_8tii.svg" alt="Chilling" width="200"/>
   chilling,
 
   /// Title: Choice
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/choice_9385.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/choice_9385.svg" alt="Choice" width="200"/>
   choice,
 
   /// Title: Choose
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Choose_bwbs.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Choose_bwbs.svg" alt="Choose" width="200"/>
   choose,
 
   /// Title: Choosing house
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/choosing_house_v37h.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/choosing_house_v37h.svg" alt="Choosing house" width="200"/>
   choosing_house,
 
   /// Title: Chore list
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/chore_list_iof3.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/chore_list_iof3.svg" alt="Chore list" width="200"/>
   chore_list,
 
   /// Title: Christmas stocking
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Christmas_stocking_wux9.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Christmas_stocking_wux9.svg" alt="Christmas stocking" width="200"/>
   christmas_stocking,
 
   /// Title: Christmas tree
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/christmas_tree_56sw.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/christmas_tree_56sw.svg" alt="Christmas tree" width="200"/>
   christmas_tree,
 
   /// Title: Circles
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/circles_y7s2.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/circles_y7s2.svg" alt="Circles" width="200"/>
   circles,
 
   /// Title: Circuit
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/circuit_sdmr.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/circuit_sdmr.svg" alt="Circuit" width="200"/>
   circuit,
 
   /// Title: Circuit board
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/circuit_board_4c4d.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/circuit_board_4c4d.svg" alt="Circuit board" width="200"/>
   circuit_board,
 
   /// Title: City driver
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/city_driver_jh2h.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/city_driver_jh2h.svg" alt="City driver" width="200"/>
   city_driver,
 
   /// Title: City girl
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/city_girl_ccpd.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/city_girl_ccpd.svg" alt="City girl" width="200"/>
   city_girl,
 
   /// Title: Clean up
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/clean_up_ucm0.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/clean_up_ucm0.svg" alt="Clean up" width="200"/>
   clean_up,
 
   /// Title: Click here
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/click_here_2li1.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/click_here_2li1.svg" alt="Click here" width="200"/>
   click_here,
 
   /// Title: Close tab
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/close_tab_uk6g.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/close_tab_uk6g.svg" alt="Close tab" width="200"/>
   close_tab,
 
   /// Title: Cloud docs
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/cloud_docs_p4ob.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/cloud_docs_p4ob.svg" alt="Cloud docs" width="200"/>
   cloud_docs,
 
   /// Title: Cloud files
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/cloud_files_wmo8.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/cloud_files_wmo8.svg" alt="Cloud files" width="200"/>
   cloud_files,
 
   /// Title: Cloud hosting
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/cloud_hosting_aodd.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/cloud_hosting_aodd.svg" alt="Cloud hosting" width="200"/>
   cloud_hosting,
 
   /// Title: Cloud sync
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/cloud_sync_2aph.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/cloud_sync_2aph.svg" alt="Cloud sync" width="200"/>
   cloud_sync,
 
   /// Title: Co-workers
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/co-workers_ujs6.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/co-workers_ujs6.svg" alt="Co-workers" width="200"/>
   co_workers,
 
   /// Title: Co-working
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/co-working_825n.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/co-working_825n.svg" alt="Co-working" width="200"/>
   co_working,
 
   /// Title: Code inspection
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/code_inspection_bdl7.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/code_inspection_bdl7.svg" alt="Code inspection" width="200"/>
   code_inspection,
 
   /// Title: Code review
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/code_review_l1q9.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/code_review_l1q9.svg" alt="Code review" width="200"/>
   code_review,
 
   /// Title: Code thinking
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/code_thinking_1jeh.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/code_thinking_1jeh.svg" alt="Code thinking" width="200"/>
   code_thinking,
 
   /// Title: Code typing
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/code_typing_7jnv.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/code_typing_7jnv.svg" alt="Code typing" width="200"/>
   code_typing,
 
   /// Title: Coding
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/coding_6mjf.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/coding_6mjf.svg" alt="Coding" width="200"/>
   coding,
 
   /// Title: Coffee break
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/coffee_break_j3of.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/coffee_break_j3of.svg" alt="Coffee break" width="200"/>
   coffee_break,
 
   /// Title: Cohort analysis
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/cohort_analysis_stny.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/cohort_analysis_stny.svg" alt="Cohort analysis" width="200"/>
   cohort_analysis,
 
   /// Title: Collab
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/collab_8oes.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/collab_8oes.svg" alt="Collab" width="200"/>
   collab,
 
   /// Title: Collaborating
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/collaborating_g8k8.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/collaborating_g8k8.svg" alt="Collaborating" width="200"/>
   collaborating,
 
   /// Title: Collaboration
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/collaboration2_8og0.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/collaboration2_8og0.svg" alt="Collaboration" width="200"/>
   collaboration,
 
   /// Title: Collaborators
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/collaborators_prrw.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/collaborators_prrw.svg" alt="Collaborators" width="200"/>
   collaborators,
 
   /// Title: Collecting
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/collecting_fjjl.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/collecting_fjjl.svg" alt="Collecting" width="200"/>
   collecting,
 
   /// Title: Collection
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/collection_u2np.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/collection_u2np.svg" alt="Collection" width="200"/>
   collection,
 
   /// Title: Color palette
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/color_palette_yamk.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/color_palette_yamk.svg" alt="Color palette" width="200"/>
   color_palette,
 
   /// Title: Color schemes
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/color__schemes_wv48.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/color__schemes_wv48.svg" alt="Color schemes" width="200"/>
   color_schemes,
 
   /// Title: Coming home
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/coming_home_52ir.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/coming_home_52ir.svg" alt="Coming home" width="200"/>
   coming_home,
 
   /// Title: Community
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/community_8nwl.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/community_8nwl.svg" alt="Community" width="200"/>
   community,
 
   /// Title: Complete design
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/complete_design_ongo.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/complete_design_ongo.svg" alt="Complete design" width="200"/>
   complete_design,
 
   /// Title: Complete task
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/complete_task_u2c3.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/complete_task_u2c3.svg" alt="Complete task" width="200"/>
   complete_task,
 
   /// Title: Completed
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/completed_ngx6.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/completed_ngx6.svg" alt="Completed" width="200"/>
   completed,
 
   /// Title: Completed steps
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/completed_steps_yurw.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/completed_steps_yurw.svg" alt="Completed steps" width="200"/>
   completed_steps,
 
   /// Title: Completing
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/completing_6bhr.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/completing_6bhr.svg" alt="Completing" width="200"/>
   completing,
 
   /// Title: Compose music
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/compose_music_ovo2.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/compose_music_ovo2.svg" alt="Compose music" width="200"/>
   compose_music,
 
   /// Title: Composition
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/composition_oskp.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/composition_oskp.svg" alt="Composition" width="200"/>
   composition,
 
   /// Title: Conceptual idea
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/conceptual_idea_xw7k.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/conceptual_idea_xw7k.svg" alt="Conceptual idea" width="200"/>
   conceptual_idea,
 
   /// Title: Conference
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/conference_uo36.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/conference_uo36.svg" alt="Conference" width="200"/>
   conference,
 
   /// Title: Conference call
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/conference_call_b0w6.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/conference_call_b0w6.svg" alt="Conference call" width="200"/>
   conference_call,
 
   /// Title: Conference speaker
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/conference_speaker_6nt7.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/conference_speaker_6nt7.svg" alt="Conference speaker" width="200"/>
   conference_speaker,
 
   /// Title: Confidential letter
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/confidential_letter_w6ux.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/confidential_letter_w6ux.svg" alt="Confidential letter" width="200"/>
   confidential_letter,
 
   /// Title: Confirm
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Confirm_re_69me.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Confirm_re_69me.svg" alt="Confirm" width="200"/>
   confirm,
 
   /// Title: Confirmation
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/confirmation_2uy0.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/confirmation_2uy0.svg" alt="Confirmation" width="200"/>
   confirmation,
 
   /// Title: Confirmed
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/confirmed_81ex.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/confirmed_81ex.svg" alt="Confirmed" width="200"/>
   confirmed,
 
   /// Title: Connected
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/connected_8wvi.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/connected_8wvi.svg" alt="Connected" width="200"/>
   connected,
 
   /// Title: Connected world
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/connected_world_wuay.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/connected_world_wuay.svg" alt="Connected world" width="200"/>
   connected_world,
 
   /// Title: Connecting Teams
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Connecting_Teams_8ntu.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Connecting_Teams_8ntu.svg" alt="Connecting Teams" width="200"/>
   connecting_teams,
 
   /// Title: Connection
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/connection_b38q.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/connection_b38q.svg" alt="Connection" width="200"/>
   connection,
 
   /// Title: Contact us
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/contact_us_15o2.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/contact_us_15o2.svg" alt="Contact us" width="200"/>
   contact_us,
 
   /// Title: Container ship
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Container_ship_ok1c.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Container_ship_ok1c.svg" alt="Container ship" width="200"/>
   container_ship,
 
   /// Title: Contemplating
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Contemplating_re_ynec.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Contemplating_re_ynec.svg" alt="Contemplating" width="200"/>
   contemplating,
 
   /// Title: Content
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Content_re_33px.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Content_re_33px.svg" alt="Content" width="200"/>
   content,
 
   /// Title: Content creator
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/content_creator_xeju.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/content_creator_xeju.svg" alt="Content creator" width="200"/>
   content_creator,
 
   /// Title: Content structure
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/content_structure_79gj.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/content_structure_79gj.svg" alt="Content structure" width="200"/>
   content_structure,
 
   /// Title: Content team
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/content_team_3epn.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/content_team_3epn.svg" alt="Content team" width="200"/>
   content_team,
 
   /// Title: Contract
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/contract_uy56.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/contract_uy56.svg" alt="Contract" width="200"/>
   contract,
 
   /// Title: Contrast
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/contrast_vb82.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/contrast_vb82.svg" alt="Contrast" width="200"/>
   contrast,
 
   /// Title: Control panel
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/control_panel1_20gm.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/control_panel1_20gm.svg" alt="Control panel" width="200"/>
   control_panel,
 
   /// Title: Conversation
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/conversation_h12g.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/conversation_h12g.svg" alt="Conversation" width="200"/>
   conversation,
 
   /// Title: Convert
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/convert_2gjv.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/convert_2gjv.svg" alt="Convert" width="200"/>
   convert,
 
   /// Title: Cookie love
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/cookie_love_ulvn.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/cookie_love_ulvn.svg" alt="Cookie love" width="200"/>
   cookie_love,
 
   /// Title: Cooking
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/cooking_lyxy.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/cooking_lyxy.svg" alt="Cooking" width="200"/>
   cooking,
 
   /// Title: Coolness
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/coolness_dtmq.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/coolness_dtmq.svg" alt="Coolness" width="200"/>
   coolness,
 
   /// Title: Counting stars
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/counting_stars_rrnl.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/counting_stars_rrnl.svg" alt="Counting stars" width="200"/>
   counting_stars,
 
   /// Title: Country side
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Country_side_k696.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Country_side_k696.svg" alt="Country side" width="200"/>
   country_side,
 
   /// Title: Couple
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/couple_a7s9.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/couple_a7s9.svg" alt="Couple" width="200"/>
   couple,
 
   /// Title: Create
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/create_f05x.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/create_f05x.svg" alt="Create" width="200"/>
   create,
 
   /// Title: Creation
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/creation_rd0e.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/creation_rd0e.svg" alt="Creation" width="200"/>
   creation,
 
   /// Title: Creation process
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Creation_process_ukbh.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Creation_process_ukbh.svg" alt="Creation process" width="200"/>
   creation_process,
 
   /// Title: Creative draft
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/creative_draft_vb5x.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/creative_draft_vb5x.svg" alt="Creative draft" width="200"/>
   creative_draft,
 
   /// Title: Creative experiment
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/creative_experiment_8dk3.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/creative_experiment_8dk3.svg" alt="Creative experiment" width="200"/>
   creative_experiment,
 
   /// Title: Creative process
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Creative_process_re_4ylm.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Creative_process_re_4ylm.svg" alt="Creative process" width="200"/>
   creative_process,
 
   /// Title: Creative team
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/creative_team_r90h.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/creative_team_r90h.svg" alt="Creative team" width="200"/>
   creative_team,
 
   /// Title: Creative thinking
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/creative_thinking_b3bc.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/creative_thinking_b3bc.svg" alt="Creative thinking" width="200"/>
   creative_thinking,
 
   /// Title: Creative woman
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/creative_woman_v415.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/creative_woman_v415.svg" alt="Creative woman" width="200"/>
   creative_woman,
 
   /// Title: Creativity
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/creativity_wqmm.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/creativity_wqmm.svg" alt="Creativity" width="200"/>
   creativity,
 
   /// Title: Credit card
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Credit_card_re_blml.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Credit_card_re_blml.svg" alt="Credit card" width="200"/>
   credit_card,
 
   /// Title: Credit card payment
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/credit_card_payment_yb88.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/credit_card_payment_yb88.svg" alt="Credit card payment" width="200"/>
   credit_card_payment,
 
   /// Title: Credit card payments
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/credit_card_payment_12va.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/credit_card_payment_12va.svg" alt="Credit card payments" width="200"/>
   credit_card_payments,
 
   /// Title: Crypto flowers
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Crypto_flowers_bjmo.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Crypto_flowers_bjmo.svg" alt="Crypto flowers" width="200"/>
   crypto_flowers,
 
   /// Title: Crypto portfolio
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/crypto_portfolio_2jy5.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/crypto_portfolio_2jy5.svg" alt="Crypto portfolio" width="200"/>
   crypto_portfolio,
 
   /// Title: Cup of tea
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/cup_of_tea_6nqg.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/cup_of_tea_6nqg.svg" alt="Cup of tea" width="200"/>
   cup_of_tea,
 
   /// Title: Current location
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/current_location_rypt.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/current_location_rypt.svg" alt="Current location" width="200"/>
   current_location,
 
   /// Title: Customer survey
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/customer_survey_f9ur.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/customer_survey_f9ur.svg" alt="Customer survey" width="200"/>
   customer_survey,
 
   /// Title: Dark alley
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/dark_alley_hl3o.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/dark_alley_hl3o.svg" alt="Dark alley" width="200"/>
   dark_alley,
 
   /// Title: Dark analytics
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/dark_analytics_7axy.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/dark_analytics_7axy.svg" alt="Dark analytics" width="200"/>
   dark_analytics,
 
   /// Title: Dark mode
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/dark_mode_2xam.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/dark_mode_2xam.svg" alt="Dark mode" width="200"/>
   dark_mode,
 
   /// Title: Dashboard
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/dashboard_nklg.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/dashboard_nklg.svg" alt="Dashboard" width="200"/>
   dashboard,
 
   /// Title: Data
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/data_xmfy.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/data_xmfy.svg" alt="Data" width="200"/>
   data,
 
   /// Title: Data extraction
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/data_extraction_ih3n.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/data_extraction_ih3n.svg" alt="Data extraction" width="200"/>
   data_extraction,
 
   /// Title: Data points
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Data_points_re_vkpq.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Data_points_re_vkpq.svg" alt="Data points" width="200"/>
   data_points,
 
   /// Title: Data processing
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/data_processing_yrrv.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/data_processing_yrrv.svg" alt="Data processing" width="200"/>
   data_processing,
 
   /// Title: Data report
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/data_report_bi6l.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/data_report_bi6l.svg" alt="Data report" width="200"/>
   data_report,
 
   /// Title: Data reports
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/data_reports_706v.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/data_reports_706v.svg" alt="Data reports" width="200"/>
   data_reports,
 
   /// Title: Data trends
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/data_trends_b0wg.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/data_trends_b0wg.svg" alt="Data trends" width="200"/>
   data_trends,
 
   /// Title: Date night
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/date_night_bda8.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/date_night_bda8.svg" alt="Date night" width="200"/>
   date_night,
 
   /// Title: Date picker
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/date_picker_gorr.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/date_picker_gorr.svg" alt="Date picker" width="200"/>
   date_picker,
 
   /// Title: Decide
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/decide_3iwx.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/decide_3iwx.svg" alt="Decide" width="200"/>
   decide,
 
   /// Title: Deconstructed
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/deconstructed_alud.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/deconstructed_alud.svg" alt="Deconstructed" width="200"/>
   deconstructed,
 
   /// Title: Decorative friends
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/decorative_friends_q2np.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/decorative_friends_q2np.svg" alt="Decorative friends" width="200"/>
   decorative_friends,
 
   /// Title: Deliveries
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/deliveries_131a.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/deliveries_131a.svg" alt="Deliveries" width="200"/>
   deliveries,
 
   /// Title: Delivery
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Delivery_re_f50b.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Delivery_re_f50b.svg" alt="Delivery" width="200"/>
   delivery,
 
   /// Title: Delivery address
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/delivery_address_03n0.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/delivery_address_03n0.svg" alt="Delivery address" width="200"/>
   delivery_address,
 
   /// Title: Departing
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/departing_lsgy.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/departing_lsgy.svg" alt="Departing" width="200"/>
   departing,
 
   /// Title: Design community
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/design_community_rcft.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/design_community_rcft.svg" alt="Design community" width="200"/>
   design_community,
 
   /// Title: Design components
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/design_components_9vy6.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/design_components_9vy6.svg" alt="Design components" width="200"/>
   design_components,
 
   /// Title: Design data
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/design_data_khdb.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/design_data_khdb.svg" alt="Design data" width="200"/>
   design_data,
 
   /// Title: Design feedback
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/design_feedback_dexe.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/design_feedback_dexe.svg" alt="Design feedback" width="200"/>
   design_feedback,
 
   /// Title: Design inspiration
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/design_inspiration_fmjm.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/design_inspiration_fmjm.svg" alt="Design inspiration" width="200"/>
   design_inspiration,
 
   /// Title: Design notes
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/design_notes_8dmv.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/design_notes_8dmv.svg" alt="Design notes" width="200"/>
   design_notes,
 
   /// Title: Design objectives
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/design_objectives_fy1r.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/design_objectives_fy1r.svg" alt="Design objectives" width="200"/>
   design_objectives,
 
   /// Title: Design process
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/design_process_cxoh.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/design_process_cxoh.svg" alt="Design process" width="200"/>
   design_process,
 
   /// Title: Design sprint
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/design_sprint_x3eb.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/design_sprint_x3eb.svg" alt="Design sprint" width="200"/>
   design_sprint,
 
   /// Title: Design stats
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/design_stats_ne2k.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/design_stats_ne2k.svg" alt="Design stats" width="200"/>
   design_stats,
 
   /// Title: Design team
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/design_team_af2y.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/design_team_af2y.svg" alt="Design team" width="200"/>
   design_team,
 
   /// Title: Design thinking
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Design_thinking_re_644h.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Design_thinking_re_644h.svg" alt="Design thinking" width="200"/>
   design_thinking,
 
   /// Title: Design tools
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/design_tools_42tf.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/design_tools_42tf.svg" alt="Design tools" width="200"/>
   design_tools,
 
   /// Title: Designer
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Designer_by46.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Designer_by46.svg" alt="Designer" width="200"/>
   designer,
 
   /// Title: Designer girl
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Designer_girl_s028.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Designer_girl_s028.svg" alt="Designer girl" width="200"/>
   designer_girl,
 
   /// Title: Designer life
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/designer_life_w96d.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/designer_life_w96d.svg" alt="Designer life" width="200"/>
   designer_life,
 
   /// Title: Designer mindset
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Designer_mindset_re_2w1k.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Designer_mindset_re_2w1k.svg" alt="Designer mindset" width="200"/>
   designer_mindset,
 
   /// Title: Destination
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Destination_6jtj.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Destination_6jtj.svg" alt="Destination" width="200"/>
   destination,
 
   /// Title: Destinations
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/destinations_fpv7.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/destinations_fpv7.svg" alt="Destinations" width="200"/>
   destinations,
 
   /// Title: Detailed analysis
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/detailed_analysis_xn7y.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/detailed_analysis_xn7y.svg" alt="Detailed analysis" width="200"/>
   detailed_analysis,
 
   /// Title: Detailed examination
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/detailed_examination_joef.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/detailed_examination_joef.svg" alt="Detailed examination" width="200"/>
   detailed_examination,
 
   /// Title: Detailed information
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Detailed_information_re_qmuc.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Detailed_information_re_qmuc.svg" alt="Detailed information" width="200"/>
   detailed_information,
 
   /// Title: Dev focus
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/dev_focus_b9xo.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/dev_focus_b9xo.svg" alt="Dev focus" width="200"/>
   dev_focus,
 
   /// Title: Dev productivity
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/dev_productivity_umsq.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/dev_productivity_umsq.svg" alt="Dev productivity" width="200"/>
   dev_productivity,
 
   /// Title: Develop app
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/develop_app_kvt2.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/develop_app_kvt2.svg" alt="Develop app" width="200"/>
   develop_app,
 
   /// Title: Developer activity
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/developer_activity_bv83.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/developer_activity_bv83.svg" alt="Developer activity" width="200"/>
   developer_activity,
 
   /// Title: Development
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/development_ouy3.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/development_ouy3.svg" alt="Development" width="200"/>
   development,
 
   /// Title: Devices
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Devices_re_dxae.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Devices_re_dxae.svg" alt="Devices" width="200"/>
   devices,
 
   /// Title: Diary
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/diary_99km.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/diary_99km.svg" alt="Diary" width="200"/>
   diary,
 
   /// Title: Diet
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/diet_ghvw.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/diet_ghvw.svg" alt="Diet" width="200"/>
   diet,
 
   /// Title: Different love
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/different_love_a3rg.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/different_love_a3rg.svg" alt="Different love" width="200"/>
   different_love,
 
   /// Title: Digital currency
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/digital_currency_qpak.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/digital_currency_qpak.svg" alt="Digital currency" width="200"/>
   digital_currency,
 
   /// Title: Digital nomad
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/digital_nomad_9kgl.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/digital_nomad_9kgl.svg" alt="Digital nomad" width="200"/>
   digital_nomad,
 
   /// Title: Directions
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Directions_re_kjxs.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Directions_re_kjxs.svg" alt="Directions" width="200"/>
   directions,
 
   /// Title: Discount
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/discount_d4bd.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/discount_d4bd.svg" alt="Discount" width="200"/>
   discount,
 
   /// Title: Discoverable
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/discoverable_xwsc.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/discoverable_xwsc.svg" alt="Discoverable" width="200"/>
   discoverable,
 
   /// Title: Doctor
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/doctor_kw5l.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/doctor_kw5l.svg" alt="Doctor" width="200"/>
   doctor,
 
   /// Title: Doctors
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/doctors_hwty.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/doctors_hwty.svg" alt="Doctors" width="200"/>
   doctors,
 
   /// Title: Documents
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Documents_re_isxv.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Documents_re_isxv.svg" alt="Documents" width="200"/>
   documents,
 
   /// Title: Dog walking
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/dog_walking_0jpt.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/dog_walking_0jpt.svg" alt="Dog walking" width="200"/>
   dog_walking,
 
   /// Title: Doll play
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/doll_play_evbw.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/doll_play_evbw.svg" alt="Doll play" width="200"/>
   doll_play,
 
   /// Title: Domain names
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Domain_names_re_0uun.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Domain_names_re_0uun.svg" alt="Domain names" width="200"/>
   domain_names,
 
   /// Title: Done
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/done_a34v.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/done_a34v.svg" alt="Done" width="200"/>
   done,
 
   /// Title: Done checking
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Done_checking_re_6vyx.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Done_checking_re_6vyx.svg" alt="Done checking" width="200"/>
   done_checking,
 
   /// Title: Donut love
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/donut_love_kau1.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/donut_love_kau1.svg" alt="Donut love" width="200"/>
   donut_love,
 
   /// Title: Download
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/download_pc33.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/download_pc33.svg" alt="Download" width="200"/>
   download,
 
   /// Title: Download files
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/download_files_aydf.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/download_files_aydf.svg" alt="Download files" width="200"/>
   download_files,
 
   /// Title: Drag
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/drag_5i9w.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/drag_5i9w.svg" alt="Drag" width="200"/>
   drag,
 
   /// Title: Dream world
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/dream_world_cin1.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/dream_world_cin1.svg" alt="Dream world" width="200"/>
   dream_world,
 
   /// Title: Dreamer
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/dreamer_gxxi.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/dreamer_gxxi.svg" alt="Dreamer" width="200"/>
   dreamer,
 
   /// Title: Drone delivery
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/drone_delivery_5vrm.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/drone_delivery_5vrm.svg" alt="Drone delivery" width="200"/>
   drone_delivery,
 
   /// Title: Drone race
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/drone_race_0sim.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/drone_race_0sim.svg" alt="Drone race" width="200"/>
   drone_race,
 
   /// Title: Drone surveillance
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/drone_surveillance_kjjg.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/drone_surveillance_kjjg.svg" alt="Drone surveillance" width="200"/>
   drone_surveillance,
 
   /// Title: Dropdown menu
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/dropdown_menu_vv9j.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/dropdown_menu_vv9j.svg" alt="Dropdown menu" width="200"/>
   dropdown_menu,
 
   /// Title: Dua Lipa
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/dua_lipa_ixam.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/dua_lipa_ixam.svg" alt="Dua Lipa" width="200"/>
   dua_lipa,
 
   /// Title: Duplicate
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/duplicate_xac4.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/duplicate_xac4.svg" alt="Duplicate" width="200"/>
   duplicate,
 
   /// Title: Easter egg hunt
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/easter_egg_hunt_r36d.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/easter_egg_hunt_r36d.svg" alt="Easter egg hunt" width="200"/>
   easter_egg_hunt,
 
   /// Title: Eating together
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/eating_together_tjhx.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/eating_together_tjhx.svg" alt="Eating together" width="200"/>
   eating_together,
 
   /// Title: Eco conscious
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/eco_conscious_1y58.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/eco_conscious_1y58.svg" alt="Eco conscious" width="200"/>
   eco_conscious,
 
   /// Title: Edit photo
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/edit_photo_2m6o.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/edit_photo_2m6o.svg" alt="Edit photo" width="200"/>
   edit_photo,
 
   /// Title: Editable
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/editable_dywm.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/editable_dywm.svg" alt="Editable" width="200"/>
   editable,
 
   /// Title: Educator
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/educator_oxfm.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/educator_oxfm.svg" alt="Educator" width="200"/>
   educator,
 
   /// Title: Eiffel tower
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Eiffel_tower_3gw8.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Eiffel_tower_3gw8.svg" alt="Eiffel tower" width="200"/>
   eiffel_tower,
 
   /// Title: Electric car
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/electric_car_b7hl.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/electric_car_b7hl.svg" alt="Electric car" width="200"/>
   electric_car,
 
   /// Title: Elements
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/elements_cipa.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/elements_cipa.svg" alt="Elements" width="200"/>
   elements,
 
   /// Title: Email campaign
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Email_campaign_re_m6k5.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Email_campaign_re_m6k5.svg" alt="Email campaign" width="200"/>
   email_campaign,
 
   /// Title: Email capture
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/email_capture_x8kv.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/email_capture_x8kv.svg" alt="Email capture" width="200"/>
   email_capture,
 
   /// Title: Emails
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/emails_6uqr.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/emails_6uqr.svg" alt="Emails" width="200"/>
   emails,
 
   /// Title: Empty
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/empty_xct9.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/empty_xct9.svg" alt="Empty" width="200"/>
   empty,
 
   /// Title: Empty cart
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/empty_cart_co35.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/empty_cart_co35.svg" alt="Empty cart" width="200"/>
   empty_cart,
 
   /// Title: Empty street
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/empty_street_sfxm.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/empty_street_sfxm.svg" alt="Empty street" width="200"/>
   empty_street,
 
   /// Title: Energizer
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/energizer_2224.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/energizer_2224.svg" alt="Energizer" width="200"/>
   energizer,
 
   /// Title: Enter
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/enter_uhqk.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/enter_uhqk.svg" alt="Enter" width="200"/>
   enter,
 
   /// Title: Envelope
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/envelope_n8lc.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/envelope_n8lc.svg" alt="Envelope" width="200"/>
   envelope,
 
   /// Title: Environment
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/environment_iaus.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/environment_iaus.svg" alt="Environment" width="200"/>
   environment,
 
   /// Title: Environmental study
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/environmental_study_skau.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/environmental_study_skau.svg" alt="Environmental study" width="200"/>
   environmental_study,
 
   /// Title: Escaping
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/escaping_my1b.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/escaping_my1b.svg" alt="Escaping" width="200"/>
   escaping,
 
   /// Title: Ether
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/ethereum_desire_wy1b.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/ethereum_desire_wy1b.svg" alt="Ether" width="200"/>
   ether,
 
   /// Title: Ethereum
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Ethereum_re_0m68.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Ethereum_re_0m68.svg" alt="Ethereum" width="200"/>
   ethereum,
 
   /// Title: Events
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/events_2p66.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/events_2p66.svg" alt="Events" width="200"/>
   events,
 
   /// Title: Everyday design
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/everyday_design_gy64.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/everyday_design_gy64.svg" alt="Everyday design" width="200"/>
   everyday_design,
 
   /// Title: Everyday life
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/everyday_life_hjnw.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/everyday_life_hjnw.svg" alt="Everyday life" width="200"/>
   everyday_life,
 
   /// Title: Everywhere together
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/everywhere_together_bdmn.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/everywhere_together_bdmn.svg" alt="Everywhere together" width="200"/>
   everywhere_together,
 
   /// Title: Exams
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/exams_g4ow.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/exams_g4ow.svg" alt="Exams" width="200"/>
   exams,
 
   /// Title: Exciting news
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/exciting_news_ksse.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/exciting_news_ksse.svg" alt="Exciting news" width="200"/>
   exciting_news,
 
   /// Title: Experience design
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/experience_design_eq3j.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/experience_design_eq3j.svg" alt="Experience design" width="200"/>
   experience_design,
 
   /// Title: Experts
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/experts3_3njd.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/experts3_3njd.svg" alt="Experts" width="200"/>
   experts,
 
   /// Title: Explore
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/explore_7ofa.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/explore_7ofa.svg" alt="Explore" width="200"/>
   explore,
 
   /// Title: Exploring
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/exploring_1l7f.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/exploring_1l7f.svg" alt="Exploring" width="200"/>
   exploring,
 
   /// Title: Factory
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/factory_dy0a.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/factory_dy0a.svg" alt="Factory" width="200"/>
   factory,
 
   /// Title: Fall
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fall_thyk.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fall_thyk.svg" alt="Fall" width="200"/>
   fall,
 
   /// Title: Fall is coming
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Fall_is_coming_yl0x.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Fall_is_coming_yl0x.svg" alt="Fall is coming" width="200"/>
   fall_is_coming,
 
   /// Title: Fans
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fans_gr54.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fans_gr54.svg" alt="Fans" width="200"/>
   fans,
 
   /// Title: Faq
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/faq_rjoy.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/faq_rjoy.svg" alt="Faq" width="200"/>
   faq,
 
   /// Title: Farm girl
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/farm_girl_dnpe.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/farm_girl_dnpe.svg" alt="Farm girl" width="200"/>
   farm_girl,
 
   /// Title: Fashion blogging
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fashion_blogging_w9ol.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fashion_blogging_w9ol.svg" alt="Fashion blogging" width="200"/>
   fashion_blogging,
 
   /// Title: Fashion photoshoot
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fashion_photoshoot_mtq8.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fashion_photoshoot_mtq8.svg" alt="Fashion photoshoot" width="200"/>
   fashion_photoshoot,
 
   /// Title: Fast car
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fast_car_p4cu.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fast_car_p4cu.svg" alt="Fast car" width="200"/>
   fast_car,
 
   /// Title: Fast loading
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fast_loading_0lbh.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fast_loading_0lbh.svg" alt="Fast loading" width="200"/>
   fast_loading,
 
   /// Title: Fatherhood
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fatherhood_7i19.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fatherhood_7i19.svg" alt="Fatherhood" width="200"/>
   fatherhood,
 
   /// Title: Features overview
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/features_overview_jg7a.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/features_overview_jg7a.svg" alt="Features overview" width="200"/>
   features_overview,
 
   /// Title: Feedback
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/feedback_h2ft.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/feedback_h2ft.svg" alt="Feedback" width="200"/>
   feedback,
 
   /// Title: Feeling blue
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/feeling_blue_4b7q.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/feeling_blue_4b7q.svg" alt="Feeling blue" width="200"/>
   feeling_blue,
 
   /// Title: Feeling happy
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/feeling_happy_jymo.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/feeling_happy_jymo.svg" alt="Feeling happy" width="200"/>
   feeling_happy,
 
   /// Title: Feeling of joy
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Feeling_of_joy_re_cqko.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Feeling_of_joy_re_cqko.svg" alt="Feeling of joy" width="200"/>
   feeling_of_joy,
 
   /// Title: Feeling proud
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/feeling_proud_qne1.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/feeling_proud_qne1.svg" alt="Feeling proud" width="200"/>
   feeling_proud,
 
   /// Title: Female avatar
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/female_avatar_w3jk.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/female_avatar_w3jk.svg" alt="Female avatar" width="200"/>
   female_avatar,
 
   /// Title: Festivities
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/festivities_tvvj.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/festivities_tvvj.svg" alt="Festivities" width="200"/>
   festivities,
 
   /// Title: File analysis
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/file_analysis_8k9b.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/file_analysis_8k9b.svg" alt="File analysis" width="200"/>
   file_analysis,
 
   /// Title: File bundle
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/File_bundle_xl7g.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/File_bundle_xl7g.svg" alt="File bundle" width="200"/>
   file_bundle,
 
   /// Title: File manager
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/file_manager_j85s.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/file_manager_j85s.svg" alt="File manager" width="200"/>
   file_manager,
 
   /// Title: File searching
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/file_searching_duff.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/file_searching_duff.svg" alt="File searching" width="200"/>
   file_searching,
 
   /// Title: File sync
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/file_sync_ot38.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/file_sync_ot38.svg" alt="File sync" width="200"/>
   file_sync,
 
   /// Title: File synchronization
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/file_synchronization_8dh6.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/file_synchronization_8dh6.svg" alt="File synchronization" width="200"/>
   file_synchronization,
 
   /// Title: Files sent
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Files_sent_re_kv00.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Files_sent_re_kv00.svg" alt="Files sent" width="200"/>
   files_sent,
 
   /// Title: Filing system
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/filing_system_b5d2.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/filing_system_b5d2.svg" alt="Filing system" width="200"/>
   filing_system,
 
   /// Title: Fill forms
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fill_forms_yltj.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fill_forms_yltj.svg" alt="Fill forms" width="200"/>
   fill_forms,
 
   /// Title: Fill in
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fill_in_mie5.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fill_in_mie5.svg" alt="Fill in" width="200"/>
   fill_in,
 
   /// Title: Filter
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/filter_4kje.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/filter_4kje.svg" alt="Filter" width="200"/>
   filter,
 
   /// Title: Finance
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/finance_0bdk.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/finance_0bdk.svg" alt="Finance" width="200"/>
   finance,
 
   /// Title: Financial data
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/financial_data_es63.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/financial_data_es63.svg" alt="Financial data" width="200"/>
   financial_data,
 
   /// Title: Fingerprint
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Fingerprint_re_uf3f.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Fingerprint_re_uf3f.svg" alt="Fingerprint" width="200"/>
   fingerprint,
 
   /// Title: Finish line
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/finish_line_katerina_limpitsouni_xy20.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/finish_line_katerina_limpitsouni_xy20.svg" alt="Finish line" width="200"/>
   finish_line,
 
   /// Title: Fireworks
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fireworks_q5ji.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fireworks_q5ji.svg" alt="Fireworks" width="200"/>
   fireworks,
 
   /// Title: Firmware
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Firmware_jw6u.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Firmware_jw6u.svg" alt="Firmware" width="200"/>
   firmware,
 
   /// Title: Fish bowl
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fish_bowl_uu88.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fish_bowl_uu88.svg" alt="Fish bowl" width="200"/>
   fish_bowl,
 
   /// Title: Fishing
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fishing_hoxa.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fishing_hoxa.svg" alt="Fishing" width="200"/>
   fishing,
 
   /// Title: Fitness stats
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fitness_stats_sht6.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fitness_stats_sht6.svg" alt="Fitness stats" width="200"/>
   fitness_stats,
 
   /// Title: Fitness tracker
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fitness_tracker_3033.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fitness_tracker_3033.svg" alt="Fitness tracker" width="200"/>
   fitness_tracker,
 
   /// Title: Fitting piece
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fitting_piece_iilo.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fitting_piece_iilo.svg" alt="Fitting piece" width="200"/>
   fitting_piece,
 
   /// Title: Fitting pieces
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fitting_pieces_cli3.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fitting_pieces_cli3.svg" alt="Fitting pieces" width="200"/>
   fitting_pieces,
 
   /// Title: Fixing bugs
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fixing_bugs_w7gi.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fixing_bugs_w7gi.svg" alt="Fixing bugs" width="200"/>
   fixing_bugs,
 
   /// Title: Floating
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/floating_61u6.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/floating_61u6.svg" alt="Floating" width="200"/>
   floating,
 
   /// Title: Flowers
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/flowers_vx06.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/flowers_vx06.svg" alt="Flowers" width="200"/>
   flowers,
 
   /// Title: Flutter dev
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/flutter_dev_wvqj.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/flutter_dev_wvqj.svg" alt="Flutter dev" width="200"/>
   flutter_dev,
 
   /// Title: Focus
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/focus_sey6.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/focus_sey6.svg" alt="Focus" width="200"/>
   focus,
 
   /// Title: Folder
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/folder_39kl.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/folder_39kl.svg" alt="Folder" width="200"/>
   folder,
 
   /// Title: Folder files
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/folder_files_nweq.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/folder_files_nweq.svg" alt="Folder files" width="200"/>
   folder_files,
 
   /// Title: Follow me drone
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Follow_me_drone_kn76.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Follow_me_drone_kn76.svg" alt="Follow me drone" width="200"/>
   follow_me_drone,
 
   /// Title: Followers
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/followers_4i0p.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/followers_4i0p.svg" alt="Followers" width="200"/>
   followers,
 
   /// Title: Following
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/following_q0cr.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/following_q0cr.svg" alt="Following" width="200"/>
   following,
 
   /// Title: Font
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/font_kwpk.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/font_kwpk.svg" alt="Font" width="200"/>
   font,
 
   /// Title: For sale
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/for_sale_viax.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/for_sale_viax.svg" alt="For sale" width="200"/>
   for_sale,
 
   /// Title: Forever
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/forever_5ag7.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/forever_5ag7.svg" alt="Forever" width="200"/>
   forever,
 
   /// Title: Forgot password
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/forgot_password_gi2d.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/forgot_password_gi2d.svg" alt="Forgot password" width="200"/>
   forgot_password,
 
   /// Title: Forming ideas
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/forming_ideas_0pav.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/forming_ideas_0pav.svg" alt="Forming ideas" width="200"/>
   forming_ideas,
 
   /// Title: Forms
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/forms_78yw.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/forms_78yw.svg" alt="Forms" width="200"/>
   forms,
 
   /// Title: Freelancer
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Freelancer_re_irh4.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Freelancer_re_irh4.svg" alt="Freelancer" width="200"/>
   freelancer,
 
   /// Title: Fresh notification
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fresh_notification_bvtv.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fresh_notification_bvtv.svg" alt="Fresh notification" width="200"/>
   fresh_notification,
 
   /// Title: Friends
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/friends_r511.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/friends_r511.svg" alt="Friends" width="200"/>
   friends,
 
   /// Title: Friends online
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Friends_online_re_r7pq.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Friends_online_re_r7pq.svg" alt="Friends online" width="200"/>
   friends_online,
 
   /// Title: Friendship
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/friendship_mni7.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/friendship_mni7.svg" alt="Friendship" width="200"/>
   friendship,
 
   /// Title: Frozen figure
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/frozen_figure_omho.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/frozen_figure_omho.svg" alt="Frozen figure" width="200"/>
   frozen_figure,
 
   /// Title: Functions
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/functions_egi3.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/functions_egi3.svg" alt="Functions" width="200"/>
   functions,
 
   /// Title: Futuristic interface
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/futuristic_interface_4q3p.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/futuristic_interface_4q3p.svg" alt="Futuristic interface" width="200"/>
   futuristic_interface,
 
   /// Title: GDPR
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/gdpr_3xfb.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/gdpr_3xfb.svg" alt="GDPR" width="200"/>
   gdpr,
 
   /// Title: Game day
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/game_day_ucx9.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/game_day_ucx9.svg" alt="Game day" width="200"/>
   game_day,
 
   /// Title: Game world
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/game_world_0o6q.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/game_world_0o6q.svg" alt="Game world" width="200"/>
   game_world,
 
   /// Title: Gaming
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/gaming_6oy3.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/gaming_6oy3.svg" alt="Gaming" width="200"/>
   gaming,
 
   /// Title: Gardening
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Gardening_eaf3.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Gardening_eaf3.svg" alt="Gardening" width="200"/>
   gardening,
 
   /// Title: GatsbyJs
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/gatsbyjs_st4g.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/gatsbyjs_st4g.svg" alt="GatsbyJs" width="200"/>
   gatsbyjs,
 
   /// Title: Getting coffee
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/getting_coffee_wntr.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/getting_coffee_wntr.svg" alt="Getting coffee" width="200"/>
   getting_coffee,
 
   /// Title: Gift
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/gift1_sgf8.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/gift1_sgf8.svg" alt="Gift" width="200"/>
   gift,
 
   /// Title: Gift box
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Gift_box_re_vau4.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Gift_box_re_vau4.svg" alt="Gift box" width="200"/>
   gift_box,
 
   /// Title: Gift card
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/gift_card_6ekc.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/gift_card_6ekc.svg" alt="Gift card" width="200"/>
   gift_card,
 
   /// Title: Gifts
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/gifts_btw0.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/gifts_btw0.svg" alt="Gifts" width="200"/>
   gifts,
 
   /// Title: Girls just wanna have fun
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/girl_just_wanna_have_fun_9d5u.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/girl_just_wanna_have_fun_9d5u.svg" alt="Girls just wanna have fun" width="200"/>
   girls_just_wanna_have_fun,
 
   /// Title: Goal
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/goal_0v5v.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/goal_0v5v.svg" alt="Goal" width="200"/>
   goal,
 
   /// Title: Goals
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/goals_w8tw.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/goals_w8tw.svg" alt="Goals" width="200"/>
   goals,
 
   /// Title: Going offline
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/going_offline_ihag.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/going_offline_ihag.svg" alt="Going offline" width="200"/>
   going_offline,
 
   /// Title: Going up
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/going_up_ttm5.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/going_up_ttm5.svg" alt="Going up" width="200"/>
   going_up,
 
   /// Title: Golden gate bridge
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Golden_gate_bridge_jkph.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Golden_gate_bridge_jkph.svg" alt="Golden gate bridge" width="200"/>
   golden_gate_bridge,
 
   /// Title: Golf
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/golf_neir.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/golf_neir.svg" alt="Golf" width="200"/>
   golf,
 
   /// Title: Gone shopping
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/gone_shopping_vwmc.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/gone_shopping_vwmc.svg" alt="Gone shopping" width="200"/>
   gone_shopping,
 
   /// Title: Good doggy
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/good_doggy_4wfq.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/good_doggy_4wfq.svg" alt="Good doggy" width="200"/>
   good_doggy,
 
   /// Title: Good team
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/good_team_m7uu.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/good_team_m7uu.svg" alt="Good team" width="200"/>
   good_team,
 
   /// Title: Google analytics
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/google_analytics_a57d.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/google_analytics_a57d.svg" alt="Google analytics" width="200"/>
   google_analytics,
 
   /// Title: Google docs
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/google_docs_jf93.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/google_docs_jf93.svg" alt="Google docs" width="200"/>
   google_docs,
 
   /// Title: Grades
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/grades_j6jn.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/grades_j6jn.svg" alt="Grades" width="200"/>
   grades,
 
   /// Title: Graduation
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Graduation_ktn0.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Graduation_ktn0.svg" alt="Graduation" width="200"/>
   graduation,
 
   /// Title: Grand slam
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/grand_slam_0q5r.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/grand_slam_0q5r.svg" alt="Grand slam" width="200"/>
   grand_slam,
 
   /// Title: Grandma
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/gradma_wanr.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/gradma_wanr.svg" alt="Grandma" width="200"/>
   grandma,
 
   /// Title: Gravitas
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/gravitas_d3ep.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/gravitas_d3ep.svg" alt="Gravitas" width="200"/>
   gravitas,
 
   /// Title: Greek freak
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/greek_freak_j2qb.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/greek_freak_j2qb.svg" alt="Greek freak" width="200"/>
   greek_freak,
 
   /// Title: Grid design
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/grid_design_obmd.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/grid_design_obmd.svg" alt="Grid design" width="200"/>
   grid_design,
 
   /// Title: Group chat
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Group_chat_unwm.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Group_chat_unwm.svg" alt="Group chat" width="200"/>
   group_chat,
 
   /// Title: Group hangout
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/group_hangout_5gmq.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/group_hangout_5gmq.svg" alt="Group hangout" width="200"/>
   group_hangout,
 
   /// Title: Group selfie
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/group_selfie_ijc6.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/group_selfie_ijc6.svg" alt="Group selfie" width="200"/>
   group_selfie,
 
   /// Title: Group video
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/group_video_el8e.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/group_video_el8e.svg" alt="Group video" width="200"/>
   group_video,
 
   /// Title: Growing
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Growing_qwt2.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Growing_qwt2.svg" alt="Growing" width="200"/>
   growing,
 
   /// Title: Growth analytics
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/growth_analytics_8btt.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/growth_analytics_8btt.svg" alt="Growth analytics" width="200"/>
   growth_analytics,
 
   /// Title: Growth chart
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/growth_chart_r99m.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/growth_chart_r99m.svg" alt="Growth chart" width="200"/>
   growth_chart,
 
   /// Title: Growth curve
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/growth_curve_8mqx.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/growth_curve_8mqx.svg" alt="Growth curve" width="200"/>
   growth_curve,
 
   /// Title: Hacker mind
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/hacker_mind_6y85.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/hacker_mind_6y85.svg" alt="Hacker mind" width="200"/>
   hacker_mind,
 
   /// Title: Hacker mindset
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/hacker_mindset_gjwq.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/hacker_mindset_gjwq.svg" alt="Hacker mindset" width="200"/>
   hacker_mindset,
 
   /// Title: Hamburger
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Hamburger_8ge6.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Hamburger_8ge6.svg" alt="Hamburger" width="200"/>
   hamburger,
 
   /// Title: Hang out
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/hang_out_h9ud.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/hang_out_h9ud.svg" alt="Hang out" width="200"/>
   hang_out,
 
   /// Title: Happy 2019
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/happy_2019_jq3f.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/happy_2019_jq3f.svg" alt="Happy 2019" width="200"/>
   happy_2019,
 
   /// Title: Happy announcement
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/happy_announcement_ac67.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/happy_announcement_ac67.svg" alt="Happy announcement" width="200"/>
   happy_announcement,
 
   /// Title: Happy birthday
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/happy_birthday_s72n.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/happy_birthday_s72n.svg" alt="Happy birthday" width="200"/>
   happy_birthday,
 
   /// Title: Happy feeling
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/happy_feeling_slmw.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/happy_feeling_slmw.svg" alt="Happy feeling" width="200"/>
   happy_feeling,
 
   /// Title: Happy music
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/happy_music_g6wc.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/happy_music_g6wc.svg" alt="Happy music" width="200"/>
   happy_music,
 
   /// Title: Happy news
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/happy_news_hxmt.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/happy_news_hxmt.svg" alt="Happy news" width="200"/>
   happy_news,
 
   /// Title: Happy women day
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/happy_women_day_fbjt.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/happy_women_day_fbjt.svg" alt="Happy women day" width="200"/>
   happy_women_day,
 
   /// Title: Having fun
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/having_fun_iais.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/having_fun_iais.svg" alt="Having fun" width="200"/>
   having_fun,
 
   /// Title: Healthy habit
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/healthy_habit_bh5w.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/healthy_habit_bh5w.svg" alt="Healthy habit" width="200"/>
   healthy_habit,
 
   /// Title: Healthy lifestyle
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/healthy_lifestyle_6tyl.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/healthy_lifestyle_6tyl.svg" alt="Healthy lifestyle" width="200"/>
   healthy_lifestyle,
 
   /// Title: Healthy options
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/healthy_options_sdo3.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/healthy_options_sdo3.svg" alt="Healthy options" width="200"/>
   healthy_options,
 
   /// Title: Heartbroken
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/heartbroken_cble.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/heartbroken_cble.svg" alt="Heartbroken" width="200"/>
   heartbroken,
 
   /// Title: Heatmap
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/heatmap_uyye.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/heatmap_uyye.svg" alt="Heatmap" width="200"/>
   heatmap,
 
   /// Title: Heavy box
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/heavy_box_agqi.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/heavy_box_agqi.svg" alt="Heavy box" width="200"/>
   heavy_box,
 
   /// Title: Hello
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Hello_qnas.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Hello_qnas.svg" alt="Hello" width="200"/>
   hello,
 
   /// Title: Helpful sign
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Helpful_sign_re_8ms5.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Helpful_sign_re_8ms5.svg" alt="Helpful sign" width="200"/>
   helpful_sign,
 
   /// Title: Hey by Basecamp
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/hey_email_liaa.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/hey_email_liaa.svg" alt="Hey by Basecamp" width="200"/>
   hey_by_basecamp,
 
   /// Title: High five
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/High_five_u364.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/High_five_u364.svg" alt="High five" width="200"/>
   high_five,
 
   /// Title: Hiking
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/hiking_d24r.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/hiking_d24r.svg" alt="Hiking" width="200"/>
   hiking,
 
   /// Title: Hire
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/hire_te5y.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/hire_te5y.svg" alt="Hire" width="200"/>
   hire,
 
   /// Title: Hiring
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/hiring_cyhs.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/hiring_cyhs.svg" alt="Hiring" width="200"/>
   hiring,
 
   /// Title: Hologram
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/hologram_fjwp.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/hologram_fjwp.svg" alt="Hologram" width="200"/>
   hologram,
 
   /// Title: Home cinema
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/home_cinema_l7yl.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/home_cinema_l7yl.svg" alt="Home cinema" width="200"/>
   home_cinema,
 
   /// Title: Home run
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/home_run_oerh.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/home_run_oerh.svg" alt="Home run" width="200"/>
   home_run,
 
   /// Title: Home screen
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/home_screen_4n7s.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/home_screen_4n7s.svg" alt="Home screen" width="200"/>
   home_screen,
 
   /// Title: Home settings
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Home_settings_re_pkya.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Home_settings_re_pkya.svg" alt="Home settings" width="200"/>
   home_settings,
 
   /// Title: Hooked
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/hooked_c757.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/hooked_c757.svg" alt="Hooked" width="200"/>
   hooked,
 
   /// Title: Horror movie
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/horror_movie_3988.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/horror_movie_3988.svg" alt="Horror movie" width="200"/>
   horror_movie,
 
   /// Title: Hot beverage
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/hot_beverage_2vw3.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/hot_beverage_2vw3.svg" alt="Hot beverage" width="200"/>
   hot_beverage,
 
   /// Title: House searching
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/house_searching_n8mp.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/house_searching_n8mp.svg" alt="House searching" width="200"/>
   house_searching,
 
   /// Title: Houses
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/houses3_xwf7.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/houses3_xwf7.svg" alt="Houses" width="200"/>
   houses,
 
   /// Title: I can fly
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/i_can_fly_7egl.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/i_can_fly_7egl.svg" alt="I can fly" width="200"/>
   i_can_fly,
 
   /// Title: Ice cream
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/ice_cream_s2rh.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/ice_cream_s2rh.svg" alt="Ice cream" width="200"/>
   ice_cream,
 
   /// Title: Icon design
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/icon_design_qvdf.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/icon_design_qvdf.svg" alt="Icon design" width="200"/>
   icon_design,
 
   /// Title: Ideas
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/ideas_s70l.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/ideas_s70l.svg" alt="Ideas" width="200"/>
   ideas,
 
   /// Title: Ideas flow
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/ideas_flow_cy7b.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/ideas_flow_cy7b.svg" alt="Ideas flow" width="200"/>
   ideas_flow,
 
   /// Title: Ideation
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/ideation_2a64.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/ideation_2a64.svg" alt="Ideation" width="200"/>
   ideation,
 
   /// Title: Image focus
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/image_focus_wm20.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/image_focus_wm20.svg" alt="Image focus" width="200"/>
   image_focus,
 
   /// Title: Image folder
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Image__folder_re_hgp7.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Image__folder_re_hgp7.svg" alt="Image folder" width="200"/>
   image_folder,
 
   /// Title: Image options
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/image_options_7uph.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/image_options_7uph.svg" alt="Image options" width="200"/>
   image_options,
 
   /// Title: Image post
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/image_post_24iy.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/image_post_24iy.svg" alt="Image post" width="200"/>
   image_post,
 
   /// Title: Image upload
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/image_upload_wqh3.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/image_upload_wqh3.svg" alt="Image upload" width="200"/>
   image_upload,
 
   /// Title: Image viewer
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/image_viewer_wxce.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/image_viewer_wxce.svg" alt="Image viewer" width="200"/>
   image_viewer,
 
   /// Title: Images
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/images_aef7.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/images_aef7.svg" alt="Images" width="200"/>
   images,
 
   /// Title: Imagination
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Imagination_re_i0xi.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Imagination_re_i0xi.svg" alt="Imagination" width="200"/>
   imagination,
 
   /// Title: In love
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/in_love_3dcq.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/in_love_3dcq.svg" alt="In love" width="200"/>
   in_love,
 
   /// Title: In no time
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/in_no_time_6igu.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/in_no_time_6igu.svg" alt="In no time" width="200"/>
   in_no_time,
 
   /// Title: In progress
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/in_progress_ql66.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/in_progress_ql66.svg" alt="In progress" width="200"/>
   in_progress,
 
   /// Title: In real life
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/in_real_life_v8fk.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/in_real_life_v8fk.svg" alt="In real life" width="200"/>
   in_real_life,
 
   /// Title: In sync
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/in_sync_xwsa.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/in_sync_xwsa.svg" alt="In sync" width="200"/>
   in_sync,
 
   /// Title: In the office
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/in_the_office_o44c.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/in_the_office_o44c.svg" alt="In the office" width="200"/>
   in_the_office,
 
   /// Title: In the pool
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/in_the_pool_c5h0.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/in_the_pool_c5h0.svg" alt="In the pool" width="200"/>
   in_the_pool,
 
   /// Title: In thought
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/in_thought_gjsf.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/in_thought_gjsf.svg" alt="In thought" width="200"/>
   in_thought,
 
   /// Title: Inbox
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/inbox_oppv.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/inbox_oppv.svg" alt="Inbox" width="200"/>
   inbox,
 
   /// Title: Inbox cleanup
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/inbox_cleanup_w2ur.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/inbox_cleanup_w2ur.svg" alt="Inbox cleanup" width="200"/>
   inbox_cleanup,
 
   /// Title: Indoor bike
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/indoor_bike_pwa4.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/indoor_bike_pwa4.svg" alt="Indoor bike" width="200"/>
   indoor_bike,
 
   /// Title: Influencer
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/influencer_d3xx.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/influencer_d3xx.svg" alt="Influencer" width="200"/>
   influencer,
 
   /// Title: Information tab
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/information_tab_ocka.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/information_tab_ocka.svg" alt="Information tab" width="200"/>
   information_tab,
 
   /// Title: Informed decision
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/informed_decision_p2lh.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/informed_decision_p2lh.svg" alt="Informed decision" width="200"/>
   informed_decision,
 
   /// Title: Innovative
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/innovative_b409.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/innovative_b409.svg" alt="Innovative" width="200"/>
   innovative,
 
   /// Title: Insert
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/insert_08ir.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/insert_08ir.svg" alt="Insert" width="200"/>
   insert,
 
   /// Title: Insert block
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/insert_block_efyb.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/insert_block_efyb.svg" alt="Insert block" width="200"/>
   insert_block,
 
   /// Title: Inspection
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/inspection_9phc.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/inspection_9phc.svg" alt="Inspection" width="200"/>
   inspection,
 
   /// Title: Inspiration
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/inspiration_lecl.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/inspiration_lecl.svg" alt="Inspiration" width="200"/>
   inspiration,
 
   /// Title: Instant analysis
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/instat_analysis_ajld.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/instat_analysis_ajld.svg" alt="Instant analysis" width="200"/>
   instant_analysis,
 
   /// Title: Instant information
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/instant_information_6755.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/instant_information_6755.svg" alt="Instant information" width="200"/>
   instant_information,
 
   /// Title: Instant support
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/instant_support_elxh.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/instant_support_elxh.svg" alt="Instant support" width="200"/>
   instant_support,
 
   /// Title: Instruction manual
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/instruction_manual_cyae.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/instruction_manual_cyae.svg" alt="Instruction manual" width="200"/>
   instruction_manual,
 
   /// Title: Intense feeling
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/intense_feeling_ft9s.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/intense_feeling_ft9s.svg" alt="Intense feeling" width="200"/>
   intense_feeling,
 
   /// Title: Interaction design
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/interaction_design_odgc.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/interaction_design_odgc.svg" alt="Interaction design" width="200"/>
   interaction_design,
 
   /// Title: Interior design
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/interior_design_9i70.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/interior_design_9i70.svg" alt="Interior design" width="200"/>
   interior_design,
 
   /// Title: Internet on the go
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Internet_on_the_go_5xx0.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Internet_on_the_go_5xx0.svg" alt="Internet on the go" width="200"/>
   internet_on_the_go,
 
   /// Title: Interview
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/interview_rmcf.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/interview_rmcf.svg" alt="Interview" width="200"/>
   interview,
 
   /// Title: Into the night
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/into_the_night_vumi.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/into_the_night_vumi.svg" alt="Into the night" width="200"/>
   into_the_night,
 
   /// Title: Invest
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/invest_88iw.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/invest_88iw.svg" alt="Invest" width="200"/>
   invest,
 
   /// Title: Investing
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/investing_7u74.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/investing_7u74.svg" alt="Investing" width="200"/>
   investing,
 
   /// Title: Investment
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/investment_xv9d.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/investment_xv9d.svg" alt="Investment" width="200"/>
   investment,
 
   /// Title: Investment data
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/investment_data_yfvt.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/investment_data_yfvt.svg" alt="Investment data" width="200"/>
   investment_data,
 
   /// Title: Invite
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Invite_re_rrcp.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Invite_re_rrcp.svg" alt="Invite" width="200"/>
   invite,
 
   /// Title: Japan
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/japan_ubgk.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/japan_ubgk.svg" alt="Japan" width="200"/>
   japan,
 
   /// Title: Jason mask
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/jason_mask_t07o.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/jason_mask_t07o.svg" alt="Jason mask" width="200"/>
   jason_mask,
 
   /// Title: JavaScript frameworks
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/JavaScript_frameworks_8qpc.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/JavaScript_frameworks_8qpc.svg" alt="JavaScript frameworks" width="200"/>
   javascript_frameworks,
 
   /// Title: Jewelry
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/jewelry_iima.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/jewelry_iima.svg" alt="Jewelry" width="200"/>
   jewelry,
 
   /// Title: Job hunt
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Job_hunt_tinb.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Job_hunt_tinb.svg" alt="Job hunt" width="200"/>
   job_hunt,
 
   /// Title: Job offers
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/job_offers_kw5d.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/job_offers_kw5d.svg" alt="Job offers" width="200"/>
   job_offers,
 
   /// Title: Jogging
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Jogging_t14q.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Jogging_t14q.svg" alt="Jogging" width="200"/>
   jogging,
 
   /// Title: Join
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/join_of2w.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/join_of2w.svg" alt="Join" width="200"/>
   join,
 
   /// Title: Journey
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/journey_lwlj.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/journey_lwlj.svg" alt="Journey" width="200"/>
   journey,
 
   /// Title: Joyride
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/joyride_hnno.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/joyride_hnno.svg" alt="Joyride" width="200"/>
   joyride,
 
   /// Title: Judge
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/judge_katerina_limpitsouni_ny1q.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/judge_katerina_limpitsouni_ny1q.svg" alt="Judge" width="200"/>
   judge,
 
   /// Title: Junior soccer
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/junior_soccer_6sop.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/junior_soccer_6sop.svg" alt="Junior soccer" width="200"/>
   junior_soccer,
 
   /// Title: Just browsing
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/just_browsing_m0vg.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/just_browsing_m0vg.svg" alt="Just browsing" width="200"/>
   just_browsing,
 
   /// Title: Just saying
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Just_saying_re_kw9c.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Just_saying_re_kw9c.svg" alt="Just saying" width="200"/>
   just_saying,
 
   /// Title: Key points
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/key_points_ig28.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/key_points_ig28.svg" alt="Key points" width="200"/>
   key_points,
 
   /// Title: Knowledge
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/knowledge_g5gf.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/knowledge_g5gf.svg" alt="Knowledge" width="200"/>
   knowledge,
 
   /// Title: Landing page
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Landing_page_re_6xev.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Landing_page_re_6xev.svg" alt="Landing page" width="200"/>
   landing_page,
 
   /// Title: Landscape mode
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/landscape_mode_53ej.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/landscape_mode_53ej.svg" alt="Landscape mode" width="200"/>
   landscape_mode,
 
   /// Title: Laravel and vue
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/laravel_and_vue_59tp.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/laravel_and_vue_59tp.svg" alt="Laravel and vue" width="200"/>
   laravel_and_vue,
 
   /// Title: Late at night
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/late_at_night_23xk.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/late_at_night_23xk.svg" alt="Late at night" width="200"/>
   late_at_night,
 
   /// Title: Launch day
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/launch_day_4e04.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/launch_day_4e04.svg" alt="Launch day" width="200"/>
   launch_day,
 
   /// Title: Launching
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/launching_125y.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/launching_125y.svg" alt="Launching" width="200"/>
   launching,
 
   /// Title: Learning
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/learning_2q1h.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/learning_2q1h.svg" alt="Learning" width="200"/>
   learning,
 
   /// Title: Letter
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Letter_re_8m03.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Letter_re_8m03.svg" alt="Letter" width="200"/>
   letter,
 
   /// Title: Light the fire
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/light_the_fire_gt58.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/light_the_fire_gt58.svg" alt="Light the fire" width="200"/>
   light_the_fire,
 
   /// Title: Lightbulb moment
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/lightbulb_moment_evxr.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/lightbulb_moment_evxr.svg" alt="Lightbulb moment" width="200"/>
   lightbulb_moment,
 
   /// Title: Lighthouse
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Lighthouse_frb8.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Lighthouse_frb8.svg" alt="Lighthouse" width="200"/>
   lighthouse,
 
   /// Title: Like dislike
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/like_dislike_1dfj.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/like_dislike_1dfj.svg" alt="Like dislike" width="200"/>
   like_dislike,
 
   /// Title: Link shortener
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/link_shortener_mvf6.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/link_shortener_mvf6.svg" alt="Link shortener" width="200"/>
   link_shortener,
 
   /// Title: Listening
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/listening_1u79.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/listening_1u79.svg" alt="Listening" width="200"/>
   listening,
 
   /// Title: Live collaboration
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/live_collaboration_2r4y.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/live_collaboration_2r4y.svg" alt="Live collaboration" width="200"/>
   live_collaboration,
 
   /// Title: Live photo
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/live_photo_qhmw.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Live_photo_re_4khn.svg" alt="Live photo" width="200"/>
   live_photo,
 
   /// Title: Load more
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Load_more_2yd7.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Load_more_2yd7.svg" alt="Load more" width="200"/>
   load_more,
 
   /// Title: Loading
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/loading_frh4.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/loading_frh4.svg" alt="Loading" width="200"/>
   loading,
 
   /// Title: Location review
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/location_review_dmxd.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/location_review_dmxd.svg" alt="Location review" width="200"/>
   location_review,
 
   /// Title: Location search
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/location_search_bqps.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/location_search_bqps.svg" alt="Location search" width="200"/>
   location_search,
 
   /// Title: Location tracking
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/location_tracking_46qb.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/location_tracking_46qb.svg" alt="Location tracking" width="200"/>
   location_tracking,
 
   /// Title: Logic
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/logic_n6th.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/logic_n6th.svg" alt="Logic" width="200"/>
   logic,
 
   /// Title: Login
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Login_re_4vu2.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Login_re_4vu2.svg" alt="Login" width="200"/>
   login,
 
   /// Title: Logistics
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/logistics_x4dc.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/logistics_x4dc.svg" alt="Logistics" width="200"/>
   logistics,
 
   /// Title: Logo design
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Logo_design_re_gfu6.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Logo_design_re_gfu6.svg" alt="Logo design" width="200"/>
   logo_design,
 
   /// Title: Lost
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/lost_bqr2.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/lost_bqr2.svg" alt="Lost" width="200"/>
   lost,
 
   /// Title: Lost online
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/lost_online_wqob.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/lost_online_wqob.svg" alt="Lost online" width="200"/>
   lost_online,
 
   /// Title: Love
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/love_xfcv.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/love_xfcv.svg" alt="Love" width="200"/>
   love,
 
   /// Title: Love is in the air
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/love_is_in_the_air_4mmc.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/love_is_in_the_air_4mmc.svg" alt="Love is in the air" width="200"/>
   love_is_in_the_air,
 
   /// Title: Loving it
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/loving_it_y27c.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/loving_it_y27c.svg" alt="Loving it" width="200"/>
   loving_it,
 
   /// Title: Loving story
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/loving_story_0j59.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/loving_story_0j59.svg" alt="Loving story" width="200"/>
   loving_story,
 
   /// Title: Mail
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mail_2_tqip.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mail_2_tqip.svg" alt="Mail" width="200"/>
   mail,
 
   /// Title: Mail sent
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Mail_sent_re_0ofv.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Mail_sent_re_0ofv.svg" alt="Mail sent" width="200"/>
   mail_sent,
 
   /// Title: Mailbox
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Mailbox_re_dvds.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Mailbox_re_dvds.svg" alt="Mailbox" width="200"/>
   mailbox,
 
   /// Title: Maintenance
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/maintenance_cn7j.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/maintenance_cn7j.svg" alt="Maintenance" width="200"/>
   maintenance,
 
   /// Title: Make it rain
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/make_it_rain_iwk4.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/make_it_rain_iwk4.svg" alt="Make it rain" width="200"/>
   make_it_rain,
 
   /// Title: Maker launch
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/maker_launch_crhe.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/maker_launch_crhe.svg" alt="Maker launch" width="200"/>
   maker_launch,
 
   /// Title: Makeup artist
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/makeup_artist_rxn8.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/makeup_artist_rxn8.svg" alt="Makeup artist" width="200"/>
   makeup_artist,
 
   /// Title: Making art
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/making_art_759c.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/making_art_759c.svg" alt="Making art" width="200"/>
   making_art,
 
   /// Title: Male avatar
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/male_avatar_323b.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/male_avatar_323b.svg" alt="Male avatar" width="200"/>
   male_avatar,
 
   /// Title: Manage chats
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/manage_chats_ylx0.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/manage_chats_ylx0.svg" alt="Manage chats" width="200"/>
   manage_chats,
 
   /// Title: Map
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/map_1r69.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/map_1r69.svg" alt="Map" width="200"/>
   map,
 
   /// Title: Map dark
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Map_dark_k9pw.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Map_dark_k9pw.svg" alt="Map dark" width="200"/>
   map_dark,
 
   /// Title: Map light
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Map_light_3hjy.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Map_light_3hjy.svg" alt="Map light" width="200"/>
   map_light,
 
   /// Title: Marilyn
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/marilyn_v73y.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/marilyn_v73y.svg" alt="Marilyn" width="200"/>
   marilyn,
 
   /// Title: Marketing
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Marketing_re_7f1g.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Marketing_re_7f1g.svg" alt="Marketing" width="200"/>
   marketing,
 
   /// Title: Master plan
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Master_plan_re_jvit.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Master_plan_re_jvit.svg" alt="Master plan" width="200"/>
   master_plan,
 
   /// Title: Mathematics
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mathematics_4otb.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mathematics_4otb.svg" alt="Mathematics" width="200"/>
   mathematics,
 
   /// Title: Media player
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/media_player_ylg8.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/media_player_ylg8.svg" alt="Media player" width="200"/>
   media_player,
 
   /// Title: Medical care
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/medical_care_movn.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/medical_care_movn.svg" alt="Medical care" width="200"/>
   medical_care,
 
   /// Title: Medical research
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/medical_research_qg4d.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/medical_research_qg4d.svg" alt="Medical research" width="200"/>
   medical_research,
 
   /// Title: Medicine
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/medicine_b1ol.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/medicine_b1ol.svg" alt="Medicine" width="200"/>
   medicine,
 
   /// Title: Meditating
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Meditating_re_aiqa.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Meditating_re_aiqa.svg" alt="Meditating" width="200"/>
   meditating,
 
   /// Title: Meditation
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Meditation_o89g.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Meditation_o89g.svg" alt="Meditation" width="200"/>
   meditation,
 
   /// Title: Meet the team
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/meet_the_team_e5b7.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/meet_the_team_e5b7.svg" alt="Meet the team" width="200"/>
   meet_the_team,
 
   /// Title: Meeting
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Meeting_h2df.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Meeting_h2df.svg" alt="Meeting" width="200"/>
   meeting,
 
   /// Title: Mello
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mello_otq1.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mello_otq1.svg" alt="Mello" width="200"/>
   mello,
 
   /// Title: Memory storage
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Memory_storage_reh0.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Memory_storage_reh0.svg" alt="Memory storage" width="200"/>
   memory_storage,
 
   /// Title: Mention
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mention_6k5d.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mention_6k5d.svg" alt="Mention" width="200"/>
   mention,
 
   /// Title: Message sent
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/message_sent_1030.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/message_sent_1030.svg" alt="Message sent" width="200"/>
   message_sent,
 
   /// Title: Messages
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/messages1_9ah2.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/messages1_9ah2.svg" alt="Messages" width="200"/>
   messages,
 
   /// Title: Messaging
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/messaging_uok8.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/messaging_uok8.svg" alt="Messaging" width="200"/>
   messaging,
 
   /// Title: Messaging app
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/messaging_app_ch6t.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/messaging_app_ch6t.svg" alt="Messaging app" width="200"/>
   messaging_app,
 
   /// Title: Messaging fun
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/messaging_fun_86y2.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/messaging_fun_86y2.svg" alt="Messaging fun" width="200"/>
   messaging_fun,
 
   /// Title: Messenger
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/messenger_e7iu.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/messenger_e7iu.svg" alt="Messenger" width="200"/>
   messenger,
 
   /// Title: Metrics
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/metrics_gtu7.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/metrics_gtu7.svg" alt="Metrics" width="200"/>
   metrics,
 
   /// Title: Mic drop
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mic_drop_uuyg.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mic_drop_uuyg.svg" alt="Mic drop" width="200"/>
   mic_drop,
 
   /// Title: Millennial girl
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/millennial_girl_fxlt.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/millennial_girl_fxlt.svg" alt="Millennial girl" width="200"/>
   millennial_girl,
 
   /// Title: Mind map
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Mind_map_re_nlb6.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Mind_map_re_nlb6.svg" alt="Mind map" width="200"/>
   mind_map,
 
   /// Title: Mindfulness
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mindfulness_scgo.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mindfulness_scgo.svg" alt="Mindfulness" width="200"/>
   mindfulness,
 
   /// Title: Mint tea
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mint_tea_7su0.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mint_tea_7su0.svg" alt="Mint tea" width="200"/>
   mint_tea,
 
   /// Title: Missed chances
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/missed_chances_k3cq.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/missed_chances_k3cq.svg" alt="Missed chances" width="200"/>
   missed_chances,
 
   /// Title: Mission impossible
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mission_impossible_bwa2.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mission_impossible_bwa2.svg" alt="Mission impossible" width="200"/>
   mission_impossible,
 
   /// Title: Mobile
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_prle.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_prle.svg" alt="Mobile" width="200"/>
   mobile,
 
   /// Title: Mobile app
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Mobile_app_p3ts.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Mobile_app_p3ts.svg" alt="Mobile app" width="200"/>
   mobile_app,
 
   /// Title: Mobile application
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Mobile_application_mr4r.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Mobile_application_mr4r.svg" alt="Mobile application" width="200"/>
   mobile_application,
 
   /// Title: Mobile apps
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_apps_spmp.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_apps_spmp.svg" alt="Mobile apps" width="200"/>
   mobile_apps,
 
   /// Title: Mobile browsers
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_browsers_lib5.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_browsers_lib5.svg" alt="Mobile browsers" width="200"/>
   mobile_browsers,
 
   /// Title: Mobile development
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_development_8gyo.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_development_8gyo.svg" alt="Mobile development" width="200"/>
   mobile_development,
 
   /// Title: Mobile devices
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_devices_k1ok.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_devices_k1ok.svg" alt="Mobile devices" width="200"/>
   mobile_devices,
 
   /// Title: Mobile encryption
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_encryption_cl5q.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_encryption_cl5q.svg" alt="Mobile encryption" width="200"/>
   mobile_encryption,
 
   /// Title: Mobile feed
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_feed_73bd.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_feed_73bd.svg" alt="Mobile feed" width="200"/>
   mobile_feed,
 
   /// Title: Mobile images
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_images_rc0q.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_images_rc0q.svg" alt="Mobile images" width="200"/>
   mobile_images,
 
   /// Title: Mobile inbox
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_inbox_3h46.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_inbox_3h46.svg" alt="Mobile inbox" width="200"/>
   mobile_inbox,
 
   /// Title: Mobile interface
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_interface_wakp.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_interface_wakp.svg" alt="Mobile interface" width="200"/>
   mobile_interface,
 
   /// Title: Mobile life
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Mobile_life_re_jtih.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Mobile_life_re_jtih.svg" alt="Mobile life" width="200"/>
   mobile_life,
 
   /// Title: Mobile login
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_login_ikmv.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_login_ikmv.svg" alt="Mobile login" width="200"/>
   mobile_login,
 
   /// Title: Mobile marketing
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_marketing_iqbr.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_marketing_iqbr.svg" alt="Mobile marketing" width="200"/>
   mobile_marketing,
 
   /// Title: Mobile messages
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_messages_u848.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_messages_u848.svg" alt="Mobile messages" width="200"/>
   mobile_messages,
 
   /// Title: Mobile pay
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Mobile_pay_re_sjb8.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Mobile_pay_re_sjb8.svg" alt="Mobile pay" width="200"/>
   mobile_pay,
 
   /// Title: Mobile payments
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_payments_vftl.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_payments_vftl.svg" alt="Mobile payments" width="200"/>
   mobile_payments,
 
   /// Title: Mobile posts
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_posts_tlwg.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_posts_tlwg.svg" alt="Mobile posts" width="200"/>
   mobile_posts,
 
   /// Title: Mobile prototyping
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_prototyping_grmd.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_prototyping_grmd.svg" alt="Mobile prototyping" width="200"/>
   mobile_prototyping,
 
   /// Title: Mobile testing
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_testing_reah.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_testing_reah.svg" alt="Mobile testing" width="200"/>
   mobile_testing,
 
   /// Title: Mobile user
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_user_7oqo.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_user_7oqo.svg" alt="Mobile user" width="200"/>
   mobile_user,
 
   /// Title: Mobile ux
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_ux_o0e1.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_ux_o0e1.svg" alt="Mobile ux" width="200"/>
   mobile_ux,
 
   /// Title: Mobile web
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_web_2g8b.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_web_2g8b.svg" alt="Mobile web" width="200"/>
   mobile_web,
 
   /// Title: Mobile wireframe
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_wireframe_euf4.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_wireframe_euf4.svg" alt="Mobile wireframe" width="200"/>
   mobile_wireframe,
 
   /// Title: Modern art
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/modern_art_x3qc.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/modern_art_x3qc.svg" alt="Modern art" width="200"/>
   modern_art,
 
   /// Title: Modern design
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/modern_design_v3wv.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/modern_design_v3wv.svg" alt="Modern design" width="200"/>
   modern_design,
 
   /// Title: Modern life
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/modern_life_u1ev.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/modern_life_u1ev.svg" alt="Modern life" width="200"/>
   modern_life,
 
   /// Title: Modern professional
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/modern_professional_yt9h.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/modern_professional_yt9h.svg" alt="Modern professional" width="200"/>
   modern_professional,
 
   /// Title: Modern woman
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Modern_woman_lxh7.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Modern_woman_lxh7.svg" alt="Modern woman" width="200"/>
   modern_woman,
 
   /// Title: Moment to remember
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/moment_to_remember_02gj.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/moment_to_remember_02gj.svg" alt="Moment to remember" width="200"/>
   moment_to_remember,
 
   /// Title: Moments
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/moments_0y20.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/moments_0y20.svg" alt="Moments" width="200"/>
   moments,
 
   /// Title: Monitor
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/monitor_iqpq.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/monitor_iqpq.svg" alt="Monitor" width="200"/>
   monitor,
 
   /// Title: Monster artist
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/monster_artist_2crm.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/monster_artist_2crm.svg" alt="Monster artist" width="200"/>
   monster_artist,
 
   /// Title: Moonlight
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/moonlight_5ksn.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/moonlight_5ksn.svg" alt="Moonlight" width="200"/>
   moonlight,
 
   /// Title: More music
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/more_music_w70e.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/more_music_w70e.svg" alt="More music" width="200"/>
   more_music,
 
   /// Title: Mornings
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Mornings_solb.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Mornings_solb.svg" alt="Mornings" width="200"/>
   mornings,
 
   /// Title: Motherhood
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/motherhood_7htu.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/motherhood_7htu.svg" alt="Motherhood" width="200"/>
   motherhood,
 
   /// Title: Movie night
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/movie_night_fldd.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/movie_night_fldd.svg" alt="Movie night" width="200"/>
   movie_night,
 
   /// Title: Moving
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Moving_twwf.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Moving_twwf.svg" alt="Moving" width="200"/>
   moving,
 
   /// Title: Moving forward
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/moving_forward_lhhd.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/moving_forward_lhhd.svg" alt="Moving forward" width="200"/>
   moving_forward,
 
   /// Title: Multitasking
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/multitasking_hqg3.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/multitasking_hqg3.svg" alt="Multitasking" width="200"/>
   multitasking,
 
   /// Title: Music
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/music_r1se.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/music_r1se.svg" alt="Music" width="200"/>
   music,
 
   /// Title: My answer
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/my_answer_iw6k.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/my_answer_iw6k.svg" alt="My answer" width="200"/>
   my_answer,
 
   /// Title: My app
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/my_app_grf2.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/my_app_grf2.svg" alt="My app" width="200"/>
   my_app,
 
   /// Title: My code snippets
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/my_code_snippets_lynx.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/my_code_snippets_lynx.svg" alt="My code snippets" width="200"/>
   my_code_snippets,
 
   /// Title: My current location
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/my_current_location_om7g.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/my_current_location_om7g.svg" alt="My current location" width="200"/>
   my_current_location,
 
   /// Title: My documents
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/my_documents_ym8x.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/my_documents_ym8x.svg" alt="My documents" width="200"/>
   my_documents,
 
   /// Title: My feed
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/my_feed_inj0.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/my_feed_inj0.svg" alt="My feed" width="200"/>
   my_feed,
 
   /// Title: My files
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/my_files_swob.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/my_files_swob.svg" alt="My files" width="200"/>
   my_files,
 
   /// Title: My location
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/my_location_f9pr.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/my_location_f9pr.svg" alt="My location" width="200"/>
   my_location,
 
   /// Title: My notifications
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/my_notifications_rjej.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/my_notifications_rjej.svg" alt="My notifications" width="200"/>
   my_notifications,
 
   /// Title: My password
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/my_password_d6kg.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/my_password_d6kg.svg" alt="My password" width="200"/>
   my_password,
 
   /// Title: My personal files
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/my_personal_files_8krs.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/my_personal_files_8krs.svg" alt="My personal files" width="200"/>
   my_personal_files,
 
   /// Title: My universe
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/my_universe_lxnl.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/my_universe_lxnl.svg" alt="My universe" width="200"/>
   my_universe,
 
   /// Title: Nakamoto
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/nakamoto_2iv6.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/nakamoto_2iv6.svg" alt="Nakamoto" width="200"/>
   nakamoto,
 
   /// Title: Nature
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/nature_m5ll.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/nature_m5ll.svg" alt="Nature" width="200"/>
   nature,
 
   /// Title: Nature benefits
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/nature_benefits_mr3v.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/nature_benefits_mr3v.svg" alt="Nature benefits" width="200"/>
   nature_benefits,
 
   /// Title: Nature fun
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/nature_fun_n9lv.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/nature_fun_n9lv.svg" alt="Nature fun" width="200"/>
   nature_fun,
 
   /// Title: Nature on screen
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/nature_on_screen_xkli.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/nature_on_screen_xkli.svg" alt="Nature on screen" width="200"/>
   nature_on_screen,
 
   /// Title: Navigation
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/navigation_lytx.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/navigation_lytx.svg" alt="Navigation" width="200"/>
   navigation,
 
   /// Title: Navigator
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/navigator_a479.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/navigator_a479.svg" alt="Navigator" width="200"/>
   navigator,
 
   /// Title: Neighbors
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/neighbors_ciwb.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/neighbors_ciwb.svg" alt="Neighbors" width="200"/>
   neighbors,
 
   /// Title: Netflix
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/netflix_q00o.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/netflix_q00o.svg" alt="Netflix" width="200"/>
   netflix,
 
   /// Title: New decade
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/new_decade_n4qd.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/new_decade_n4qd.svg" alt="New decade" width="200"/>
   new_decade,
 
   /// Title: New entries
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/new_entries_nh3h.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/new_entries_nh3h.svg" alt="New entries" width="200"/>
   new_entries,
 
   /// Title: New ideas
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/new_ideas_jdea.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/new_ideas_jdea.svg" alt="New ideas" width="200"/>
   new_ideas,
 
   /// Title: New message
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/new_message_2gfk.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/new_message_2gfk.svg" alt="New message" width="200"/>
   new_message,
 
   /// Title: New notifications
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/new_notifications_fhvw.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/new_notifications_fhvw.svg" alt="New notifications" width="200"/>
   new_notifications,
 
   /// Title: News
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/news_go0e.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/news_go0e.svg" alt="News" width="200"/>
   news,
 
   /// Title: Newsletter
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Newsletter_re_wrob.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Newsletter_re_wrob.svg" alt="Newsletter" width="200"/>
   newsletter,
 
   /// Title: Newspaper
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/newspaper_k72w.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/newspaper_k72w.svg" alt="Newspaper" width="200"/>
   newspaper,
 
   /// Title: Next option
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/next_option_2ajo.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/next_option_2ajo.svg" alt="Next option" width="200"/>
   next_option,
 
   /// Title: Next tasks
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/next_tasks_iubr.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/next_tasks_iubr.svg" alt="Next tasks" width="200"/>
   next_tasks,
 
   /// Title: NextJs
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/next_js_8g5m.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/next_js_8g5m.svg" alt="NextJs" width="200"/>
   nextjs,
 
   /// Title: Night calls
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/night_calls_5jh7.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/night_calls_5jh7.svg" alt="Night calls" width="200"/>
   night_calls,
 
   /// Title: Ninja
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/ninja_e52b.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/ninja_e52b.svg" alt="Ninja" width="200"/>
   ninja,
 
   /// Title: No data
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/No_data_re_kwbl.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/No_data_re_kwbl.svg" alt="No data" width="200"/>
   no_data,
 
   /// Title: Not found
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/not_found_60pq.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/not_found_60pq.svg" alt="Not found" width="200"/>
   not_found,
 
   /// Title: Note list
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Note_list_re_r4u9.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Note_list_re_r4u9.svg" alt="Note list" width="200"/>
   note_list,
 
   /// Title: Notebook
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Notebook_tlkl.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Notebook_tlkl.svg" alt="Notebook" width="200"/>
   notebook,
 
   /// Title: Noted
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/noted_pc9f.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/noted_pc9f.svg" alt="Noted" width="200"/>
   noted,
 
   /// Title: Notes
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/notes1_cf55.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/notes1_cf55.svg" alt="Notes" width="200"/>
   notes,
 
   /// Title: Notify
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Notify_re_65on.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Notify_re_65on.svg" alt="Notify" width="200"/>
   notify,
 
   /// Title: OS upgrade
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/os_upgrade_nj2m.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/os_upgrade_nj2m.svg" alt="OS upgrade" width="200"/>
   os_upgrade,
 
   /// Title: Observations
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/observations_mejb.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/observations_mejb.svg" alt="Observations" width="200"/>
   observations,
 
   /// Title: Off road
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/off_road_9oae.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/off_road_9oae.svg" alt="Off road" width="200"/>
   off_road,
 
   /// Title: Old day
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/old_day_6x25.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/old_day_6x25.svg" alt="Old day" width="200"/>
   old_day,
 
   /// Title: Omega
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/omega_4kob.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/omega_4kob.svg" alt="Omega" width="200"/>
   omega,
 
   /// Title: On the office
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/on_the_office_fbfs.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/on_the_office_fbfs.svg" alt="On the office" width="200"/>
   on_the_office,
 
   /// Title: On the way
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/on_the_way_ldaq.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/on_the_way_ldaq.svg" alt="On the way" width="200"/>
   on_the_way,
 
   /// Title: Onboarding
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/onboarding_o8mv.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/onboarding_o8mv.svg" alt="Onboarding" width="200"/>
   onboarding,
 
   /// Title: Online
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_1qud.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_1qud.svg" alt="Online" width="200"/>
   online,
 
   /// Title: Online ad
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_ad_mg4t.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_ad_mg4t.svg" alt="Online ad" width="200"/>
   online_ad,
 
   /// Title: Online art
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_art_bgb4.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_art_bgb4.svg" alt="Online art" width="200"/>
   online_art,
 
   /// Title: Online article
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_article_kr64.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_article_kr64.svg" alt="Online article" width="200"/>
   online_article,
 
   /// Title: Online articles
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_articles_79ff.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_articles_79ff.svg" alt="Online articles" width="200"/>
   online_articles,
 
   /// Title: Online banking
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_banking_7jy4.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_banking_7jy4.svg" alt="Online banking" width="200"/>
   online_banking,
 
   /// Title: Online calendar
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_calendar_kvu2.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_calendar_kvu2.svg" alt="Online calendar" width="200"/>
   online_calendar,
 
   /// Title: Online chat
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_chat_d7ek.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_chat_d7ek.svg" alt="Online chat" width="200"/>
   online_chat,
 
   /// Title: Online collaboration
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_collaboration_7pfp.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_collaboration_7pfp.svg" alt="Online collaboration" width="200"/>
   online_collaboration,
 
   /// Title: Online connection
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_connection_6778.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_connection_6778.svg" alt="Online connection" width="200"/>
   online_connection,
 
   /// Title: Online cv
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_cv_qy9w.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_cv_qy9w.svg" alt="Online cv" width="200"/>
   online_cv,
 
   /// Title: Online dating
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_dating_yruf.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_dating_yruf.svg" alt="Online dating" width="200"/>
   online_dating,
 
   /// Title: Online discussion
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_discussion_5wgl.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_discussion_5wgl.svg" alt="Online discussion" width="200"/>
   online_discussion,
 
   /// Title: Online everywhere
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_everywhere_cd90.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_everywhere_cd90.svg" alt="Online everywhere" width="200"/>
   online_everywhere,
 
   /// Title: Online friends
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_friends_x73e.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_friends_x73e.svg" alt="Online friends" width="200"/>
   online_friends,
 
   /// Title: Online gallery
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_gallery_dmv3.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_gallery_dmv3.svg" alt="Online gallery" width="200"/>
   online_gallery,
 
   /// Title: Online groceries
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_groceries_a02y.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_groceries_a02y.svg" alt="Online groceries" width="200"/>
   online_groceries,
 
   /// Title: Online information
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_information_4ui6.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_information_4ui6.svg" alt="Online information" width="200"/>
   online_information,
 
   /// Title: Online learning
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_learning_ao11.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_learning_ao11.svg" alt="Online learning" width="200"/>
   online_learning,
 
   /// Title: Online media
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_media_62jb.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_media_62jb.svg" alt="Online media" width="200"/>
   online_media,
 
   /// Title: Online message
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_message_xq4c.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_message_xq4c.svg" alt="Online message" width="200"/>
   online_message,
 
   /// Title: Online messaging
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_messaging_9ro6.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_messaging_9ro6.svg" alt="Online messaging" width="200"/>
   online_messaging,
 
   /// Title: Online organizer
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_organizer_ofxm.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_organizer_ofxm.svg" alt="Online organizer" width="200"/>
   online_organizer,
 
   /// Title: Online page
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Online_page_re_lhgx.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Online_page_re_lhgx.svg" alt="Online page" width="200"/>
   online_page,
 
   /// Title: Online party
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Online_party_re_7t6g.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Online_party_re_7t6g.svg" alt="Online party" width="200"/>
   online_party,
 
   /// Title: Online payments
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_payments_luau.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_payments_luau.svg" alt="Online payments" width="200"/>
   online_payments,
 
   /// Title: Online popularity
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_popularity_elhc.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_popularity_elhc.svg" alt="Online popularity" width="200"/>
   online_popularity,
 
   /// Title: Online posts
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_posts_h475.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_posts_h475.svg" alt="Online posts" width="200"/>
   online_posts,
 
   /// Title: Online reading
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_reading_np7n.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_reading_np7n.svg" alt="Online reading" width="200"/>
   online_reading,
 
   /// Title: Online resume
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_resume_qyys.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_resume_qyys.svg" alt="Online resume" width="200"/>
   online_resume,
 
   /// Title: Online shopping
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Online_shopping_re_k1sv.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Online_shopping_re_k1sv.svg" alt="Online shopping" width="200"/>
   online_shopping,
 
   /// Title: Online test
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_test_gba7.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_test_gba7.svg" alt="Online test" width="200"/>
   online_test,
 
   /// Title: Online transactions
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_transactions_02ka.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_transactions_02ka.svg" alt="Online transactions" width="200"/>
   online_transactions,
 
   /// Title: Online video
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_video_ivvq.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_video_ivvq.svg" alt="Online video" width="200"/>
   online_video,
 
   /// Title: Online wishes
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_wishes_dlmr.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_wishes_dlmr.svg" alt="Online wishes" width="200"/>
   online_wishes,
 
   /// Title: Online world
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_world_mc1t.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_world_mc1t.svg" alt="Online world" width="200"/>
   online_world,
 
   /// Title: Open source
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/open_source_1qxw.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/open_source_1qxw.svg" alt="Open source" width="200"/>
   open_source,
 
   /// Title: Opened
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/opened_gi4n.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/opened_gi4n.svg" alt="Opened" width="200"/>
   opened,
 
   /// Title: Opened tabs
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/opened_tabs_ly11.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/opened_tabs_ly11.svg" alt="Opened tabs" width="200"/>
   opened_tabs,
 
   /// Title: Operating system
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Operating_system_re_iqsc.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Operating_system_re_iqsc.svg" alt="Operating system" width="200"/>
   operating_system,
 
   /// Title: Opinion
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/opinion_dxp8.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/opinion_dxp8.svg" alt="Opinion" width="200"/>
   opinion,
 
   /// Title: Optimize image
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Optimize_image_re_3tb1.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Optimize_image_re_3tb1.svg" alt="Optimize image" width="200"/>
   optimize_image,
 
   /// Title: Options
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Options_re_9vxh.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Options_re_9vxh.svg" alt="Options" width="200"/>
   options,
 
   /// Title: Order a car
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/order_a_car_3tww.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/order_a_car_3tww.svg" alt="Order a car" width="200"/>
   order_a_car,
 
   /// Title: Order confirmed
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/order_confirmed_aaw7.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/order_confirmed_aaw7.svg" alt="Order confirmed" width="200"/>
   order_confirmed,
 
   /// Title: Order delivered
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/order_delivered_p6ba.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/order_delivered_p6ba.svg" alt="Order delivered" width="200"/>
   order_delivered,
 
   /// Title: Order ride
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/order_ride_xjs4.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/order_ride_xjs4.svg" alt="Order ride" width="200"/>
   order_ride,
 
   /// Title: Ordinary day
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Ordinary_day_3gk3.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Ordinary_day_3gk3.svg" alt="Ordinary day" width="200"/>
   ordinary_day,
 
   /// Title: Organize photos
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/organize_photos_d5nr.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/organize_photos_d5nr.svg" alt="Organize photos" width="200"/>
   organize_photos,
 
   /// Title: Organize resume
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/organize_resume_utk5.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/organize_resume_utk5.svg" alt="Organize resume" width="200"/>
   organize_resume,
 
   /// Title: Organized content
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/organized_content_25ww.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/organized_content_25ww.svg" alt="Organized content" width="200"/>
   organized_content,
 
   /// Title: Organizing projects
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Organizing_projects_0p9a.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Organizing_projects_0p9a.svg" alt="Organizing projects" width="200"/>
   organizing_projects,
 
   /// Title: Our solution
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/our_solution_htvp.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/our_solution_htvp.svg" alt="Our solution" width="200"/>
   our_solution,
 
   /// Title: Outdoor adventure
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Camping_y4an.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Camping_y4an.svg" alt="Outdoor adventure" width="200"/>
   outdoor_adventure,
 
   /// Title: Outdoor party
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/outdoor_party_oqh3.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/outdoor_party_oqh3.svg" alt="Outdoor party" width="200"/>
   outdoor_party,
 
   /// Title: Outdoors
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/outdoors_amdn.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/outdoors_amdn.svg" alt="Outdoors" width="200"/>
   outdoors,
 
   /// Title: Outer space
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Outer_space_drqu.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Outer_space_drqu.svg" alt="Outer space" width="200"/>
   outer_space,
 
   /// Title: Page not found
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/page_not_found_su7k.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/page_not_found_su7k.svg" alt="Page not found" width="200"/>
   page_not_found,
 
   /// Title: Palette
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/palette_110c.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/palette_110c.svg" alt="Palette" width="200"/>
   palette,
 
   /// Title: Party
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/party_lqnv.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/party_lqnv.svg" alt="Party" width="200"/>
   party,
 
   /// Title: Partying
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/partying_p92d.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/partying_p92d.svg" alt="Partying" width="200"/>
   partying,
 
   /// Title: Passing by
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/passing_by_gqfk.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/passing_by_gqfk.svg" alt="Passing by" width="200"/>
   passing_by,
 
   /// Title: Pay online
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/pay_online_b1hk.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/pay_online_b1hk.svg" alt="Pay online" width="200"/>
   pay_online,
 
   /// Title: Payments
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/payments_21w6.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/payments_21w6.svg" alt="Payments" width="200"/>
   payments,
 
   /// Title: Pedestrian crossing
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/pedestrian_crossing_l6jv.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/pedestrian_crossing_l6jv.svg" alt="Pedestrian crossing" width="200"/>
   pedestrian_crossing,
 
   /// Title: Pen tool
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/pen_nqf7.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/pen_nqf7.svg" alt="Pen tool" width="200"/>
   pen_tool,
 
   /// Title: People
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/people_tax5.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/people_tax5.svg" alt="People" width="200"/>
   people,
 
   /// Title: People search
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/people_search_wctu.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/people_search_wctu.svg" alt="People search" width="200"/>
   people_search,
 
   /// Title: Percentages
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/percentages_0rur.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/percentages_0rur.svg" alt="Percentages" width="200"/>
   percentages,
 
   /// Title: Performance overview
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/performance_overview_p9bm.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/performance_overview_p9bm.svg" alt="Performance overview" width="200"/>
   performance_overview,
 
   /// Title: Personal data
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/personal_data_29co.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/personal_data_29co.svg" alt="Personal data" width="200"/>
   personal_data,
 
   /// Title: Personal documents
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/personal_documents_cgj5.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/personal_documents_cgj5.svg" alt="Personal documents" width="200"/>
   personal_documents,
 
   /// Title: Personal email
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/personal_email_t7nw.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/personal_email_t7nw.svg" alt="Personal email" width="200"/>
   personal_email,
 
   /// Title: Personal file
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/personal_file_222m.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/personal_file_222m.svg" alt="Personal file" width="200"/>
   personal_file,
 
   /// Title: Personal finance
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/personal_finance_tqcd.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/personal_finance_tqcd.svg" alt="Personal finance" width="200"/>
   personal_finance,
 
   /// Title: Personal goals
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/personal_goals_edgd.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/personal_goals_edgd.svg" alt="Personal goals" width="200"/>
   personal_goals,
 
   /// Title: Personal info
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/personal_info_0okl.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/personal_info_0okl.svg" alt="Personal info" width="200"/>
   personal_info,
 
   /// Title: Personal information
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/personal_information_962o.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/personal_information_962o.svg" alt="Personal information" width="200"/>
   personal_information,
 
   /// Title: Personal notebook
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Personal_notebook_re_d7dc.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Personal_notebook_re_d7dc.svg" alt="Personal notebook" width="200"/>
   personal_notebook,
 
   /// Title: Personal notes
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/personal_notes_8n63.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/personal_notes_8n63.svg" alt="Personal notes" width="200"/>
   personal_notes,
 
   /// Title: Personal opinions
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/personal_opinions_g3kr.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/personal_opinions_g3kr.svg" alt="Personal opinions" width="200"/>
   personal_opinions,
 
   /// Title: Personal settings
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/personal_settings_kihd.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/personal_settings_kihd.svg" alt="Personal settings" width="200"/>
   personal_settings,
 
   /// Title: Personal site
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/personal_site_xyd1.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/personal_site_xyd1.svg" alt="Personal site" width="200"/>
   personal_site,
 
   /// Title: Personal text
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/personal_text_vkd8.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/personal_text_vkd8.svg" alt="Personal text" width="200"/>
   personal_text,
 
   /// Title: Personal trainer
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/personal_trainer_ote3.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/personal_trainer_ote3.svg" alt="Personal trainer" width="200"/>
   personal_trainer,
 
   /// Title: Personal training
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/personal_training_0dqn.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/personal_training_0dqn.svg" alt="Personal training" width="200"/>
   personal_training,
 
   /// Title: Personal website
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/personal_website_weap.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/personal_website_weap.svg" alt="Personal website" width="200"/>
   personal_website,
 
   /// Title: Personalization
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/personalization_triu.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/personalization_triu.svg" alt="Personalization" width="200"/>
   personalization,
 
   /// Title: Pet adoption
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/pet_adoption_2qkw.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/pet_adoption_2qkw.svg" alt="Pet adoption" width="200"/>
   pet_adoption,
 
   /// Title: Phone call
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/phone_call_grmk.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/phone_call_grmk.svg" alt="Phone call" width="200"/>
   phone_call,
 
   /// Title: Photo
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Photo_re_5blb.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Photo_re_5blb.svg" alt="Photo" width="200"/>
   photo,
 
   /// Title: Photo album
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/photo_album_e8hj.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/photo_album_e8hj.svg" alt="Photo album" width="200"/>
   photo_album,
 
   /// Title: Photo session
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/photo_session_clqr.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/photo_session_clqr.svg" alt="Photo session" width="200"/>
   photo_session,
 
   /// Title: Photo sharing
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/photo_sharing_1_85vy.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/photo_sharing_1_85vy.svg" alt="Photo sharing" width="200"/>
   photo_sharing,
 
   /// Title: Photocopy
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/photocopy_gj0t.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/photocopy_gj0t.svg" alt="Photocopy" width="200"/>
   photocopy,
 
   /// Title: Photograph
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Photograph_re_up3b.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Photograph_re_up3b.svg" alt="Photograph" width="200"/>
   photograph,
 
   /// Title: Photos
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/photos_1nui.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/photos_1nui.svg" alt="Photos" width="200"/>
   photos,
 
   /// Title: Picture
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/picture_k52w.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/picture_k52w.svg" alt="Picture" width="200"/>
   picture,
 
   /// Title: Pie chart
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/pie_chart_6efe.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/pie_chart_6efe.svg" alt="Pie chart" width="200"/>
   pie_chart,
 
   /// Title: Pie graph
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/pie_graph_x9dy.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/pie_graph_x9dy.svg" alt="Pie graph" width="200"/>
   pie_graph,
 
   /// Title: Pilates
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/pilates_gpdb.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/pilates_gpdb.svg" alt="Pilates" width="200"/>
   pilates,
 
   /// Title: Pitching
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/pitching_36ol.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/pitching_36ol.svg" alt="Pitching" width="200"/>
   pitching,
 
   /// Title: Pizza sharing
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/pizza_sharing_wxop.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/pizza_sharing_wxop.svg" alt="Pizza sharing" width="200"/>
   pizza_sharing,
 
   /// Title: Placeholders
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/placeholders_rklh.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/placeholders_rklh.svg" alt="Placeholders" width="200"/>
   placeholders,
 
   /// Title: Plain credit card
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/plain_credit_card_c8b8.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/plain_credit_card_c8b8.svg" alt="Plain credit card" width="200"/>
   plain_credit_card,
 
   /// Title: Plans
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/plans_y8ru.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/plans_y8ru.svg" alt="Plans" width="200"/>
   plans,
 
   /// Title: Play time
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/play_time_7k7b.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/play_time_7k7b.svg" alt="Play time" width="200"/>
   play_time,
 
   /// Title: Playful cat
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Playful_cat_rchv.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Playful_cat_rchv.svg" alt="Playful cat" width="200"/>
   playful_cat,
 
   /// Title: Playing cards
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/playing_cards_cywn.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/playing_cards_cywn.svg" alt="Playing cards" width="200"/>
   playing_cards,
 
   /// Title: Playlist
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/playlist_5e13.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/playlist_5e13.svg" alt="Playlist" width="200"/>
   playlist,
 
   /// Title: Pleasant surprise
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/pleasant_surprise_5sjy.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/pleasant_surprise_5sjy.svg" alt="Pleasant surprise" width="200"/>
   pleasant_surprise,
 
   /// Title: Podcast
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/podcast_q6p7.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/podcast_q6p7.svg" alt="Podcast" width="200"/>
   podcast,
 
   /// Title: Podcast audience
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/podcast_audience_ddap.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/podcast_audience_ddap.svg" alt="Podcast audience" width="200"/>
   podcast_audience,
 
   /// Title: Polaroid
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/polaroid_gg6n.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/polaroid_gg6n.svg" alt="Polaroid" width="200"/>
   polaroid,
 
   /// Title: Popular
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Popular_re_mlfe.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Popular_re_mlfe.svg" alt="Popular" width="200"/>
   popular,
 
   /// Title: Portfolio
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Portfolio_re_qwm5.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Portfolio_re_qwm5.svg" alt="Portfolio" width="200"/>
   portfolio,
 
   /// Title: Portfolio feedback
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/portfolio_feedback_exfk.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/portfolio_feedback_exfk.svg" alt="Portfolio feedback" width="200"/>
   portfolio_feedback,
 
   /// Title: Portfolio update
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Portfolio_update_re_jqnp.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Portfolio_update_re_jqnp.svg" alt="Portfolio update" width="200"/>
   portfolio_update,
 
   /// Title: Portfolio website
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/portfolio_website_lidw.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/portfolio_website_lidw.svg" alt="Portfolio website" width="200"/>
   portfolio_website,
 
   /// Title: Positive attitude
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/positive_attitude_xaae.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/positive_attitude_xaae.svg" alt="Positive attitude" width="200"/>
   positive_attitude,
 
   /// Title: Post
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/post2_19cj.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/post2_19cj.svg" alt="Post" width="200"/>
   post,
 
   /// Title: Post online
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/post_online_dkuk.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/post_online_dkuk.svg" alt="Post online" width="200"/>
   post_online,
 
   /// Title: Posting photo
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/posting_photo_v65l.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/posting_photo_v65l.svg" alt="Posting photo" width="200"/>
   posting_photo,
 
   /// Title: Posts
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Posts_re_ormv.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Posts_re_ormv.svg" alt="Posts" width="200"/>
   posts,
 
   /// Title: Powerful
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/powerful_26ry.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/powerful_26ry.svg" alt="Powerful" width="200"/>
   powerful,
 
   /// Title: Predictive analytics
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/predictive_analytics_kf9n.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/predictive_analytics_kf9n.svg" alt="Predictive analytics" width="200"/>
   predictive_analytics,
 
   /// Title: Preferences
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/preferences_uuo2.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/preferences_uuo2.svg" alt="Preferences" width="200"/>
   preferences,
 
   /// Title: Preferences popup
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/preferences_popup_wbfw.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/preferences_popup_wbfw.svg" alt="Preferences popup" width="200"/>
   preferences_popup,
 
   /// Title: Preparation
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Preparation_re_t0ce.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Preparation_re_t0ce.svg" alt="Preparation" width="200"/>
   preparation,
 
   /// Title: Presentation
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Presentation_62e1.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Presentation_62e1.svg" alt="Presentation" width="200"/>
   presentation,
 
   /// Title: Press play
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/press_play_bx2d.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/press_play_bx2d.svg" alt="Press play" width="200"/>
   press_play,
 
   /// Title: Pride
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/pride_y0te.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/pride_y0te.svg" alt="Pride" width="200"/>
   pride,
 
   /// Title: Printing invoices
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/printing_invoices_5r4r.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/printing_invoices_5r4r.svg" alt="Printing invoices" width="200"/>
   printing_invoices,
 
   /// Title: Prioritise
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/prioritise_tgdh.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/prioritise_tgdh.svg" alt="Prioritise" width="200"/>
   prioritise,
 
   /// Title: Privacy protection
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/privacy_protection_nlwy.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/privacy_protection_nlwy.svg" alt="Privacy protection" width="200"/>
   privacy_protection,
 
   /// Title: Private data
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/private_data_7q35.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/private_data_7q35.svg" alt="Private data" width="200"/>
   private_data,
 
   /// Title: Problem solving
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Problem_solving_re_4gq3.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Problem_solving_re_4gq3.svg" alt="Problem solving" width="200"/>
   problem_solving,
 
   /// Title: Process
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Process_re_gws7.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Process_re_gws7.svg" alt="Process" width="200"/>
   process,
 
   /// Title: Processing
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/processing_qj6a.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/processing_qj6a.svg" alt="Processing" width="200"/>
   processing,
 
   /// Title: Processing thoughts
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/processing_thoughts_d8ha.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/processing_thoughts_d8ha.svg" alt="Processing thoughts" width="200"/>
   processing_thoughts,
 
   /// Title: Product Tour
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/product_tour_foyt.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/product_tour_foyt.svg" alt="Product Tour" width="200"/>
   product_tour,
 
   /// Title: Product hunt
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/product_hunt_n3f5.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/product_hunt_n3f5.svg" alt="Product hunt" width="200"/>
   product_hunt,
 
   /// Title: Product iteration
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/product_iteration_kjok.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/product_iteration_kjok.svg" alt="Product iteration" width="200"/>
   product_iteration,
 
   /// Title: Product photography
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/product_photography_91i2.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/product_photography_91i2.svg" alt="Product photography" width="200"/>
   product_photography,
 
   /// Title: Product teardown
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/product_teardown_elol.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/product_teardown_elol.svg" alt="Product teardown" width="200"/>
   product_teardown,
 
   /// Title: Professional card
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/professional_card_otb4.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/professional_card_otb4.svg" alt="Professional card" width="200"/>
   professional_card,
 
   /// Title: Professor
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/professor_8lrt.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/professor_8lrt.svg" alt="Professor" width="200"/>
   professor,
 
   /// Title: Profile
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/profile_6l1l.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/profile_6l1l.svg" alt="Profile" width="200"/>
   profile,
 
   /// Title: Profile data
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Profile_data_re_v81r.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Profile_data_re_v81r.svg" alt="Profile data" width="200"/>
   profile_data,
 
   /// Title: Profile details
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/profile_details_f8b7.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/profile_details_f8b7.svg" alt="Profile details" width="200"/>
   profile_details,
 
   /// Title: Profile image
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/profile_image_n3cj.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/profile_image_n3cj.svg" alt="Profile image" width="200"/>
   profile_image,
 
   /// Title: Profile pic
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/profile_pic_ic5t.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/profile_pic_ic5t.svg" alt="Profile pic" width="200"/>
   profile_pic,
 
   /// Title: Programmer
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/programmer_imem.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/programmer_imem.svg" alt="Programmer" width="200"/>
   programmer,
 
   /// Title: Programming
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/programming_2svr.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/programming_2svr.svg" alt="Programming" width="200"/>
   programming,
 
   /// Title: Progress data
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/progress_data_4ebj.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/progress_data_4ebj.svg" alt="Progress data" width="200"/>
   progress_data,
 
   /// Title: Progress indicator
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/progress_indicator_p84k.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/progress_indicator_p84k.svg" alt="Progress indicator" width="200"/>
   progress_indicator,
 
   /// Title: Progress overview
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/progress_overview_2dik.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/progress_overview_2dik.svg" alt="Progress overview" width="200"/>
   progress_overview,
 
   /// Title: Progress tracking
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Progress_tracking_re_ulfg.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Progress_tracking_re_ulfg.svg" alt="Progress tracking" width="200"/>
   progress_tracking,
 
   /// Title: Progressive app
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/progressive_app_m9ms.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/progressive_app_m9ms.svg" alt="Progressive app" width="200"/>
   progressive_app,
 
   /// Title: Project completed
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/project_completed_w0oq.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/project_completed_w0oq.svg" alt="Project completed" width="200"/>
   project_completed,
 
   /// Title: Project feedback
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/project_feedback_2s92.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/project_feedback_2s92.svg" alt="Project feedback" width="200"/>
   project_feedback,
 
   /// Title: Project team
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/project_team_lc5a.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/project_team_lc5a.svg" alt="Project team" width="200"/>
   project_team,
 
   /// Title: Projections
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Projections_re_1mrh.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Projections_re_1mrh.svg" alt="Projections" width="200"/>
   projections,
 
   /// Title: Prototyping process
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/prototyping_process_rswj.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/prototyping_process_rswj.svg" alt="Prototyping process" width="200"/>
   prototyping_process,
 
   /// Title: Proud coder
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/proud_coder_7ain.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/proud_coder_7ain.svg" alt="Proud coder" width="200"/>
   proud_coder,
 
   /// Title: Proud self
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/proud_self_1ddv.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/proud_self_1ddv.svg" alt="Proud self" width="200"/>
   proud_self,
 
   /// Title: Public discussion
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/public_discussion_btnw.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/public_discussion_btnw.svg" alt="Public discussion" width="200"/>
   public_discussion,
 
   /// Title: Publish article
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/publish_article_icso.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/publish_article_icso.svg" alt="Publish article" width="200"/>
   publish_article,
 
   /// Title: Publish post
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/publish_post_vowb.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/publish_post_vowb.svg" alt="Publish post" width="200"/>
   publish_post,
 
   /// Title: Pull request
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/pull_request_gld8.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/pull_request_gld8.svg" alt="Pull request" width="200"/>
   pull_request,
 
   /// Title: Pure love
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/pure_love_ay8a.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/pure_love_ay8a.svg" alt="Pure love" width="200"/>
   pure_love,
 
   /// Title: Push notifications
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/push_notifications_im0o.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/push_notifications_im0o.svg" alt="Push notifications" width="200"/>
   push_notifications,
 
   /// Title: QA engineers
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/QA_engineers_dg5p.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/QA_engineers_dg5p.svg" alt="QA engineers" width="200"/>
   qa_engineers,
 
   /// Title: Quality time
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/quality_time_wiyl.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/quality_time_wiyl.svg" alt="Quality time" width="200"/>
   quality_time,
 
   /// Title: Questions
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Questions_re_1fy7.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Questions_re_1fy7.svg" alt="Questions" width="200"/>
   questions,
 
   /// Title: Queue
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Queue_j6ij.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Queue_j6ij.svg" alt="Queue" width="200"/>
   queue,
 
   /// Title: Quiet town
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/quite_town_mg2q.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/quite_town_mg2q.svg" alt="Quiet town" width="200"/>
   quiet_town,
 
   /// Title: Quitting time
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/quitting_time_dm8t.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/quitting_time_dm8t.svg" alt="Quitting time" width="200"/>
   quitting_time,
 
   /// Title: Quiz
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/quiz_nlyh.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/quiz_nlyh.svg" alt="Quiz" width="200"/>
   quiz,
 
   /// Title: Raining
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Raining_re_4b55.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Raining_re_4b55.svg" alt="Raining" width="200"/>
   raining,
 
   /// Title: Random thoughts
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/random_thoughts_xejj.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/random_thoughts_xejj.svg" alt="Random thoughts" width="200"/>
   random_thoughts,
 
   /// Title: React
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/react_y7wq.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/react_y7wq.svg" alt="React" width="200"/>
   react,
 
   /// Title: Reading
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/reading_0re1.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/reading_0re1.svg" alt="Reading" width="200"/>
   reading,
 
   /// Title: Reading book
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Reading_book_re_kqpk.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Reading_book_re_kqpk.svg" alt="Reading book" width="200"/>
   reading_book,
 
   /// Title: Reading list
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/reading_list_4boi.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/reading_list_4boi.svg" alt="Reading list" width="200"/>
   reading_list,
 
   /// Title: Reading time
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/reading_time_gvg0.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/reading_time_gvg0.svg" alt="Reading time" width="200"/>
   reading_time,
 
   /// Title: Real time collaboration
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/real_time_collaboration_c62i.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/real_time_collaboration_c62i.svg" alt="Real time collaboration" width="200"/>
   real_time_collaboration,
 
   /// Title: Real-time sync
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/real-time_sync_o57k.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/real-time_sync_o57k.svg" alt="Real-time sync" width="200"/>
   real_time_sync,
 
   /// Title: Receipt
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/receipt_ecdd.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/receipt_ecdd.svg" alt="Receipt" width="200"/>
   receipt,
 
   /// Title: Recording
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Recording_re_5xyq.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Recording_re_5xyq.svg" alt="Recording" width="200"/>
   recording,
 
   /// Title: Redesign feedback
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Redesign_feedback_re_jvm0.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Redesign_feedback_re_jvm0.svg" alt="Redesign feedback" width="200"/>
   redesign_feedback,
 
   /// Title: Referral
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/referral_4ki4.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/referral_4ki4.svg" alt="Referral" width="200"/>
   referral,
 
   /// Title: Refreshing
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/refreshing_ncum.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/refreshing_ncum.svg" alt="Refreshing" width="200"/>
   refreshing,
 
   /// Title: Refreshing beverage
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/refreshing_beverage_td3r.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/refreshing_beverage_td3r.svg" alt="Refreshing beverage" width="200"/>
   refreshing_beverage,
 
   /// Title: Regain focus
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/regain_focus_ecvj.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/regain_focus_ecvj.svg" alt="Regain focus" width="200"/>
   regain_focus,
 
   /// Title: Relaunch day
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/relaunch_day_902d.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/relaunch_day_902d.svg" alt="Relaunch day" width="200"/>
   relaunch_day,
 
   /// Title: Relaxation
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/relaxation_1_wbr7.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/relaxation_1_wbr7.svg" alt="Relaxation" width="200"/>
   relaxation,
 
   /// Title: Relaxing at home
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/relaxing_at_home_9tyc.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/relaxing_at_home_9tyc.svg" alt="Relaxing at home" width="200"/>
   relaxing_at_home,
 
   /// Title: Reminder
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/reminder_pa79.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/reminder_pa79.svg" alt="Reminder" width="200"/>
   reminder,
 
   /// Title: Reminders
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/reminders_697p.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/reminders_697p.svg" alt="Reminders" width="200"/>
   reminders,
 
   /// Title: Remote design team
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/remote_design_team_0hp4.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/remote_design_team_0hp4.svg" alt="Remote design team" width="200"/>
   remote_design_team,
 
   /// Title: Remote meeting
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/remote_meeting_cbfk.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/remote_meeting_cbfk.svg" alt="Remote meeting" width="200"/>
   remote_meeting,
 
   /// Title: Remote team
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/remote_team_h93l.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/remote_team_h93l.svg" alt="Remote team" width="200"/>
   remote_team,
 
   /// Title: Remotely
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/remotely_2j6y.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/remotely_2j6y.svg" alt="Remotely" width="200"/>
   remotely,
 
   /// Title: Report
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/report_mx0a.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/report_mx0a.svg" alt="Report" width="200"/>
   report,
 
   /// Title: Researching
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/researching_22gp.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/researching_22gp.svg" alt="Researching" width="200"/>
   researching,
 
   /// Title: Respond
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/respond_8wjt.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/respond_8wjt.svg" alt="Respond" width="200"/>
   respond,
 
   /// Title: Responsive
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/responsive_6c8s.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/responsive_6c8s.svg" alt="Responsive" width="200"/>
   responsive,
 
   /// Title: Responsiveness
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Responsiveness_re_cuv5.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Responsiveness_re_cuv5.svg" alt="Responsiveness" width="200"/>
   responsiveness,
 
   /// Title: Result
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/result_5583.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/result_5583.svg" alt="Result" width="200"/>
   result,
 
   /// Title: Resume
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/resume_1hqp.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/resume_1hqp.svg" alt="Resume" width="200"/>
   resume,
 
   /// Title: Resume folder
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Resume_folder_re_e0bi.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Resume_folder_re_e0bi.svg" alt="Resume folder" width="200"/>
   resume_folder,
 
   /// Title: Revenue
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/revenue_3osh.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/revenue_3osh.svg" alt="Revenue" width="200"/>
   revenue,
 
   /// Title: Review
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/review_fkgn.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/review_fkgn.svg" alt="Review" width="200"/>
   review,
 
   /// Title: Reviewed docs
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/reviewed_docs_neeb.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Reviewed_docs_re_9lmr.svg" alt="Reviewed docs" width="200"/>
   reviewed_docs,
 
   /// Title: Reviews
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/reviews_lp8w.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/reviews_lp8w.svg" alt="Reviews" width="200"/>
   reviews,
 
   /// Title: Ride a bicycle
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Ride_a_bicycle_2yok.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Ride_a_bicycle_2yok.svg" alt="Ride a bicycle" width="200"/>
   ride_a_bicycle,
 
   /// Title: Ride till I can no more
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Ride_till_I_can_no_more_44wq.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Ride_till_I_can_no_more_44wq.svg" alt="Ride till I can no more" width="200"/>
   ride_till_i_can_no_more,
 
   /// Title: Right places
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/right_places_h9n3.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/right_places_h9n3.svg" alt="Right places" width="200"/>
   right_places,
 
   /// Title: Rising
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/rising_8svm.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/rising_8svm.svg" alt="Rising" width="200"/>
   rising,
 
   /// Title: Road sign
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/road_sign_mfpo.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/road_sign_mfpo.svg" alt="Road sign" width="200"/>
   road_sign,
 
   /// Title: Road to knowledge
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/road_to_knowledge_m8s0.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/road_to_knowledge_m8s0.svg" alt="Road to knowledge" width="200"/>
   road_to_knowledge,
 
   /// Title: Robotics
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/robotics_kep0.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/robotics_kep0.svg" alt="Robotics" width="200"/>
   robotics,
 
   /// Title: Romantic getaway
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/romantic_getaway_k2mf.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/romantic_getaway_k2mf.svg" alt="Romantic getaway" width="200"/>
   romantic_getaway,
 
   /// Title: Runner start
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/runner_start_x0uu.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/runner_start_x0uu.svg" alt="Runner start" width="200"/>
   runner_start,
 
   /// Title: Running wild
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/running_wild_ni0y.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/running_wild_ni0y.svg" alt="Running wild" width="200"/>
   running_wild,
 
   /// Title: Safe
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/safe_bnk7.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/safe_bnk7.svg" alt="Safe" width="200"/>
   safe,
 
   /// Title: Santa claus
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/santa_claus_q0g4.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/santa_claus_q0g4.svg" alt="Santa claus" width="200"/>
   santa_claus,
 
   /// Title: Santa visit
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/santa_visit_loux.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/santa_visit_loux.svg" alt="Santa visit" width="200"/>
   santa_visit,
 
   /// Title: Save to bookmarks
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/save_to_bookmarks_y708.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/save_to_bookmarks_y708.svg" alt="Save to bookmarks" width="200"/>
   save_to_bookmarks,
 
   /// Title: Savings
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Savings_re_eq4w.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Savings_re_eq4w.svg" alt="Savings" width="200"/>
   savings,
 
   /// Title: Schedule
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/schedule_pnbk.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/schedule_pnbk.svg" alt="Schedule" width="200"/>
   schedule,
 
   /// Title: Science
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/science_fqhl.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/science_fqhl.svg" alt="Science" width="200"/>
   science,
 
   /// Title: Scooter
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/scooter_aia8.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/scooter_aia8.svg" alt="Scooter" width="200"/>
   scooter,
 
   /// Title: Screen time
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/screen_time_vkev.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/screen_time_vkev.svg" alt="Screen time" width="200"/>
   screen_time,
 
   /// Title: Scrum board
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Scrum_board_re_wk7v.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Scrum_board_re_wk7v.svg" alt="Scrum board" width="200"/>
   scrum_board,
 
   /// Title: Sculpting
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/sculpting_1c9p.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/sculpting_1c9p.svg" alt="Sculpting" width="200"/>
   sculpting,
 
   /// Title: Search
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Search_1px8.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Search_1px8.svg" alt="Search" width="200"/>
   search,
 
   /// Title: Search engines
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/search_engines_nn9e.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/search_engines_nn9e.svg" alt="Search engines" width="200"/>
   search_engines,
 
   /// Title: Searching
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/searching_p5ux.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/searching_p5ux.svg" alt="Searching" width="200"/>
   searching,
 
   /// Title: Season change
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/season_change_f99v.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/season_change_f99v.svg" alt="Season change" width="200"/>
   season_change,
 
   /// Title: Secure data
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/secure_data_0rwp.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/secure_data_0rwp.svg" alt="Secure data" width="200"/>
   secure_data,
 
   /// Title: Secure login
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/secure_login_pdn4.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/secure_login_pdn4.svg" alt="Secure login" width="200"/>
   secure_login,
 
   /// Title: Secure server
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/secure_server_s9u8.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/secure_server_s9u8.svg" alt="Secure server" width="200"/>
   secure_server,
 
   /// Title: Security
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/security_o890.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/security_o890.svg" alt="Security" width="200"/>
   security,
 
   /// Title: Security on
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Security_on_ff2u.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Security_on_ff2u.svg" alt="Security on" width="200"/>
   security_on,
 
   /// Title: Segment
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/segment_uwu1.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/segment_uwu1.svg" alt="Segment" width="200"/>
   segment,
 
   /// Title: Segment analysis
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/segment_analysis_bdn4.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/segment_analysis_bdn4.svg" alt="Segment analysis" width="200"/>
   segment_analysis,
 
   /// Title: Segmentation
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/segmentation_uioo.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/segmentation_uioo.svg" alt="Segmentation" width="200"/>
   segmentation,
 
   /// Title: Select
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/select_13cv.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/select_13cv.svg" alt="Select" width="200"/>
   select,
 
   /// Title: Select house
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/select_house_qbag.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/select_house_qbag.svg" alt="Select house" width="200"/>
   select_house,
 
   /// Title: Select option
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/select_option_y75i.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/select_option_y75i.svg" alt="Select option" width="200"/>
   select_option,
 
   /// Title: Select player
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/select_player_64ca.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/select_player_64ca.svg" alt="Select player" width="200"/>
   select_player,
 
   /// Title: Selected options
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/selected_options_42hx.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/selected_options_42hx.svg" alt="Selected options" width="200"/>
   selected_options,
 
   /// Title: Selecting
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/selecting_1lx3.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/selecting_1lx3.svg" alt="Selecting" width="200"/>
   selecting,
 
   /// Title: Selecting team
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/selecting_team_8uux.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/selecting_team_8uux.svg" alt="Selecting team" width="200"/>
   selecting_team,
 
   /// Title: Selection
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/selection_92i4.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/selection_92i4.svg" alt="Selection" width="200"/>
   selection,
 
   /// Title: Selfie
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/selfie1_kpqf.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/selfie1_kpqf.svg" alt="Selfie" width="200"/>
   selfie,
 
   /// Title: Selfie time
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/selfie_time_cws4.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/selfie_time_cws4.svg" alt="Selfie time" width="200"/>
   selfie_time,
 
   /// Title: Send gift
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/send_gift_7o4m.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/send_gift_7o4m.svg" alt="Send gift" width="200"/>
   send_gift,
 
   /// Title: Sentiment analysis
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/sentiment_analysis_jp6w.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/sentiment_analysis_jp6w.svg" alt="Sentiment analysis" width="200"/>
   sentiment_analysis,
 
   /// Title: Server
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/server_q2pb.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/server_q2pb.svg" alt="Server" width="200"/>
   server,
 
   /// Title: Server cluster
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/server_cluster_jwwq.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/server_cluster_jwwq.svg" alt="Server cluster" width="200"/>
   server_cluster,
 
   /// Title: Server down
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/server_down_s4lk.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/server_down_s4lk.svg" alt="Server down" width="200"/>
   server_down,
 
   /// Title: Server push
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/server_push_vtms.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/server_push_vtms.svg" alt="Server push" width="200"/>
   server_push,
 
   /// Title: Server status
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/server_status_5pbv.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/server_status_5pbv.svg" alt="Server status" width="200"/>
   server_status,
 
   /// Title: Services
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/services_5tv9.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/services_5tv9.svg" alt="Services" width="200"/>
   services,
 
   /// Title: Set preferences
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/set_preferences_kwia.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/set_preferences_kwia.svg" alt="Set preferences" width="200"/>
   set_preferences,
 
   /// Title: Settings
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/settings_ii2j.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/settings_ii2j.svg" alt="Settings" width="200"/>
   settings,
 
   /// Title: Settings tab
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/settings_tab_mgiw.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/settings_tab_mgiw.svg" alt="Settings tab" width="200"/>
   settings_tab,
 
   /// Title: Setup
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/setup_obqo.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/setup_obqo.svg" alt="Setup" width="200"/>
   setup,
 
   /// Title: Setup analytics
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/setup_analytics_8qkl.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/setup_analytics_8qkl.svg" alt="Setup analytics" width="200"/>
   setup_analytics,
 
   /// Title: Setup wizard
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/setup_wizard_r6mr.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Setup_wizard_re_nday.svg" alt="Setup wizard" width="200"/>
   setup_wizard,
 
   /// Title: Share
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Share_re_9kfx.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Share_re_9kfx.svg" alt="Share" width="200"/>
   share,
 
   /// Title: Share link
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/share_link_qtxe.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/share_link_qtxe.svg" alt="Share link" width="200"/>
   share_link,
 
   /// Title: Share online
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/share_online_r87b.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/share_online_r87b.svg" alt="Share online" width="200"/>
   share_online,
 
   /// Title: Share opinion
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/share_opinion_jpw0.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/share_opinion_jpw0.svg" alt="Share opinion" width="200"/>
   share_opinion,
 
   /// Title: Shared goals
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/shared_goals_3d12.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/shared_goals_3d12.svg" alt="Shared goals" width="200"/>
   shared_goals,
 
   /// Title: Shared workspace
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/shared_workspace_hwky.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/shared_workspace_hwky.svg" alt="Shared workspace" width="200"/>
   shared_workspace,
 
   /// Title: Sharing articles
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/sharing_articles_t5aa.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/sharing_articles_t5aa.svg" alt="Sharing articles" width="200"/>
   sharing_articles,
 
   /// Title: Shopping
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/shopping_eii3.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/shopping_eii3.svg" alt="Shopping" width="200"/>
   shopping,
 
   /// Title: Shopping app
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/shopping_app_flsj.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/shopping_app_flsj.svg" alt="Shopping app" width="200"/>
   shopping_app,
 
   /// Title: Short bio
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/short_bio_e5pg.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/short_bio_e5pg.svg" alt="Short bio" width="200"/>
   short_bio,
 
   /// Title: Sign in
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/sign_in_e6hj.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/sign_in_e6hj.svg" alt="Sign in" width="200"/>
   sign_in,
 
   /// Title: Signal searching
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/signal_searching_bhpc.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/signal_searching_bhpc.svg" alt="Signal searching" width="200"/>
   signal_searching,
 
   /// Title: Site content
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/site_content_ihgn.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/site_content_ihgn.svg" alt="Site content" width="200"/>
   site_content,
 
   /// Title: Site stats
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/site_stats_l57q.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/site_stats_l57q.svg" alt="Site stats" width="200"/>
   site_stats,
 
   /// Title: Skateboard
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/skateboard_d6or.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/skateboard_d6or.svg" alt="Skateboard" width="200"/>
   skateboard,
 
   /// Title: Skateboarding
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/skateboarding_929d.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/skateboarding_929d.svg" alt="Skateboarding" width="200"/>
   skateboarding,
 
   /// Title: Sleep analysis
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/sleep_analysis_o5f9.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/sleep_analysis_o5f9.svg" alt="Sleep analysis" width="200"/>
   sleep_analysis,
 
   /// Title: Slider
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/slider_5bgj.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/slider_5bgj.svg" alt="Slider" width="200"/>
   slider,
 
   /// Title: Small town
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/small_town_rxs3.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/small_town_rxs3.svg" alt="Small town" width="200"/>
   small_town,
 
   /// Title: Smart home
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/smart_home_28oy.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/smart_home_28oy.svg" alt="Smart home" width="200"/>
   smart_home,
 
   /// Title: Smart resize
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/smart_resize_wpn8.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/smart_resize_wpn8.svg" alt="Smart resize" width="200"/>
   smart_resize,
 
   /// Title: Smartwatch
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/smartwatch_74tv.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/smartwatch_74tv.svg" alt="Smartwatch" width="200"/>
   smartwatch,
 
   /// Title: Smiley face
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Smiley_face_re_9uid.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Smiley_face_re_9uid.svg" alt="Smiley face" width="200"/>
   smiley_face,
 
   /// Title: Snap the moment
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/snap_the_moment_oyn6.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/snap_the_moment_oyn6.svg" alt="Snap the moment" width="200"/>
   snap_the_moment,
 
   /// Title: Snow games
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/snow_games_ohkc.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/snow_games_ohkc.svg" alt="Snow games" width="200"/>
   snow_games,
 
   /// Title: Snowman
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/snowman_1_a2ch.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/snowman_1_a2ch.svg" alt="Snowman" width="200"/>
   snowman,
 
   /// Title: Social bio
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_bio_8pql.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_bio_8pql.svg" alt="Social bio" width="200"/>
   social_bio,
 
   /// Title: Social dashboard
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_dashboard_k3pt.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_dashboard_k3pt.svg" alt="Social dashboard" width="200"/>
   social_dashboard,
 
   /// Title: Social distancing
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_distancing_2g0u.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_distancing_2g0u.svg" alt="Social distancing" width="200"/>
   social_distancing,
 
   /// Title: Social expert
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_expert_07r8.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_expert_07r8.svg" alt="Social expert" width="200"/>
   social_expert,
 
   /// Title: Social friends
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_friends_nsbv.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_friends_nsbv.svg" alt="Social friends" width="200"/>
   social_friends,
 
   /// Title: Social girl
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_girl_562b.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_girl_562b.svg" alt="Social girl" width="200"/>
   social_girl,
 
   /// Title: Social growth
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_growth_d0y3.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_growth_d0y3.svg" alt="Social growth" width="200"/>
   social_growth,
 
   /// Title: Social ideas
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_ideas_e8rj.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_ideas_e8rj.svg" alt="Social ideas" width="200"/>
   social_ideas,
 
   /// Title: Social influencer
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_influencer_sgsv.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_influencer_sgsv.svg" alt="Social influencer" width="200"/>
   social_influencer,
 
   /// Title: Social interaction
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_interaction_cy9i.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_interaction_cy9i.svg" alt="Social interaction" width="200"/>
   social_interaction,
 
   /// Title: Social life
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_life_4np1.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_life_4np1.svg" alt="Social life" width="200"/>
   social_life,
 
   /// Title: Social media
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Social_media_re_w12q.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Social_media_re_w12q.svg" alt="Social media" width="200"/>
   social_media,
 
   /// Title: Social networking
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_networking_nqk4.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_networking_nqk4.svg" alt="Social networking" width="200"/>
   social_networking,
 
   /// Title: Social notifications
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_notifications_ro8o.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_notifications_ro8o.svg" alt="Social notifications" width="200"/>
   social_notifications,
 
   /// Title: Social share
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_share_algy.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_share_algy.svg" alt="Social share" width="200"/>
   social_share,
 
   /// Title: Social sharing
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_sharing_ibwq.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_sharing_ibwq.svg" alt="Social sharing" width="200"/>
   social_sharing,
 
   /// Title: Social strategy
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_strategy_1wuq.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_strategy_1wuq.svg" alt="Social strategy" width="200"/>
   social_strategy,
 
   /// Title: Social thinking
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_thinking_7ule.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_thinking_7ule.svg" alt="Social thinking" width="200"/>
   social_thinking,
 
   /// Title: Social tree
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_tree_1_y9wa.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_tree_1_y9wa.svg" alt="Social tree" width="200"/>
   social_tree,
 
   /// Title: Social update
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_update_puv0.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_update_puv0.svg" alt="Social update" width="200"/>
   social_update,
 
   /// Title: Social user
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_user_lff0.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_user_lff0.svg" alt="Social user" width="200"/>
   social_user,
 
   /// Title: Software engineer
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/software_engineer_lvl5.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/software_engineer_lvl5.svg" alt="Software engineer" width="200"/>
   software_engineer,
 
   /// Title: Solution mindset
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/solution_mindset_34bi.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/solution_mindset_34bi.svg" alt="Solution mindset" width="200"/>
   solution_mindset,
 
   /// Title: Sorting thoughts
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/sorting_thoughts_6d48.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/sorting_thoughts_6d48.svg" alt="Sorting thoughts" width="200"/>
   sorting_thoughts,
 
   /// Title: Source code
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/source_code_xx2e.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/source_code_xx2e.svg" alt="Source code" width="200"/>
   source_code,
 
   /// Title: Special event
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/special_event_4aj8.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/special_event_4aj8.svg" alt="Special event" width="200"/>
   special_event,
 
   /// Title: Specs
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Specs_djh3.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Specs_djh3.svg" alt="Specs" width="200"/>
   specs,
 
   /// Title: Speech to text
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/speech_to_text_9uir.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/speech_to_text_9uir.svg" alt="Speech to text" width="200"/>
   speech_to_text,
 
   /// Title: Speed test
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/speed_test_wxl0.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/speed_test_wxl0.svg" alt="Speed test" width="200"/>
   speed_test,
 
   /// Title: Spooky self
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/spooky_self_gn9s.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/spooky_self_gn9s.svg" alt="Spooky self" width="200"/>
   spooky_self,
 
   /// Title: Spread love
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/spread_love_r9jb.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/spread_love_r9jb.svg" alt="Spread love" width="200"/>
   spread_love,
 
   /// Title: Spreadsheet
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/spreadsheet_69ax.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/spreadsheet_69ax.svg" alt="Spreadsheet" width="200"/>
   spreadsheet,
 
   /// Title: Spreadsheets
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/spreadsheets_xdjy.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/spreadsheets_xdjy.svg" alt="Spreadsheets" width="200"/>
   spreadsheets,
 
   /// Title: Stability ball
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Stability_ball_b4ia.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Stability_ball_b4ia.svg" alt="Stability ball" width="200"/>
   stability_ball,
 
   /// Title: Stand out
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/stand_out_1oag.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/stand_out_1oag.svg" alt="Stand out" width="200"/>
   stand_out,
 
   /// Title: Starman
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/startman1_h7l9.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/startman1_h7l9.svg" alt="Starman" width="200"/>
   starman,
 
   /// Title: Starry window
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/starry_window_ppm0.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/starry_window_ppm0.svg" alt="Starry window" width="200"/>
   starry_window,
 
   /// Title: Start building
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/start_building_vqhd.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/start_building_vqhd.svg" alt="Start building" width="200"/>
   start_building,
 
   /// Title: Startled
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/startled_8p0r.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/startled_8p0r.svg" alt="Startled" width="200"/>
   startled,
 
   /// Title: Startup life
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/startup_life_2du2.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/startup_life_2du2.svg" alt="Startup life" width="200"/>
   startup_life,
 
   /// Title: Static assets
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/static_assets_rpm6.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/static_assets_rpm6.svg" alt="Static assets" width="200"/>
   static_assets,
 
   /// Title: Static website
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/static_website_0107.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/static_website_0107.svg" alt="Static website" width="200"/>
   static_website,
 
   /// Title: Statistic chart
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/statistic_chart_38b6.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/statistic_chart_38b6.svg" alt="Statistic chart" width="200"/>
   statistic_chart,
 
   /// Title: Statistics
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/statistics_ctoq.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/statistics_ctoq.svg" alt="Statistics" width="200"/>
   statistics,
 
   /// Title: Status update
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Status_update_re_dm9y.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Status_update_re_dm9y.svg" alt="Status update" width="200"/>
   status_update,
 
   /// Title: Staying in
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/staying_in_i80u.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/staying_in_i80u.svg" alt="Staying in" width="200"/>
   staying_in,
 
   /// Title: Step to the sun
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/step_to_the_sun_nxqq.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/step_to_the_sun_nxqq.svg" alt="Step to the sun" width="200"/>
   step_to_the_sun,
 
   /// Title: Stepping up
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/stepping_up_g6oo.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/stepping_up_g6oo.svg" alt="Stepping up" width="200"/>
   stepping_up,
 
   /// Title: Steps
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Steps_re_odoy.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Steps_re_odoy.svg" alt="Steps" width="200"/>
   steps,
 
   /// Title: Stock prices
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/stock_prices_afrt.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/stock_prices_afrt.svg" alt="Stock prices" width="200"/>
   stock_prices,
 
   /// Title: Stranded traveler
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/stranded_traveler_pdbw.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/stranded_traveler_pdbw.svg" alt="Stranded traveler" width="200"/>
   stranded_traveler,
 
   /// Title: Street food
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/street_food_hm5i.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/street_food_hm5i.svg" alt="Street food" width="200"/>
   street_food,
 
   /// Title: Stripe payments
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/stripe_payments_o7aw.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/stripe_payments_o7aw.svg" alt="Stripe payments" width="200"/>
   stripe_payments,
 
   /// Title: Studying
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/studying_s3l7.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/studying_s3l7.svg" alt="Studying" width="200"/>
   studying,
 
   /// Title: Subscriber
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/subscriber_vabu.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/subscriber_vabu.svg" alt="Subscriber" width="200"/>
   subscriber,
 
   /// Title: Subscriptions
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/subscriptions_1xdv.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/subscriptions_1xdv.svg" alt="Subscriptions" width="200"/>
   subscriptions,
 
   /// Title: Suburbs
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/suburbs_8b83.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/suburbs_8b83.svg" alt="Suburbs" width="200"/>
   suburbs,
 
   /// Title: Subway
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/subway_7vh7.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/subway_7vh7.svg" alt="Subway" width="200"/>
   subway,
 
   /// Title: Success factors
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/success_factors_fay0.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/success_factors_fay0.svg" alt="Success factors" width="200"/>
   success_factors,
 
   /// Title: Successful purchase
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/successful_purchase_uyin.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/successful_purchase_uyin.svg" alt="Successful purchase" width="200"/>
   successful_purchase,
 
   /// Title: Summer
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/summer_jx06.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/summer_jx06.svg" alt="Summer" width="200"/>
   summer,
 
   /// Title: Sunlight
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/sunlight_tn7t.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/sunlight_tn7t.svg" alt="Sunlight" width="200"/>
   sunlight,
 
   /// Title: Sunny day
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/sunny_day_bk3m.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/sunny_day_bk3m.svg" alt="Sunny day" width="200"/>
   sunny_day,
 
   /// Title: Super thank you
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/super_thank_you_obwk.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/super_thank_you_obwk.svg" alt="Super thank you" width="200"/>
   super_thank_you,
 
   /// Title: Super woman
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/super_woman_dv0y.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/super_woman_dv0y.svg" alt="Super woman" width="200"/>
   super_woman,
 
   /// Title: Superhero
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/superhero_kguv.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/superhero_kguv.svg" alt="Superhero" width="200"/>
   superhero,
 
   /// Title: Surfer
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/surfer_m6jb.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/surfer_m6jb.svg" alt="Surfer" width="200"/>
   surfer,
 
   /// Title: Surveillance
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Surveillance_re_8tkl.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Surveillance_re_8tkl.svg" alt="Surveillance" width="200"/>
   surveillance,
 
   /// Title: Survey
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/survey_05s5.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/survey_05s5.svg" alt="Survey" width="200"/>
   survey,
 
   /// Title: Swipe
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/swipe_xh98.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/swipe_xh98.svg" alt="Swipe" width="200"/>
   swipe,
 
   /// Title: Swipe options
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/swipe_options_2e4v.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/swipe_options_2e4v.svg" alt="Swipe options" width="200"/>
   swipe_options,
 
   /// Title: Swipe profiles
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/swipe_profiles1_i6mr.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/swipe_profiles1_i6mr.svg" alt="Swipe profiles" width="200"/>
   swipe_profiles,
 
   /// Title: Switches
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/switches_1js3.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/switches_1js3.svg" alt="Switches" width="200"/>
   switches,
 
   /// Title: Sync
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/sync4_xlc6.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/sync4_xlc6.svg" alt="Sync" width="200"/>
   sync,
 
   /// Title: Sync files
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/sync_files_xb3r.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/sync_files_xb3r.svg" alt="Sync files" width="200"/>
   sync_files,
 
   /// Title: Synchronize
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/synchronize_ccxk.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/synchronize_ccxk.svg" alt="Synchronize" width="200"/>
   synchronize,
 
   /// Title: Tabs
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/tabs_jf82.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/tabs_jf82.svg" alt="Tabs" width="200"/>
   tabs,
 
   /// Title: Tailwind CSS
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/tailwind_css_1egw.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/tailwind_css_1egw.svg" alt="Tailwind CSS" width="200"/>
   tailwind_css,
 
   /// Title: Take out boxes
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/takeout_boxes_ap54.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/takeout_boxes_ap54.svg" alt="Take out boxes" width="200"/>
   take_out_boxes,
 
   /// Title: Taken
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Taken_if77.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Taken_if77.svg" alt="Taken" width="200"/>
   taken,
 
   /// Title: Taking notes
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/taking_notes_tjaf.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/taking_notes_tjaf.svg" alt="Taking notes" width="200"/>
   taking_notes,
 
   /// Title: Taking selfie
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/taking_selfie_lbo7.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/taking_selfie_lbo7.svg" alt="Taking selfie" width="200"/>
   taking_selfie,
 
   /// Title: Target
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/target_kriv.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/target_kriv.svg" alt="Target" width="200"/>
   target,
 
   /// Title: Task
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/task_31wc.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/task_31wc.svg" alt="Task" width="200"/>
   task,
 
   /// Title: Task list
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/task_list_6x9d.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/task_list_6x9d.svg" alt="Task list" width="200"/>
   task_list,
 
   /// Title: Tasks
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/tasks_av87.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/tasks_av87.svg" alt="Tasks" width="200"/>
   tasks,
 
   /// Title: Tasting
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/tasting_de22.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/tasting_de22.svg" alt="Tasting" width="200"/>
   tasting,
 
   /// Title: Teacher
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/teacher_35j2.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/teacher_35j2.svg" alt="Teacher" width="200"/>
   teacher,
 
   /// Title: Teaching
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/teaching_f1cm.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/teaching_f1cm.svg" alt="Teaching" width="200"/>
   teaching,
 
   /// Title: Team
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/team_ih79.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/team_ih79.svg" alt="Team" width="200"/>
   team,
 
   /// Title: Team chat
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/team_chat_y27k.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/team_chat_y27k.svg" alt="Team chat" width="200"/>
   team_chat,
 
   /// Title: Team collaboration
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/team_collaboration_8eoc.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/team_collaboration_8eoc.svg" alt="Team collaboration" width="200"/>
   team_collaboration,
 
   /// Title: Team goals
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/team_goals_hrii.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/team_goals_hrii.svg" alt="Team goals" width="200"/>
   team_goals,
 
   /// Title: Team page
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Team_page_re_cffb.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Team_page_re_cffb.svg" alt="Team page" width="200"/>
   team_page,
 
   /// Title: Team spirit
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/team_spirit_hrr4.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/team_spirit_hrr4.svg" alt="Team spirit" width="200"/>
   team_spirit,
 
   /// Title: Team up
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/team_up_ip2x.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/team_up_ip2x.svg" alt="Team up" width="200"/>
   team_up,
 
   /// Title: Team work
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/team_work_k80m.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/team_work_k80m.svg" alt="Team work" width="200"/>
   team_work,
 
   /// Title: Teddy bear
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/teddy_bear_hns1.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/teddy_bear_hns1.svg" alt="Teddy bear" width="200"/>
   teddy_bear,
 
   /// Title: Terms
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Terms_re_6ak4.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Terms_re_6ak4.svg" alt="Terms" width="200"/>
   terms,
 
   /// Title: Text field
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/text_field_htlv.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/text_field_htlv.svg" alt="Text field" width="200"/>
   text_field,
 
   /// Title: Text files
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/text_files_au1q.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/text_files_au1q.svg" alt="Text files" width="200"/>
   text_files,
 
   /// Title: Texting
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/texting_k35o.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/texting_k35o.svg" alt="Texting" width="200"/>
   texting,
 
   /// Title: The search
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/the_search_s0xf.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/the_search_s0xf.svg" alt="The search" width="200"/>
   the_search,
 
   /// Title: The world is mine
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/the_world_is_mine_nb0e.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/the_world_is_mine_nb0e.svg" alt="The world is mine" width="200"/>
   the_world_is_mine,
 
   /// Title: Things to say
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/things_to_say_ewwb.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/things_to_say_ewwb.svg" alt="Things to say" width="200"/>
   things_to_say,
 
   /// Title: Thought process
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/thought_process_67my.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/thought_process_67my.svg" alt="Thought process" width="200"/>
   thought_process,
 
   /// Title: Thoughts
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/thoughts_e49y.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/thoughts_e49y.svg" alt="Thoughts" width="200"/>
   thoughts,
 
   /// Title: Through the desert
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Through_the_desert_rqtu.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Through_the_desert_rqtu.svg" alt="Through the desert" width="200"/>
   through_the_desert,
 
   /// Title: Through the park
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/through_the_park_lxnl.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/through_the_park_lxnl.svg" alt="Through the park" width="200"/>
   through_the_park,
 
   /// Title: Through the window
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/through_the_window_51ew.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/through_the_window_51ew.svg" alt="Through the window" width="200"/>
   through_the_window,
 
   /// Title: Throw away
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Throw_away_re_x60k.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Throw_away_re_x60k.svg" alt="Throw away" width="200"/>
   throw_away,
 
   /// Title: Throw down
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/throw_down_ub2l.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/throw_down_ub2l.svg" alt="Throw down" width="200"/>
   throw_down,
 
   /// Title: Time management
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/time_management_30iu.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/time_management_30iu.svg" alt="Time management" width="200"/>
   time_management,
 
   /// Title: Timeline
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Timeline_re_aw6g.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Timeline_re_aw6g.svg" alt="Timeline" width="200"/>
   timeline,
 
   /// Title: To do
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/to_do_xvvc.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/to_do_xvvc.svg" alt="To do" width="200"/>
   to_do,
 
   /// Title: To do list
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/To_do_list_re_9nt7.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/To_do_list_re_9nt7.svg" alt="To do list" width="200"/>
   to_do_list,
 
   /// Title: To the moon
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/to_the_moon_v1mv.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/to_the_moon_v1mv.svg" alt="To the moon" width="200"/>
   to_the_moon,
 
   /// Title: To the stars
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/To_the_stars_qhyy.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/To_the_stars_qhyy.svg" alt="To the stars" width="200"/>
   to_the_stars,
 
   /// Title: Together
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/together_j0gj.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/together_j0gj.svg" alt="Together" width="200"/>
   together,
 
   /// Title: Towing
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/towing_6yy4.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/towing_6yy4.svg" alt="Towing" width="200"/>
   towing,
 
   /// Title: Town
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/town_r6pc.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/town_r6pc.svg" alt="Town" width="200"/>
   town,
 
   /// Title: Toy car
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/toy_car_7umw.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/toy_car_7umw.svg" alt="Toy car" width="200"/>
   toy_car,
 
   /// Title: Track and field
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/track_and_field_33qn.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/track_and_field_33qn.svg" alt="Track and field" width="200"/>
   track_and_field,
 
   /// Title: Transfer files
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/transfer_files_6tns.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/transfer_files_6tns.svg" alt="Transfer files" width="200"/>
   transfer_files,
 
   /// Title: Transfer money
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/transfer_money_rywa.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/transfer_money_rywa.svg" alt="Transfer money" width="200"/>
   transfer_money,
 
   /// Title: Travel booking
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/travel_booking_6koc.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/travel_booking_6koc.svg" alt="Travel booking" width="200"/>
   travel_booking,
 
   /// Title: Travel mode
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/travel_mode_7sf4.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/travel_mode_7sf4.svg" alt="Travel mode" width="200"/>
   travel_mode,
 
   /// Title: Travel plans
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/travel_plans_li01.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/travel_plans_li01.svg" alt="Travel plans" width="200"/>
   travel_plans,
 
   /// Title: Travel together
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/travel_together_re_kjf2.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/travel_together_re_kjf2.svg" alt="Travel together" width="200"/>
   travel_together,
 
   /// Title: Travelers
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/travelers_qlt1.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/travelers_qlt1.svg" alt="Travelers" width="200"/>
   travelers,
 
   /// Title: Traveling
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/traveling_t8y2.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/traveling_t8y2.svg" alt="Traveling" width="200"/>
   traveling,
 
   /// Title: Treasure
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/treasure_of9i.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/treasure_of9i.svg" alt="Treasure" width="200"/>
   treasure,
 
   /// Title: Tree swing
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Tree_swing_646s.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Tree_swing_646s.svg" alt="Tree swing" width="200"/>
   tree_swing,
 
   /// Title: Trends
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/trends_a5mf.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/trends_a5mf.svg" alt="Trends" width="200"/>
   trends,
 
   /// Title: Trendy interface
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/trendy_interface_lg8x.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/trendy_interface_lg8x.svg" alt="Trendy interface" width="200"/>
   trendy_interface,
 
   /// Title: Trip
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/trip_dv9f.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/trip_dv9f.svg" alt="Trip" width="200"/>
   trip,
 
   /// Title: True friends
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/true_friends_c94g.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/true_friends_c94g.svg" alt="True friends" width="200"/>
   true_friends,
 
   /// Title: True love
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/true_love_cy8x.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/true_love_cy8x.svg" alt="True love" width="200"/>
   true_love,
 
   /// Title: Tutorial video
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/tutorial_video_vtd1.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/tutorial_video_vtd1.svg" alt="Tutorial video" width="200"/>
   tutorial_video,
 
   /// Title: Tweetstorm
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/tweetstorm_49e8.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/tweetstorm_49e8.svg" alt="Tweetstorm" width="200"/>
   tweetstorm,
 
   /// Title: Two factor authentication
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/two_factor_authentication_namy.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/two_factor_authentication_namy.svg" alt="Two factor authentication" width="200"/>
   two_factor_authentication,
 
   /// Title: Typewriter
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/typewriter_i8xd.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/typewriter_i8xd.svg" alt="Typewriter" width="200"/>
   typewriter,
 
   /// Title: Typing
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/typing_jie3.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/typing_jie3.svg" alt="Typing" width="200"/>
   typing,
 
   /// Title: Unboxing
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/unboxing_pbmf.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/unboxing_pbmf.svg" alt="Unboxing" width="200"/>
   unboxing,
 
   /// Title: Under construction
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/under_construction_46pa.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/under_construction_46pa.svg" alt="Under construction" width="200"/>
   under_construction,
 
   /// Title: Unexpected friends
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/unexpected_friends_tg6k.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/unexpected_friends_tg6k.svg" alt="Unexpected friends" width="200"/>
   unexpected_friends,
 
   /// Title: Unicorn
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/unicorn_dp2f.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/unicorn_dp2f.svg" alt="Unicorn" width="200"/>
   unicorn,
 
   /// Title: Unlock
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/unlock_24mb.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/unlock_24mb.svg" alt="Unlock" width="200"/>
   unlock,
 
   /// Title: Up to date
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/up_to_date_rmbm.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/up_to_date_rmbm.svg" alt="Up to date" width="200"/>
   up_to_date,
 
   /// Title: Update
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/update_uxn2.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/update_uxn2.svg" alt="Update" width="200"/>
   update,
 
   /// Title: Updated
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Updated_re_u4yh.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Updated_re_u4yh.svg" alt="Updated" width="200"/>
   updated,
 
   /// Title: Updated resume
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/updated_resume_u4fy.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/updated_resume_u4fy.svg" alt="Updated resume" width="200"/>
   updated_resume,
 
   /// Title: Updates
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/updates_et2k.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/updates_et2k.svg" alt="Updates" width="200"/>
   updates,
 
   /// Title: Upgrade
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/upgrade_06a0.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/upgrade_06a0.svg" alt="Upgrade" width="200"/>
   upgrade,
 
   /// Title: Upload
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/upload_87y9.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/upload_87y9.svg" alt="Upload" width="200"/>
   upload,
 
   /// Title: Upload image
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/upload_image_iwej.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/upload_image_iwej.svg" alt="Upload image" width="200"/>
   upload_image,
 
   /// Title: Uploading
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/uploading_go67.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/uploading_go67.svg" alt="Uploading" width="200"/>
   uploading,
 
   /// Title: Upvote
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/upvote_96dp.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/upvote_96dp.svg" alt="Upvote" width="200"/>
   upvote,
 
   /// Title: Urban design
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/urban_design_kpu8.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/urban_design_kpu8.svg" alt="Urban design" width="200"/>
   urban_design,
 
   /// Title: Usability testing
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/usability_testing_2xs4.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/usability_testing_2xs4.svg" alt="Usability testing" width="200"/>
   usability_testing,
 
   /// Title: User flow
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/User_flow_re_bvfx.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/User_flow_re_bvfx.svg" alt="User flow" width="200"/>
   user_flow,
 
   /// Title: VR chat
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/vr_chat_kq3p.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/vr_chat_kq3p.svg" alt="VR chat" width="200"/>
   vr_chat,
 
   /// Title: Vault
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/vault_9cmw.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/vault_9cmw.svg" alt="Vault" width="200"/>
   vault,
 
   /// Title: Vehicle sale
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Vehicle_sale_a645.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Vehicle_sale_a645.svg" alt="Vehicle sale" width="200"/>
   vehicle_sale,
 
   /// Title: Verified
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/verified_tw20.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/verified_tw20.svg" alt="Verified" width="200"/>
   verified,
 
   /// Title: Version control
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/version_control_9bpv.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/version_control_9bpv.svg" alt="Version control" width="200"/>
   version_control,
 
   /// Title: Video call
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/video_call_kxyp.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/video_call_kxyp.svg" alt="Video call" width="200"/>
   video_call,
 
   /// Title: Video files
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/video_files_fu10.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/video_files_fu10.svg" alt="Video files" width="200"/>
   video_files,
 
   /// Title: Video game night
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/video_game_night_8h8m.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/video_game_night_8h8m.svg" alt="Video game night" width="200"/>
   video_game_night,
 
   /// Title: Video influencer
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/video_influencer_9oyy.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/video_influencer_9oyy.svg" alt="Video influencer" width="200"/>
   video_influencer,
 
   /// Title: Video streaming
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/video_streaming_yyld.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/video_streaming_yyld.svg" alt="Video streaming" width="200"/>
   video_streaming,
 
   /// Title: Video upload
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/video_upload_3d4u.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/video_upload_3d4u.svg" alt="Video upload" width="200"/>
   video_upload,
 
   /// Title: Videographer
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/videographer_nnc7.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/videographer_nnc7.svg" alt="Videographer" width="200"/>
   videographer,
 
   /// Title: Viral tweet
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/viral_tweet_gndb.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/viral_tweet_gndb.svg" alt="Viral tweet" width="200"/>
   viral_tweet,
 
   /// Title: Virtual assistant
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/virtual_assistant_jjo2.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/virtual_assistant_jjo2.svg" alt="Virtual assistant" width="200"/>
   virtual_assistant,
 
   /// Title: Virtual reality
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/virtual_reality_y5ig.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/virtual_reality_y5ig.svg" alt="Virtual reality" width="200"/>
   virtual_reality,
 
   /// Title: Visionary technology
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/visionary_technology_33jy.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/visionary_technology_33jy.svg" alt="Visionary technology" width="200"/>
   visionary_technology,
 
   /// Title: Visualization
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/visualization_c2ps.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/visualization_c2ps.svg" alt="Visualization" width="200"/>
   visualization,
 
   /// Title: Voice assistant
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/voice_assistant_nrv7.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/voice_assistant_nrv7.svg" alt="Voice assistant" width="200"/>
   voice_assistant,
 
   /// Title: Voice control
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/voice_control_ofo1.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/voice_control_ofo1.svg" alt="Voice control" width="200"/>
   voice_control,
 
   /// Title: Voice interface
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/voice_interface_eckp.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/voice_interface_eckp.svg" alt="Voice interface" width="200"/>
   voice_interface,
 
   /// Title: Void
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/void_3ggu.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/void_3ggu.svg" alt="Void" width="200"/>
   void_,
 
   /// Title: Voting
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/voting_nvu7.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/voting_nvu7.svg" alt="Voting" width="200"/>
   voting,
 
   /// Title: Waiting for you
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Waiting__for_you_ldha.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Waiting__for_you_ldha.svg" alt="Waiting for you" width="200"/>
   waiting_for_you,
 
   /// Title: Walk dreaming
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/walk_dreaming_u58a.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/walk_dreaming_u58a.svg" alt="Walk dreaming" width="200"/>
   walk_dreaming,
 
   /// Title: Walk in the city
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/walk_in_the_city_1ma6.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/walk_in_the_city_1ma6.svg" alt="Walk in the city" width="200"/>
   walk_in_the_city,
 
   /// Title: Walking around
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/walking_around_25f5.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/walking_around_25f5.svg" alt="Walking around" width="200"/>
   walking_around,
 
   /// Title: Walking outside
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/walking_outside_5ueb.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/walking_outside_5ueb.svg" alt="Walking outside" width="200"/>
   walking_outside,
 
   /// Title: Wall post
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/wall_post_83ul.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/wall_post_83ul.svg" alt="Wall post" width="200"/>
   wall_post,
 
   /// Title: Wallet
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/wallet_aym5.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/wallet_aym5.svg" alt="Wallet" width="200"/>
   wallet,
 
   /// Title: Wandering mind
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/wandering_mind_0mkm.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/wandering_mind_0mkm.svg" alt="Wandering mind" width="200"/>
   wandering_mind,
 
   /// Title: Warning
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/warning_cyit.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/warning_cyit.svg" alt="Warning" width="200"/>
   warning,
 
   /// Title: Wash hands
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/wash_hands_nwl2.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/wash_hands_nwl2.svg" alt="Wash hands" width="200"/>
   wash_hands,
 
   /// Title: Watch application
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/watch_application_uhc9.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/watch_application_uhc9.svg" alt="Watch application" width="200"/>
   watch_application,
 
   /// Title: Weather
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/weather_d9t2.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/weather_d9t2.svg" alt="Weather" width="200"/>
   weather,
 
   /// Title: Weather app
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/weather_app_i5sm.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/weather_app_i5sm.svg" alt="Weather app" width="200"/>
   weather_app,
 
   /// Title: Weather notification
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/weather_notification_4sbo.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/weather_notification_4sbo.svg" alt="Weather notification" width="200"/>
   weather_notification,
 
   /// Title: Web browsing
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/web_browsing_p77h.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/web_browsing_p77h.svg" alt="Web browsing" width="200"/>
   web_browsing,
 
   /// Title: Web developer
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/web_developer_p3e5.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/web_developer_p3e5.svg" alt="Web developer" width="200"/>
   web_developer,
 
   /// Title: Web development
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/web_development_w2vv.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/web_development_w2vv.svg" alt="Web development" width="200"/>
   web_development,
 
   /// Title: Web devices
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/web_devices_ad58.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/web_devices_ad58.svg" alt="Web devices" width="200"/>
   web_devices,
 
   /// Title: Web search
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/web_search_eetr.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/web_search_eetr.svg" alt="Web search" width="200"/>
   web_search,
 
   /// Title: Web shopping
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/web_shopping_dd4l.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/web_shopping_dd4l.svg" alt="Web shopping" width="200"/>
   web_shopping,
 
   /// Title: Website builder
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/website_builder_bxki.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/website_builder_bxki.svg" alt="Website builder" width="200"/>
   website_builder,
 
   /// Title: Website setup
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/website_setup_5hr2.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/website_setup_5hr2.svg" alt="Website setup" width="200"/>
   website_setup,
 
   /// Title: Wedding
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/wedding_t1yl.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/wedding_t1yl.svg" alt="Wedding" width="200"/>
   wedding,
 
   /// Title: Welcome
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/welcome_3gvl.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/welcome_3gvl.svg" alt="Welcome" width="200"/>
   welcome,
 
   /// Title: Welcome cats
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/welcome_cats_thqn.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/welcome_cats_thqn.svg" alt="Welcome cats" width="200"/>
   welcome_cats,
 
   /// Title: Welcoming
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/welcoming_xvuq.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/welcoming_xvuq.svg" alt="Welcoming" width="200"/>
   welcoming,
 
   /// Title: Wilderness
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/wilderness_81ka.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/wilderness_81ka.svg" alt="Wilderness" width="200"/>
   wilderness,
 
   /// Title: Wind turbine
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/wind_turbine_x2k4.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/wind_turbine_x2k4.svg" alt="Wind turbine" width="200"/>
   wind_turbine,
 
   /// Title: Window shopping
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/window_shopping_b96y.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/window_shopping_b96y.svg" alt="Window shopping" width="200"/>
   window_shopping,
 
   /// Title: Windows
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/windows_q9m0.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/windows_q9m0.svg" alt="Windows" width="200"/>
   windows,
 
   /// Title: Windy day
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/windy_day_x63l.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/windy_day_x63l.svg" alt="Windy day" width="200"/>
   windy_day,
 
   /// Title: Wine tasting
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/wine_tasting_30vw.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/wine_tasting_30vw.svg" alt="Wine tasting" width="200"/>
   wine_tasting,
 
   /// Title: Winners
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/winners_ao2o.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/winners_ao2o.svg" alt="Winners" width="200"/>
   winners,
 
   /// Title: Winter activities
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/winter_activities_vv0v.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/winter_activities_vv0v.svg" alt="Winter activities" width="200"/>
   winter_activities,
 
   /// Title: Winter designer
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/winter_designer_a2m7.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/winter_designer_a2m7.svg" alt="Winter designer" width="200"/>
   winter_designer,
 
   /// Title: Winter magic
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/winter_magic_5xu2.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/winter_magic_5xu2.svg" alt="Winter magic" width="200"/>
   winter_magic,
 
   /// Title: Winter olympics
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Winter_olympics_p07j.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Winter_olympics_p07j.svg" alt="Winter olympics" width="200"/>
   winter_olympics,
 
   /// Title: Winter road
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/winter_road_mcqj.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/winter_road_mcqj.svg" alt="Winter road" width="200"/>
   winter_road,
 
   /// Title: Winter walk
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/winter_walk_2yac.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/winter_walk_2yac.svg" alt="Winter walk" width="200"/>
   winter_walk,
 
   /// Title: Wireframing
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/wireframing_nxyi.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/wireframing_nxyi.svg" alt="Wireframing" width="200"/>
   wireframing,
 
   /// Title: Wishes
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/wishes_icyp.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/wishes_icyp.svg" alt="Wishes" width="200"/>
   wishes,
 
   /// Title: Wishlist
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/wishlist_jk8a.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/wishlist_jk8a.svg" alt="Wishlist" width="200"/>
   wishlist,
 
   /// Title: Witch
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/witch_7uk7.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/witch_7uk7.svg" alt="Witch" width="200"/>
   witch,
 
   /// Title: With love
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/with_love_ajy1.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/with_love_ajy1.svg" alt="With love" width="200"/>
   with_love,
 
   /// Title: Woman
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/woman_mevk.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/woman_mevk.svg" alt="Woman" width="200"/>
   woman,
 
   /// Title: Women day
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/women_day_2m89.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/women_day_2m89.svg" alt="Women day" width="200"/>
   women_day,
 
   /// Title: Word of mouth
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/word_of_mouth_v1j9.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/word_of_mouth_v1j9.svg" alt="Word of mouth" width="200"/>
   word_of_mouth,
 
   /// Title: Wordpress
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/wordpress_utxt.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/wordpress_utxt.svg" alt="Wordpress" width="200"/>
   wordpress,
 
   /// Title: Work chat
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/work_chat_erdt.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/work_chat_erdt.svg" alt="Work chat" width="200"/>
   work_chat,
 
   /// Title: Work from anywhere
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/work_from_anywhere_7sdx.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/work_from_anywhere_7sdx.svg" alt="Work from anywhere" width="200"/>
   work_from_anywhere,
 
   /// Title: Work in progress
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/work_in_progress_uhmv.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/work_in_progress_uhmv.svg" alt="Work in progress" width="200"/>
   work_in_progress,
 
   /// Title: Work time
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Work_time_re_hdyv.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Work_time_re_hdyv.svg" alt="Work time" width="200"/>
   work_time,
 
   /// Title: Work together
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/work_together_h63l.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/work_together_h63l.svg" alt="Work together" width="200"/>
   work_together,
 
   /// Title: Working
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Working_oh83.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Working_oh83.svg" alt="Working" width="200"/>
   working,
 
   /// Title: Working from anywhere
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/working_from_anywhere_ub67.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/working_from_anywhere_ub67.svg" alt="Working from anywhere" width="200"/>
   working_from_anywhere,
 
   /// Title: Working late
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/working_late_pukg.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/working_late_pukg.svg" alt="Working late" width="200"/>
   working_late,
 
   /// Title: Working out
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/working_out_6psf.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/working_out_6psf.svg" alt="Working out" width="200"/>
   working_out,
 
   /// Title: Working remotely
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/working_remotely_jh40.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/working_remotely_jh40.svg" alt="Working remotely" width="200"/>
   working_remotely,
 
   /// Title: Workout
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/workout_gcgu.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/workout_gcgu.svg" alt="Workout" width="200"/>
   workout,
 
   /// Title: World
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/world_9iqb.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/world_9iqb.svg" alt="World" width="200"/>
   world,
 
   /// Title: Xmas snowman
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/xmas_snowman_k7yf.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/xmas_snowman_k7yf.svg" alt="Xmas snowman" width="200"/>
   xmas_snowman,
 
   /// Title: Xmas surprise
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/xmas_surprise_57p1.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/xmas_surprise_57p1.svg" alt="Xmas surprise" width="200"/>
   xmas_surprise,
 
   /// Title: Yacht
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Yacht_8g6r.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Yacht_8g6r.svg" alt="Yacht" width="200"/>
   yacht,
 
   /// Title: Yoga
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/yoga_248n.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/yoga_248n.svg" alt="Yoga" width="200"/>
   yoga,
 
   /// Title: Young and happy
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/young_and_happy_hfpe.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/young_and_happy_hfpe.svg" alt="Young and happy" width="200"/>
   young_and_happy,
 
   /// Title: Youtube tutorial
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/youtube_tutorial_2gn3.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/youtube_tutorial_2gn3.svg" alt="Youtube tutorial" width="200"/>
   youtube_tutorial,
 
   /// Title: Zoom in
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/zoom_in_1txs.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/zoom_in_1txs.svg" alt="Zoom in" width="200"/>
   zoom_in,
 
   /// Title: career progress
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/career_progress_ivdb.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/career_progress_ivdb.svg" alt="career progress" width="200"/>
   career_progress,
 
   /// Title: pair programming
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/pair_programming_njlp.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/pair_programming_njlp.svg" alt="pair programming" width="200"/>
   pair_programming,
 
   /// Title: unDraw 1000
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/unDraw_1000_gty8.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/unDraw_1000_gty8.svg" alt="unDraw 1000" width="200"/>
   undraw_1000,
 
   /// Title: visual data
-  /// ![](https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/visual_data_b1wx.svg)
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/visual_data_b1wx.svg" alt="visual data" width="200"/>
   visual_data
 }
 
@@ -5332,7 +6624,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.card_postal: '$baseUrl/card_postal_5wvw.svg',
   UnDrawIllustration.career_development: '$baseUrl/career_development_oqcb.svg',
   UnDrawIllustration.cautious_dog: '$baseUrl/Cautious_dog_q83f.svg',
-  UnDrawIllustration.celebrating: '$baseUrl/celebrating_bol5.svg',
+  UnDrawIllustration.celebrating: '$baseUrl/Celebrating_re_fsbq.svg',
   UnDrawIllustration.celebration: '$baseUrl/celebration_0jvk.svg',
   UnDrawIllustration.certificate: '$baseUrl/certificate_343v.svg',
   UnDrawIllustration.certification: '$baseUrl/certification_aif8.svg',
@@ -5781,7 +7073,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.link_shortener: '$baseUrl/link_shortener_mvf6.svg',
   UnDrawIllustration.listening: '$baseUrl/listening_1u79.svg',
   UnDrawIllustration.live_collaboration: '$baseUrl/live_collaboration_2r4y.svg',
-  UnDrawIllustration.live_photo: '$baseUrl/live_photo_qhmw.svg',
+  UnDrawIllustration.live_photo: '$baseUrl/Live_photo_re_4khn.svg',
   UnDrawIllustration.load_more: '$baseUrl/Load_more_2yd7.svg',
   UnDrawIllustration.loading: '$baseUrl/loading_frh4.svg',
   UnDrawIllustration.location_review: '$baseUrl/location_review_dmxd.svg',
@@ -6162,7 +7454,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.resume_folder: '$baseUrl/Resume_folder_re_e0bi.svg',
   UnDrawIllustration.revenue: '$baseUrl/revenue_3osh.svg',
   UnDrawIllustration.review: '$baseUrl/review_fkgn.svg',
-  UnDrawIllustration.reviewed_docs: '$baseUrl/reviewed_docs_neeb.svg',
+  UnDrawIllustration.reviewed_docs: '$baseUrl/Reviewed_docs_re_9lmr.svg',
   UnDrawIllustration.reviews: '$baseUrl/reviews_lp8w.svg',
   UnDrawIllustration.ride_a_bicycle: '$baseUrl/Ride_a_bicycle_2yok.svg',
   UnDrawIllustration.ride_till_i_can_no_more:
@@ -6221,7 +7513,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.settings_tab: '$baseUrl/settings_tab_mgiw.svg',
   UnDrawIllustration.setup: '$baseUrl/setup_obqo.svg',
   UnDrawIllustration.setup_analytics: '$baseUrl/setup_analytics_8qkl.svg',
-  UnDrawIllustration.setup_wizard: '$baseUrl/setup_wizard_r6mr.svg',
+  UnDrawIllustration.setup_wizard: '$baseUrl/Setup_wizard_re_nday.svg',
   UnDrawIllustration.share: '$baseUrl/Share_re_9kfx.svg',
   UnDrawIllustration.share_link: '$baseUrl/share_link_qtxe.svg',
   UnDrawIllustration.share_online: '$baseUrl/share_online_r87b.svg',
