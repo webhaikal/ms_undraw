@@ -58,17 +58,30 @@ _updateLibraryVersion() async {
 }
 
 _updateLibrary() async {
-  await Process.run(
-    'pub',
+  var process = await Process.start(
+    'pub.bat',
     ['publish'],
   );
+  process.stdout.listen((event) {
+    if (event.contains('Do you want to publish ms_undraw')) {
+      process.stdin.write('y');
+      process.stdin.writeln();
+    }
+  });
 }
 
 _pushingChanges() async {
-  await Process.run(
+  var process = await Process.start(
     'git',
     ['push', 'origin', 'master'],
   );
+
+  process.stdout.listen((event) {
+    if (event.contains('Enter passphrase for')) {
+      process.stdin.write(Platform.environment['GIT_PASSWORD']);
+      process.stdin.writeln();
+    }
+  });
 }
 
 _commitChanges() async {
