@@ -286,6 +286,11 @@ enum UnDrawIllustration {
   /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Appreciation_sjc1.svg" alt="Appreciation" width="200"/>
   appreciation,
 
+  /// Title: Approve
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/approve_qwp7.svg" alt="Approve" width="200"/>
+  approve,
+
   /// Title: Apps
   /// <br/>
   /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/apps_m7mh.svg" alt="Apps" width="200"/>
@@ -998,7 +1003,7 @@ enum UnDrawIllustration {
 
   /// Title: Collaboration
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/collaboration2_8og0.svg" alt="Collaboration" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Collaboration_re_vyau.svg" alt="Collaboration" width="200"/>
   collaboration,
 
   /// Title: Collaborators
@@ -1013,7 +1018,7 @@ enum UnDrawIllustration {
 
   /// Title: Collection
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/collection_u2np.svg" alt="Collection" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Collection_re_4h7d.svg" alt="Collection" width="200"/>
   collection,
 
   /// Title: Color palette
@@ -2768,7 +2773,7 @@ enum UnDrawIllustration {
 
   /// Title: Invest
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/invest_88iw.svg" alt="Invest" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Invest_re_8jl5.svg" alt="Invest" width="200"/>
   invest,
 
   /// Title: Investing
@@ -3873,7 +3878,7 @@ enum UnDrawIllustration {
 
   /// Title: Online world
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_world_mc1t.svg" alt="Online world" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Online_world_re_h4cb.svg" alt="Online world" width="200"/>
   online_world,
 
   /// Title: Open source
@@ -4683,7 +4688,7 @@ enum UnDrawIllustration {
 
   /// Title: Relaxing at home
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/relaxing_at_home_9tyc.svg" alt="Relaxing at home" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Relaxing_at_home_re_mror.svg" alt="Relaxing at home" width="200"/>
   relaxing_at_home,
 
   /// Title: Reminder
@@ -5588,7 +5593,7 @@ enum UnDrawIllustration {
 
   /// Title: Taken
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Taken_if77.svg" alt="Taken" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Taken_re_yn20.svg" alt="Taken" width="200"/>
   taken,
 
   /// Title: Taking notes
@@ -6168,7 +6173,7 @@ enum UnDrawIllustration {
 
   /// Title: Weather app
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/weather_app_i5sm.svg" alt="Weather app" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Weather_app_re_kcb1.svg" alt="Weather app" width="200"/>
   weather_app,
 
   /// Title: Weather notification
@@ -6526,6 +6531,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.app_installation: '$baseUrl/app_installation_mbdv.svg',
   UnDrawIllustration.app_wireframe: '$baseUrl/app_wireframe_9ssu.svg',
   UnDrawIllustration.appreciation: '$baseUrl/Appreciation_sjc1.svg',
+  UnDrawIllustration.approve: '$baseUrl/approve_qwp7.svg',
   UnDrawIllustration.apps: '$baseUrl/apps_m7mh.svg',
   UnDrawIllustration.around_the_world: '$baseUrl/Around_the_world_re_n353.svg',
   UnDrawIllustration.arrived: '$baseUrl/arrived_f58d.svg',
@@ -6670,10 +6676,10 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.cohort_analysis: '$baseUrl/cohort_analysis_stny.svg',
   UnDrawIllustration.collab: '$baseUrl/collab_8oes.svg',
   UnDrawIllustration.collaborating: '$baseUrl/collaborating_g8k8.svg',
-  UnDrawIllustration.collaboration: '$baseUrl/collaboration2_8og0.svg',
+  UnDrawIllustration.collaboration: '$baseUrl/Collaboration_re_vyau.svg',
   UnDrawIllustration.collaborators: '$baseUrl/collaborators_prrw.svg',
   UnDrawIllustration.collecting: '$baseUrl/collecting_fjjl.svg',
-  UnDrawIllustration.collection: '$baseUrl/collection_u2np.svg',
+  UnDrawIllustration.collection: '$baseUrl/Collection_re_4h7d.svg',
   UnDrawIllustration.color_palette: '$baseUrl/color_palette_yamk.svg',
   UnDrawIllustration.color_schemes: '$baseUrl/color__schemes_wv48.svg',
   UnDrawIllustration.coming_home: '$baseUrl/coming_home_52ir.svg',
@@ -7037,7 +7043,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.internet_on_the_go: '$baseUrl/Internet_on_the_go_5xx0.svg',
   UnDrawIllustration.interview: '$baseUrl/interview_rmcf.svg',
   UnDrawIllustration.into_the_night: '$baseUrl/into_the_night_vumi.svg',
-  UnDrawIllustration.invest: '$baseUrl/invest_88iw.svg',
+  UnDrawIllustration.invest: '$baseUrl/Invest_re_8jl5.svg',
   UnDrawIllustration.investing: '$baseUrl/investing_7u74.svg',
   UnDrawIllustration.investment: '$baseUrl/investment_xv9d.svg',
   UnDrawIllustration.investment_data: '$baseUrl/investment_data_yfvt.svg',
@@ -7263,7 +7269,7 @@ const illustrationMap = <UnDrawIllustration, String>{
       '$baseUrl/online_transactions_02ka.svg',
   UnDrawIllustration.online_video: '$baseUrl/online_video_ivvq.svg',
   UnDrawIllustration.online_wishes: '$baseUrl/online_wishes_dlmr.svg',
-  UnDrawIllustration.online_world: '$baseUrl/online_world_mc1t.svg',
+  UnDrawIllustration.online_world: '$baseUrl/Online_world_re_h4cb.svg',
   UnDrawIllustration.open_source: '$baseUrl/open_source_1qxw.svg',
   UnDrawIllustration.opened: '$baseUrl/opened_gi4n.svg',
   UnDrawIllustration.opened_tabs: '$baseUrl/opened_tabs_ly11.svg',
@@ -7438,7 +7444,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.regain_focus: '$baseUrl/regain_focus_ecvj.svg',
   UnDrawIllustration.relaunch_day: '$baseUrl/relaunch_day_902d.svg',
   UnDrawIllustration.relaxation: '$baseUrl/relaxation_1_wbr7.svg',
-  UnDrawIllustration.relaxing_at_home: '$baseUrl/relaxing_at_home_9tyc.svg',
+  UnDrawIllustration.relaxing_at_home: '$baseUrl/Relaxing_at_home_re_mror.svg',
   UnDrawIllustration.reminder: '$baseUrl/reminder_pa79.svg',
   UnDrawIllustration.reminders: '$baseUrl/reminders_697p.svg',
   UnDrawIllustration.remote_design_team: '$baseUrl/remote_design_team_0hp4.svg',
@@ -7622,7 +7628,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.tabs: '$baseUrl/tabs_jf82.svg',
   UnDrawIllustration.tailwind_css: '$baseUrl/tailwind_css_1egw.svg',
   UnDrawIllustration.take_out_boxes: '$baseUrl/takeout_boxes_ap54.svg',
-  UnDrawIllustration.taken: '$baseUrl/Taken_if77.svg',
+  UnDrawIllustration.taken: '$baseUrl/Taken_re_yn20.svg',
   UnDrawIllustration.taking_notes: '$baseUrl/Taking_notes_re_bnaf.svg',
   UnDrawIllustration.taking_selfie: '$baseUrl/taking_selfie_lbo7.svg',
   UnDrawIllustration.target: '$baseUrl/target_kriv.svg',
@@ -7740,7 +7746,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.wash_hands: '$baseUrl/wash_hands_nwl2.svg',
   UnDrawIllustration.watch_application: '$baseUrl/watch_application_uhc9.svg',
   UnDrawIllustration.weather: '$baseUrl/Weather_re_qsmd.svg',
-  UnDrawIllustration.weather_app: '$baseUrl/weather_app_i5sm.svg',
+  UnDrawIllustration.weather_app: '$baseUrl/Weather_app_re_kcb1.svg',
   UnDrawIllustration.weather_notification:
       '$baseUrl/weather_notification_4sbo.svg',
   UnDrawIllustration.web_browsing: '$baseUrl/web_browsing_p77h.svg',
