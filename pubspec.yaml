@@ -1,7 +1,7 @@
 description: "Updated UnDraw library. These illustrations are designed by Katerina Limpitsouni."
 name: "ms_undraw"
 repository: "https://github.com/Marcus-Software/ms_undraw"
-version: "2.2.0+12"
+version: "2.2.0+13"
 dependencies: 
   flutter_svg: ">=0.13.1 <1.0.0"
   http: ">=0.12.0+2 <1.0.0"
