@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.2.0+15] - 2020-12-03
+
+* More illustrations added or updated
+
 ## [2.2.0+14] - 2020-11-30
 
 * More illustrations added or updated

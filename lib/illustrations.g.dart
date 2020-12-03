@@ -2323,7 +2323,7 @@ enum UnDrawIllustration {
 
   /// Title: Google docs
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/google_docs_jf93.svg" alt="Google docs" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Google_docs_re_evm3.svg" alt="Google docs" width="200"/>
   google_docs,
 
   /// Title: Grades
@@ -3413,7 +3413,7 @@ enum UnDrawIllustration {
 
   /// Title: Modern life
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/modern_life_u1ev.svg" alt="Modern life" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Modern_life_re_8pdp.svg" alt="Modern life" width="200"/>
   modern_life,
 
   /// Title: Modern professional
@@ -3778,7 +3778,7 @@ enum UnDrawIllustration {
 
   /// Title: Online collaboration
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_collaboration_7pfp.svg" alt="Online collaboration" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Online_collaboration_re_bkpm.svg" alt="Online collaboration" width="200"/>
   online_collaboration,
 
   /// Title: Online connection
@@ -5246,6 +5246,11 @@ enum UnDrawIllustration {
   /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/snow_games_ohkc.svg" alt="Snow games" width="200"/>
   snow_games,
 
+  /// Title: Snow globe
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/snow_globe_923j.svg" alt="Snow globe" width="200"/>
+  snow_globe,
+
   /// Title: Snowman
   /// <br/>
   /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/snowman_1_a2ch.svg" alt="Snowman" width="200"/>
@@ -5713,7 +5718,7 @@ enum UnDrawIllustration {
 
   /// Title: Team chat
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/team_chat_y27k.svg" alt="Team chat" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Team_chat_re_vbq1.svg" alt="Team chat" width="200"/>
   team_chat,
 
   /// Title: Team collaboration
@@ -5745,6 +5750,11 @@ enum UnDrawIllustration {
   /// <br/>
   /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/team_work_k80m.svg" alt="Team work" width="200"/>
   team_work,
+
+  /// Title: Teamwork
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/teamwork_hpdk.svg" alt="Teamwork" width="200"/>
+  teamwork,
 
   /// Title: Teddy bear
   /// <br/>
@@ -7017,7 +7027,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.good_doggy: '$baseUrl/good_doggy_4wfq.svg',
   UnDrawIllustration.good_team: '$baseUrl/good_team_m7uu.svg',
   UnDrawIllustration.google_analytics: '$baseUrl/google_analytics_a57d.svg',
-  UnDrawIllustration.google_docs: '$baseUrl/google_docs_jf93.svg',
+  UnDrawIllustration.google_docs: '$baseUrl/Google_docs_re_evm3.svg',
   UnDrawIllustration.grades: '$baseUrl/grades_j6jn.svg',
   UnDrawIllustration.graduation: '$baseUrl/Graduation_ktn0.svg',
   UnDrawIllustration.grand_slam: '$baseUrl/grand_slam_0q5r.svg',
@@ -7237,7 +7247,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.mobile_wireframe: '$baseUrl/Mobile_wireframe_re_jxui.svg',
   UnDrawIllustration.modern_art: '$baseUrl/modern_art_x3qc.svg',
   UnDrawIllustration.modern_design: '$baseUrl/modern_design_v3wv.svg',
-  UnDrawIllustration.modern_life: '$baseUrl/modern_life_u1ev.svg',
+  UnDrawIllustration.modern_life: '$baseUrl/Modern_life_re_8pdp.svg',
   UnDrawIllustration.modern_professional:
       '$baseUrl/modern_professional_yt9h.svg',
   UnDrawIllustration.modern_woman: '$baseUrl/Modern_woman_lxh7.svg',
@@ -7313,7 +7323,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.online_calendar: '$baseUrl/online_calendar_kvu2.svg',
   UnDrawIllustration.online_chat: '$baseUrl/online_chat_d7ek.svg',
   UnDrawIllustration.online_collaboration:
-      '$baseUrl/online_collaboration_7pfp.svg',
+      '$baseUrl/Online_collaboration_re_bkpm.svg',
   UnDrawIllustration.online_connection: '$baseUrl/online_connection_6778.svg',
   UnDrawIllustration.online_cv: '$baseUrl/online_cv_qy9w.svg',
   UnDrawIllustration.online_dating: '$baseUrl/online_dating_yruf.svg',
@@ -7622,6 +7632,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.snap_the_moment: '$baseUrl/snap_the_moment_oyn6.svg',
   UnDrawIllustration.snow_fun: '$baseUrl/snow_fun_re_plbr.svg',
   UnDrawIllustration.snow_games: '$baseUrl/snow_games_ohkc.svg',
+  UnDrawIllustration.snow_globe: '$baseUrl/snow_globe_923j.svg',
   UnDrawIllustration.snowman: '$baseUrl/snowman_1_a2ch.svg',
   UnDrawIllustration.social_bio: '$baseUrl/social_bio_8pql.svg',
   UnDrawIllustration.social_dashboard: '$baseUrl/social_dashboard_k3pt.svg',
@@ -7717,13 +7728,14 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.teacher: '$baseUrl/teacher_35j2.svg',
   UnDrawIllustration.teaching: '$baseUrl/teaching_f1cm.svg',
   UnDrawIllustration.team: '$baseUrl/team_ih79.svg',
-  UnDrawIllustration.team_chat: '$baseUrl/team_chat_y27k.svg',
+  UnDrawIllustration.team_chat: '$baseUrl/Team_chat_re_vbq1.svg',
   UnDrawIllustration.team_collaboration: '$baseUrl/team_collaboration_8eoc.svg',
   UnDrawIllustration.team_goals: '$baseUrl/team_goals_hrii.svg',
   UnDrawIllustration.team_page: '$baseUrl/Team_page_re_cffb.svg',
   UnDrawIllustration.team_spirit: '$baseUrl/team_spirit_hrr4.svg',
   UnDrawIllustration.team_up: '$baseUrl/team_up_ip2x.svg',
   UnDrawIllustration.team_work: '$baseUrl/team_work_k80m.svg',
+  UnDrawIllustration.teamwork: '$baseUrl/teamwork_hpdk.svg',
   UnDrawIllustration.teddy_bear: '$baseUrl/teddy_bear_hns1.svg',
   UnDrawIllustration.terms: '$baseUrl/Terms_re_6ak4.svg',
   UnDrawIllustration.text_field: '$baseUrl/text_field_htlv.svg',
