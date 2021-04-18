@@ -2,9 +2,9 @@ import 'dart:convert';
 import 'dart:io';
 
 import 'package:cli_util/cli_logging.dart';
+import 'package:fhir_yaml/fhir_yaml.dart';
 import 'package:http/http.dart' as http;
 import 'package:yaml/yaml.dart';
-import 'package:yamlicious/yamlicious.dart';
 
 part 'model.dart';
 
@@ -38,11 +38,11 @@ Future<bool> _hasChanges() async {
 
 _updateLibraryVersion() async {
   final pubspec = File('./pubspec.yaml');
-  var doc = Map.from(loadYaml(await pubspec.readAsString()));
+  var doc = Map<String, dynamic>.from(loadYaml(await pubspec.readAsString()));
   doc['version'] = (doc['version'] as String).split('+')[0] +
       '+' +
       (int.parse((doc['version'] as String).split('+')[1]) + 1).toString();
-  pubspec.writeAsString(toYamlString(doc));
+  pubspec.writeAsString(json2yaml(doc));
   final changelog = File('./changelog.md');
   var list = await changelog.readAsLines();
   changelog.writeAsString([
@@ -97,13 +97,13 @@ final _startNum = RegExp(r"^\d");
 List<String> _getEnuns(List<IllustrationElement> illustrations) {
   logger.stdout('Transforming enums');
 
-  final list = (illustrations..sort((ia, ib) => ia.title.compareTo(ib.title)))
+  final list = (illustrations..sort((ia, ib) => ia.title!.compareTo(ib.title!)))
       .map((illustration) {
     return '''
 /// Title: ${illustration.title}
 /// <br/>
 /// <img src="${illustration.image}" alt="${illustration.title}" width="200"/>
-${_kebabCase(illustration.title)}''';
+${_kebabCase(illustration.title!)}''';
   }).toList();
 
   logger.stdout('Enums transformed');
@@ -114,7 +114,7 @@ List<String> _getIdentifierAndUrl(List<IllustrationElement> illustrations) {
   logger.stdout('Transforming illustrations');
   final list = illustrations
       .map((ill) =>
-          "UnDrawIllustration.${_kebabCase(ill.title)}: '\$baseUrl/${ill.image.split('/').last}'")
+          "UnDrawIllustration.${_kebabCase(ill.title!)}: '\$baseUrl/${ill.image!.split('/').last}'")
       .toList();
   logger.stdout('Illustrations transformed');
   return list;
@@ -127,12 +127,12 @@ Future<List<IllustrationElement>> _getIllustrations() async {
   List<IllustrationElement> _illustrations = [];
   do {
     logger.stdout('Downloading page $_page');
-    final http.Response response =
-        await http.get("https://undraw.co/api/illustrations?page=$_page");
+    final http.Response response = await http
+        .get(Uri.parse("https://undraw.co/api/illustrations?page=$_page"));
     final illustrations = Illustration.fromMap(jsonDecode(response.body));
-    _isEnd = illustrations.hasMore;
-    _page = illustrations.nextPage;
-    _illustrations.addAll(illustrations.illustrations);
+    _isEnd = illustrations.hasMore!;
+    _page = illustrations.nextPage!;
+    _illustrations.addAll(illustrations.illustrations!);
   } while (_isEnd);
   progress.finish(
       message: '${_illustrations.length} undraw illustration list downloaded',
@@ -169,6 +169,6 @@ const illustrationMap = const <UnDrawIllustration, String>{
   if (!await _illustrations.exists())
     await _illustrations.create(recursive: true);
   await _illustrations.writeAsString(content,
-      encoding: Encoding.getByName('utf-8'));
+      encoding: Encoding.getByName('utf-8')!);
   logger.stdout('File writed');
 }

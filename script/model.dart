@@ -7,14 +7,14 @@ class Illustration {
     this.nextPage,
   });
 
-  List<IllustrationElement> illustrations;
-  bool hasMore;
-  int nextPage;
+  List<IllustrationElement>? illustrations;
+  bool? hasMore;
+  int? nextPage;
 
   Illustration copyWith({
-    List<IllustrationElement> illustrations,
-    bool hasMore,
-    int nextPage,
+    List<IllustrationElement>? illustrations,
+    bool? hasMore,
+    int? nextPage,
   }) =>
       Illustration(
         illustrations: illustrations ?? this.illustrations,
@@ -28,9 +28,9 @@ class Illustration {
   String toJson() => json.encode(toMap());
 
   factory Illustration.fromMap(Map<String, dynamic> json) => Illustration(
-        illustrations: json["illustrations"] == null
+        illustrations: json["illos"] == null
             ? null
-            : List<IllustrationElement>.from(json["illustrations"]
+            : List<IllustrationElement>.from(json["illos"]
                 .map((x) => IllustrationElement.fromMap(x))),
         hasMore: json["hasMore"] == null ? null : json["hasMore"],
         nextPage: json["nextPage"] == null ? null : json["nextPage"],
@@ -39,7 +39,7 @@ class Illustration {
   Map<String, dynamic> toMap() => {
         "illustrations": illustrations == null
             ? null
-            : List<dynamic>.from(illustrations.map((x) => x.toMap())),
+            : List<dynamic>.from(illustrations!.map((x) => x.toMap())),
         "hasMore": hasMore == null ? null : hasMore,
         "nextPage": nextPage == null ? null : nextPage,
       };
@@ -53,16 +53,16 @@ class IllustrationElement {
     this.slug,
   });
 
-  String id;
-  String title;
-  String image;
-  String slug;
+  String? id;
+  String? title;
+  String? image;
+  String? slug;
 
   IllustrationElement copyWith({
-    String id,
-    String title,
-    String image,
-    String slug,
+    String? id,
+    String? title,
+    String? image,
+    String? slug,
   }) =>
       IllustrationElement(
         id: id ?? this.id,
