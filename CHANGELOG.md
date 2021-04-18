@@ -1,5 +1,10 @@
 # Changelog
 
+## [3.0.0+0] - 2021-04-13
+
+* More illustrations added or updated
+* Null safety implemented
+
 ## [2.2.0+15] - 2020-12-03
 
 * More illustrations added or updated
