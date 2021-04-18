@@ -11,21 +11,20 @@ final _memCacheSvg = <String, String>{};
 
 class UnDraw extends StatelessWidget {
   UnDraw({
-    Key key,
-    @required this.illustration,
-    @required this.color,
+    Key? key,
+    required this.illustration,
+    required this.color,
     this.semanticLabel,
     this.alignment = Alignment.center,
     this.fit = BoxFit.contain,
-    this.colorBlendMode,
+    this.colorBlendMode = BlendMode.srcIn,
     this.height,
     this.width,
     this.placeholder,
     this.errorWidget,
     this.padding,
     this.useMemCache = true,
-  })  : assert(illustration != null),
-        assert(color != null);
+  }) : super(key: key);
 
   /// Enum [UnDrawIllustration] with all supported illustrations
   final UnDrawIllustration illustration;
@@ -37,7 +36,7 @@ class UnDraw extends StatelessWidget {
   ///
   /// The value indicates the purpose of the picture, and will be
   /// read out by screen readers.
-  final String semanticLabel;
+  final String? semanticLabel;
 
   /// How to align the picture within its parent widget.
   ///
@@ -73,24 +72,24 @@ class UnDraw extends StatelessWidget {
 
   /// If specified, the width to use for the SVG.  If unspecified, the SVG
   /// will take the width of its parent.
-  final double width;
+  final double? width;
 
   /// If specified, the height to use for the SVG.  If unspecified, the SVG
   /// will take the height of its parent.
-  final double height;
+  final double? height;
 
   /// The widget that will appear during loading illustration from the internet
-  final Widget placeholder;
+  final Widget? placeholder;
 
   /// The widget that will appear if occurs an error
-  final Widget errorWidget;
+  final Widget? errorWidget;
 
   /// Empty space to inscribe inside the [decoration]. The [child], if any, is
   /// placed inside this padding.
   ///
   /// This padding is in addition to any padding inherent in the [decoration];
   /// see [Decoration.padding].
-  final EdgeInsets padding;
+  final EdgeInsets? padding;
 
   /// If cache image in memory, if enable reload the same illustration is be more fast
   final bool useMemCache;
@@ -98,7 +97,7 @@ class UnDraw extends StatelessWidget {
   Future<SvgPicture> renderIllustration(
       UnDrawIllustration illustration, Color _exColor) async {
     String image =
-        await _getSvgString(illustrationMap[illustration], this.useMemCache);
+        await _getSvgString(illustrationMap[illustration]!, this.useMemCache);
 
     String valueString = color.toString().split('(0x')[1].split(')')[0];
     valueString = valueString.substring(2, valueString.length);
@@ -140,14 +139,15 @@ class UnDraw extends StatelessWidget {
   }
 
   Future<String> _getSvgString(String url, [bool useMemCache = true]) async {
+    var uri = Uri.parse(url);
     if (useMemCache) {
       if (!_memCacheSvg.containsKey(url) || _memCacheSvg[url] == null) {
-        http.Response response = await http.get(url);
+        http.Response response = await http.get(uri);
         _memCacheSvg[url] = response.body;
       }
-      return _memCacheSvg[url];
+      return _memCacheSvg[url]!;
     } else {
-      http.Response response = await http.get(url);
+      http.Response response = await http.get(uri);
       return response.body;
     }
   }
