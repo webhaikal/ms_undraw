@@ -1,5 +1,9 @@
 # Changelog
 
+## [3.0.0+1] - 2021-08-25
+
+* More illustrations added or updated
+
 ## [3.0.0+0] - 2021-04-13
 
 * More illustrations added or updated

@@ -38,7 +38,7 @@ enum UnDrawIllustration {
 
   /// Title: About us page
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/about_us_page_ee1k.svg" alt="About us page" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/About_us_page_re_2jfm.svg" alt="About us page" width="200"/>
   about_us_page,
 
   /// Title: Absorbed in
@@ -48,7 +48,7 @@ enum UnDrawIllustration {
 
   /// Title: Abstract
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/abstract_x68e.svg" alt="Abstract" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Abstract_re_l9xy.svg" alt="Abstract" width="200"/>
   abstract,
 
   /// Title: Accept request
@@ -83,12 +83,12 @@ enum UnDrawIllustration {
 
   /// Title: Active options
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/active_options_8je6.svg" alt="Active options" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Active_options_re_8rj3.svg" alt="Active options" width="200"/>
   active_options,
 
   /// Title: Active support
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/active_support_6rwo.svg" alt="Active support" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Active_support_re_b7sj.svg" alt="Active support" width="200"/>
   active_support,
 
   /// Title: Activity tracker
@@ -108,12 +108,12 @@ enum UnDrawIllustration {
 
   /// Title: Add document
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/add_document_0hek.svg" alt="Add document" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/add_document_re_mbjx.svg" alt="Add document" width="200"/>
   add_document,
 
   /// Title: Add file
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/add_file_4gfw.svg" alt="Add file" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Add_file_re_s4qf.svg" alt="Add file" width="200"/>
   add_file,
 
   /// Title: Add files
@@ -123,7 +123,7 @@ enum UnDrawIllustration {
 
   /// Title: Add friends
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Add_friends_wa2a.svg" alt="Add friends" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/add_friends_re_3xte.svg" alt="Add friends" width="200"/>
   add_friends,
 
   /// Title: Add notes
@@ -133,12 +133,12 @@ enum UnDrawIllustration {
 
   /// Title: Add post
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/add_post_64nu.svg" alt="Add post" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Add_post_re_174w.svg" alt="Add post" width="200"/>
   add_post,
 
   /// Title: Add tasks
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/add_tasks_mxew.svg" alt="Add tasks" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Add_tasks_re_s5yj.svg" alt="Add tasks" width="200"/>
   add_tasks,
 
   /// Title: Add to cart
@@ -208,7 +208,7 @@ enum UnDrawIllustration {
 
   /// Title: Alert
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/alert_mc7b.svg" alt="Alert" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Alert_re_j2op.svg" alt="Alert" width="200"/>
   alert,
 
   /// Title: Algolia
@@ -268,7 +268,7 @@ enum UnDrawIllustration {
 
   /// Title: Anonymous feedback
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/anonymous_feedback_y3co.svg" alt="Anonymous feedback" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Anonymous_feedback_re_rc5v.svg" alt="Anonymous feedback" width="200"/>
   anonymous_feedback,
 
   /// Title: Apartment rent
@@ -278,7 +278,7 @@ enum UnDrawIllustration {
 
   /// Title: App data
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/app_data_516s.svg" alt="App data" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/app_data_re_vg5c.svg" alt="App data" width="200"/>
   app_data,
 
   /// Title: App installation
@@ -313,12 +313,12 @@ enum UnDrawIllustration {
 
   /// Title: Arrived
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/arrived_f58d.svg" alt="Arrived" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Arrived_re_t2bw.svg" alt="Arrived" width="200"/>
   arrived,
 
   /// Title: Art
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/art_0tat.svg" alt="Art" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Art_re_vj2w.svg" alt="Art" width="200"/>
   art,
 
   /// Title: Art lover
@@ -353,7 +353,7 @@ enum UnDrawIllustration {
 
   /// Title: Asset selection
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/asset_selection_ix3v.svg" alt="Asset selection" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Asset_selection_re_k5fj.svg" alt="Asset selection" width="200"/>
   asset_selection,
 
   /// Title: Astronaut
@@ -383,7 +383,7 @@ enum UnDrawIllustration {
 
   /// Title: Audio conversation
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/audio_conversation_dgtw.svg" alt="Audio conversation" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Audio_conversation_re_ptsl.svg" alt="Audio conversation" width="200"/>
   audio_conversation,
 
   /// Title: Audio player
@@ -471,9 +471,14 @@ enum UnDrawIllustration {
   /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/bear_market_ania.svg" alt="Bear market" width="200"/>
   bear_market,
 
+  /// Title: Beer
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/beer_xg5f.svg" alt="Beer" width="200"/>
+  beer,
+
   /// Title: Beer celebration
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Beer_celebration_cefj.svg" alt="Beer celebration" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Beer_celebration_re_0iqw.svg" alt="Beer celebration" width="200"/>
   beer_celebration,
 
   /// Title: Before dawn
@@ -543,7 +548,7 @@ enum UnDrawIllustration {
 
   /// Title: Blogging
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/blogging_vpvv.svg" alt="Blogging" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Blogging_re_kl0d.svg" alt="Blogging" width="200"/>
   blogging,
 
   /// Title: Blooming
@@ -623,12 +628,12 @@ enum UnDrawIllustration {
 
   /// Title: Browsing
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/browsing_urt9.svg" alt="Browsing" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Browsing_re_eycn.svg" alt="Browsing" width="200"/>
   browsing,
 
   /// Title: Browsing online
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/browsing_online_sr8c.svg" alt="Browsing online" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Browsing_online_re_umsa.svg" alt="Browsing online" width="200"/>
   browsing_online,
 
   /// Title: Buddies
@@ -673,7 +678,7 @@ enum UnDrawIllustration {
 
   /// Title: Bus stop
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Bus_stop_8ib0.svg" alt="Bus stop" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Bus_stop_re_h8ej.svg" alt="Bus stop" width="200"/>
   bus_stop,
 
   /// Title: Business analytics
@@ -758,7 +763,7 @@ enum UnDrawIllustration {
 
   /// Title: Calling
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/calling_kpbp.svg" alt="Calling" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Calling_re_mgft.svg" alt="Calling" width="200"/>
   calling,
 
   /// Title: Camera
@@ -808,7 +813,7 @@ enum UnDrawIllustration {
 
   /// Title: Celebration
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/celebration_0jvk.svg" alt="Celebration" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Celebration_re_kc9k.svg" alt="Celebration" width="200"/>
   celebration,
 
   /// Title: Certificate
@@ -833,7 +838,7 @@ enum UnDrawIllustration {
 
   /// Title: Chasing love
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/chasing_love_3v98.svg" alt="Chasing love" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Chasing_love_re_9r1c.svg" alt="Chasing love" width="200"/>
   chasing_love,
 
   /// Title: Chat
@@ -853,7 +858,7 @@ enum UnDrawIllustration {
 
   /// Title: Check boxes
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/check_boxes_m3d0.svg" alt="Check boxes" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Check_boxes_re_v40f.svg" alt="Check boxes" width="200"/>
   check_boxes,
 
   /// Title: Checking boxes
@@ -878,7 +883,7 @@ enum UnDrawIllustration {
 
   /// Title: Chilling
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/chilling_8tii.svg" alt="Chilling" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Chilling_re_4iq9.svg" alt="Chilling" width="200"/>
   chilling,
 
   /// Title: Choice
@@ -888,7 +893,7 @@ enum UnDrawIllustration {
 
   /// Title: Choose
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Choose_bwbs.svg" alt="Choose" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Choose_re_7d5a.svg" alt="Choose" width="200"/>
   choose,
 
   /// Title: Choosing house
@@ -898,7 +903,7 @@ enum UnDrawIllustration {
 
   /// Title: Chore list
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/chore_list_iof3.svg" alt="Chore list" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/chore_list_re_2lq8.svg" alt="Chore list" width="200"/>
   chore_list,
 
   /// Title: Christmas stocking
@@ -928,7 +933,7 @@ enum UnDrawIllustration {
 
   /// Title: City driver
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/city_driver_jh2h.svg" alt="City driver" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/city_driver_re_0x5e.svg" alt="City driver" width="200"/>
   city_driver,
 
   /// Title: City girl
@@ -973,7 +978,7 @@ enum UnDrawIllustration {
 
   /// Title: Cloud sync
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/cloud_sync_2aph.svg" alt="Cloud sync" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Cloud_sync_re_02p1.svg" alt="Cloud sync" width="200"/>
   cloud_sync,
 
   /// Title: Co-workers
@@ -1008,17 +1013,17 @@ enum UnDrawIllustration {
 
   /// Title: Coding
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/coding_6mjf.svg" alt="Coding" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Coding_re_iv62.svg" alt="Coding" width="200"/>
   coding,
 
   /// Title: Coffee break
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/coffee_break_j3of.svg" alt="Coffee break" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/coffee_break_h3uu.svg" alt="Coffee break" width="200"/>
   coffee_break,
 
   /// Title: Coffee break
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/coffee_break_h3uu.svg" alt="Coffee break" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/coffee_break_j3of.svg" alt="Coffee break" width="200"/>
   coffee_break_1,
 
   /// Title: Cohort analysis
@@ -1083,7 +1088,7 @@ enum UnDrawIllustration {
 
   /// Title: Complete task
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/complete_task_u2c3.svg" alt="Complete task" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Complete_task_re_44tb.svg" alt="Complete task" width="200"/>
   complete_task,
 
   /// Title: Completed
@@ -1093,7 +1098,7 @@ enum UnDrawIllustration {
 
   /// Title: Completed steps
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/completed_steps_yurw.svg" alt="Completed steps" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Completed_steps_re_h9wc.svg" alt="Completed steps" width="200"/>
   completed_steps,
 
   /// Title: Completed tasks
@@ -1278,7 +1283,7 @@ enum UnDrawIllustration {
 
   /// Title: Creation process
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Creation_process_ukbh.svg" alt="Creation process" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Creation_process_re_74on.svg" alt="Creation process" width="200"/>
   creation_process,
 
   /// Title: Creative draft
@@ -1323,12 +1328,12 @@ enum UnDrawIllustration {
 
   /// Title: Credit card payment
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/credit_card_payment_yb88.svg" alt="Credit card payment" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Credit_card_payment_re_o911.svg" alt="Credit card payment" width="200"/>
   credit_card_payment,
 
   /// Title: Credit card payments
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/credit_card_payment_12va.svg" alt="Credit card payments" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Credit_card_payments_re_qboh.svg" alt="Credit card payments" width="200"/>
   credit_card_payments,
 
   /// Title: Crypto flowers
@@ -1353,7 +1358,7 @@ enum UnDrawIllustration {
 
   /// Title: Customer survey
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/customer_survey_f9ur.svg" alt="Customer survey" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Customer_survey_re_v9cj.svg" alt="Customer survey" width="200"/>
   customer_survey,
 
   /// Title: Dark alley
@@ -1363,7 +1368,7 @@ enum UnDrawIllustration {
 
   /// Title: Dark analytics
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/dark_analytics_7axy.svg" alt="Dark analytics" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Dark_analytics_re_2kvy.svg" alt="Dark analytics" width="200"/>
   dark_analytics,
 
   /// Title: Dark mode
@@ -1383,7 +1388,7 @@ enum UnDrawIllustration {
 
   /// Title: Data extraction
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/data_extraction_ih3n.svg" alt="Data extraction" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Data_extraction_re_0rd3.svg" alt="Data extraction" width="200"/>
   data_extraction,
 
   /// Title: Data input
@@ -1403,7 +1408,7 @@ enum UnDrawIllustration {
 
   /// Title: Data report
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/data_report_bi6l.svg" alt="Data report" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Data_report_re_p4so.svg" alt="Data report" width="200"/>
   data_report,
 
   /// Title: Data reports
@@ -1428,7 +1433,7 @@ enum UnDrawIllustration {
 
   /// Title: Decide
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/decide_3iwx.svg" alt="Decide" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Decide_re_ixfw.svg" alt="Decide" width="200"/>
   decide,
 
   /// Title: Deconstructed
@@ -1458,7 +1463,7 @@ enum UnDrawIllustration {
 
   /// Title: Departing
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/departing_lsgy.svg" alt="Departing" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Departing_re_mlq3.svg" alt="Departing" width="200"/>
   departing,
 
   /// Title: Design community
@@ -1478,7 +1483,7 @@ enum UnDrawIllustration {
 
   /// Title: Design feedback
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/design_feedback_dexe.svg" alt="Design feedback" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Design_feedback_re_8gtk.svg" alt="Design feedback" width="200"/>
   design_feedback,
 
   /// Title: Design inspiration
@@ -1488,17 +1493,17 @@ enum UnDrawIllustration {
 
   /// Title: Design notes
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/design_notes_8dmv.svg" alt="Design notes" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Design_notes_re_eklr.svg" alt="Design notes" width="200"/>
   design_notes,
 
   /// Title: Design objectives
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/design_objectives_fy1r.svg" alt="Design objectives" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Design_objectives_re_94pd.svg" alt="Design objectives" width="200"/>
   design_objectives,
 
   /// Title: Design process
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/design_process_cxoh.svg" alt="Design process" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Design_process_re_0dhf.svg" alt="Design process" width="200"/>
   design_process,
 
   /// Title: Design sprint
@@ -1558,7 +1563,7 @@ enum UnDrawIllustration {
 
   /// Title: Detailed analysis
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/detailed_analysis_xn7y.svg" alt="Detailed analysis" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Detailed_analysis_re_tk6j.svg" alt="Detailed analysis" width="200"/>
   detailed_analysis,
 
   /// Title: Detailed examination
@@ -1573,7 +1578,7 @@ enum UnDrawIllustration {
 
   /// Title: Dev focus
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/dev_focus_b9xo.svg" alt="Dev focus" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Dev_focus_re_6iwt.svg" alt="Dev focus" width="200"/>
   dev_focus,
 
   /// Title: Dev productivity
@@ -1593,7 +1598,7 @@ enum UnDrawIllustration {
 
   /// Title: Development
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/development_ouy3.svg" alt="Development" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Development_re_g5hq.svg" alt="Development" width="200"/>
   development,
 
   /// Title: Devices
@@ -1673,7 +1678,7 @@ enum UnDrawIllustration {
 
   /// Title: Done
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/done_a34v.svg" alt="Done" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Done_re_oak4.svg" alt="Done" width="200"/>
   done,
 
   /// Title: Done checking
@@ -1688,7 +1693,7 @@ enum UnDrawIllustration {
 
   /// Title: Download
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/download_pc33.svg" alt="Download" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Download_re_li50.svg" alt="Download" width="200"/>
   download,
 
   /// Title: Drag
@@ -1723,7 +1728,7 @@ enum UnDrawIllustration {
 
   /// Title: Dropdown menu
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/dropdown_menu_vv9j.svg" alt="Dropdown menu" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Dropdown_menu_re_jqqs.svg" alt="Dropdown menu" width="200"/>
   dropdown_menu,
 
   /// Title: Dua Lipa
@@ -1733,7 +1738,7 @@ enum UnDrawIllustration {
 
   /// Title: Duplicate
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/duplicate_xac4.svg" alt="Duplicate" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Duplicate_re_d39g.svg" alt="Duplicate" width="200"/>
   duplicate,
 
   /// Title: Easter egg hunt
@@ -1743,7 +1748,7 @@ enum UnDrawIllustration {
 
   /// Title: Eating together
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/eating_together_tjhx.svg" alt="Eating together" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Eating_together_re_ux62.svg" alt="Eating together" width="200"/>
   eating_together,
 
   /// Title: Eco conscious
@@ -1753,7 +1758,7 @@ enum UnDrawIllustration {
 
   /// Title: Edit photo
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/edit_photo_2m6o.svg" alt="Edit photo" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Edit_photo_re_ton4.svg" alt="Edit photo" width="200"/>
   edit_photo,
 
   /// Title: Editable
@@ -1803,7 +1808,7 @@ enum UnDrawIllustration {
 
   /// Title: Emails
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/emails_6uqr.svg" alt="Emails" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Emails_re_cqen.svg" alt="Emails" width="200"/>
   emails,
 
   /// Title: Empty
@@ -1843,7 +1848,7 @@ enum UnDrawIllustration {
 
   /// Title: Environmental study
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/environmental_study_skau.svg" alt="Environmental study" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Environmental_study_re_q4q8.svg" alt="Environmental study" width="200"/>
   environmental_study,
 
   /// Title: Escaping
@@ -1863,7 +1868,7 @@ enum UnDrawIllustration {
 
   /// Title: Events
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/events_2p66.svg" alt="Events" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Events_re_98ue.svg" alt="Events" width="200"/>
   events,
 
   /// Title: Everyday design
@@ -1898,7 +1903,7 @@ enum UnDrawIllustration {
 
   /// Title: Experts
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/experts3_3njd.svg" alt="Experts" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Experts_re_i40h.svg" alt="Experts" width="200"/>
   experts,
 
   /// Title: Explore
@@ -1963,7 +1968,7 @@ enum UnDrawIllustration {
 
   /// Title: Fast loading
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fast_loading_0lbh.svg" alt="Fast loading" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fast_loading_re_8oi3.svg" alt="Fast loading" width="200"/>
   fast_loading,
 
   /// Title: Fatherhood
@@ -2138,7 +2143,7 @@ enum UnDrawIllustration {
 
   /// Title: Floating
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/floating_61u6.svg" alt="Floating" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Floating_re_xtcj.svg" alt="Floating" width="200"/>
   floating,
 
   /// Title: Flowers
@@ -2208,7 +2213,7 @@ enum UnDrawIllustration {
 
   /// Title: Forming ideas
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/forming_ideas_0pav.svg" alt="Forming ideas" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Forming_ideas_re_2afc.svg" alt="Forming ideas" width="200"/>
   forming_ideas,
 
   /// Title: Forms
@@ -2223,7 +2228,7 @@ enum UnDrawIllustration {
 
   /// Title: Fresh notification
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/fresh_notification_bvtv.svg" alt="Fresh notification" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Fresh_notification_re_whq4.svg" alt="Fresh notification" width="200"/>
   fresh_notification,
 
   /// Title: Friends
@@ -2298,7 +2303,7 @@ enum UnDrawIllustration {
 
   /// Title: Gift
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/gift1_sgf8.svg" alt="Gift" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Gift_re_qr17.svg" alt="Gift" width="200"/>
   gift,
 
   /// Title: Gift box
@@ -2313,7 +2318,7 @@ enum UnDrawIllustration {
 
   /// Title: Gifts
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/gifts_btw0.svg" alt="Gifts" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Gifts_re_97j6.svg" alt="Gifts" width="200"/>
   gifts,
 
   /// Title: Girls just wanna have fun
@@ -2343,7 +2348,7 @@ enum UnDrawIllustration {
 
   /// Title: Golden gate bridge
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Golden_gate_bridge_jkph.svg" alt="Golden gate bridge" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Golden_gate_bridge_re_e8tc.svg" alt="Golden gate bridge" width="200"/>
   golden_gate_bridge,
 
   /// Title: Golf
@@ -2383,7 +2388,7 @@ enum UnDrawIllustration {
 
   /// Title: Graduation
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Graduation_ktn0.svg" alt="Graduation" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Graduation_re_gthn.svg" alt="Graduation" width="200"/>
   graduation,
 
   /// Title: Grand slam
@@ -2423,7 +2428,7 @@ enum UnDrawIllustration {
 
   /// Title: Group selfie
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/group_selfie_ijc6.svg" alt="Group selfie" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Group_selfie_re_h8gb.svg" alt="Group selfie" width="200"/>
   group_selfie,
 
   /// Title: Group video
@@ -2438,7 +2443,7 @@ enum UnDrawIllustration {
 
   /// Title: Growth analytics
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/growth_analytics_8btt.svg" alt="Growth analytics" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Growth_analytics_re_pyxf.svg" alt="Growth analytics" width="200"/>
   growth_analytics,
 
   /// Title: Growth chart
@@ -2448,7 +2453,7 @@ enum UnDrawIllustration {
 
   /// Title: Growth curve
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/growth_curve_8mqx.svg" alt="Growth curve" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Growth_curve_re_t5s7.svg" alt="Growth curve" width="200"/>
   growth_curve,
 
   /// Title: Hacker mind
@@ -2468,7 +2473,7 @@ enum UnDrawIllustration {
 
   /// Title: Hang out
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/hang_out_h9ud.svg" alt="Hang out" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Hang_out_re_udl4.svg" alt="Hang out" width="200"/>
   hang_out,
 
   /// Title: Happy 2019
@@ -2513,7 +2518,7 @@ enum UnDrawIllustration {
 
   /// Title: Having fun
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/having_fun_iais.svg" alt="Having fun" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Having_fun_re_vj4h.svg" alt="Having fun" width="200"/>
   having_fun,
 
   /// Title: Healthy habit
@@ -2548,7 +2553,7 @@ enum UnDrawIllustration {
 
   /// Title: Hello
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Hello_qnas.svg" alt="Hello" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Hello_re_3evm.svg" alt="Hello" width="200"/>
   hello,
 
   /// Title: Helpful sign
@@ -2623,7 +2628,7 @@ enum UnDrawIllustration {
 
   /// Title: House searching
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/house_searching_n8mp.svg" alt="House searching" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/House_searching_re_stk8.svg" alt="House searching" width="200"/>
   house_searching,
 
   /// Title: Houses
@@ -2668,7 +2673,7 @@ enum UnDrawIllustration {
 
   /// Title: Image focus
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/image_focus_wm20.svg" alt="Image focus" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Image_focus_re_qqxc.svg" alt="Image focus" width="200"/>
   image_focus,
 
   /// Title: Image folder
@@ -2688,7 +2693,7 @@ enum UnDrawIllustration {
 
   /// Title: Image upload
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/image_upload_wqh3.svg" alt="Image upload" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Image_upload_re_w7pm.svg" alt="Image upload" width="200"/>
   image_upload,
 
   /// Title: Image viewer
@@ -2743,7 +2748,7 @@ enum UnDrawIllustration {
 
   /// Title: In thought
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/in_thought_gjsf.svg" alt="In thought" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/in_thought_re_qyxl.svg" alt="In thought" width="200"/>
   in_thought,
 
   /// Title: Inbox
@@ -2873,7 +2878,7 @@ enum UnDrawIllustration {
 
   /// Title: Investment data
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/investment_data_yfvt.svg" alt="Investment data" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Investment_data_re_sh9x.svg" alt="Investment data" width="200"/>
   investment_data,
 
   /// Title: Invite
@@ -2903,7 +2908,7 @@ enum UnDrawIllustration {
 
   /// Title: Job hunt
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Job_hunt_tinb.svg" alt="Job hunt" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Job_hunt_re_q203.svg" alt="Job hunt" width="200"/>
   job_hunt,
 
   /// Title: Job offers
@@ -2928,7 +2933,7 @@ enum UnDrawIllustration {
 
   /// Title: Joyride
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/joyride_hnno.svg" alt="Joyride" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Joyride_re_968t.svg" alt="Joyride" width="200"/>
   joyride,
 
   /// Title: Judge
@@ -3008,7 +3013,7 @@ enum UnDrawIllustration {
 
   /// Title: Lightbulb moment
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/lightbulb_moment_evxr.svg" alt="Lightbulb moment" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/lightbulb_moment_re_ulyo.svg" alt="Lightbulb moment" width="200"/>
   lightbulb_moment,
 
   /// Title: Lighthouse
@@ -3028,7 +3033,7 @@ enum UnDrawIllustration {
 
   /// Title: Listening
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/listening_1u79.svg" alt="Listening" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Listening_re_c2w0.svg" alt="Listening" width="200"/>
   listening,
 
   /// Title: Live collaboration
@@ -3088,12 +3093,12 @@ enum UnDrawIllustration {
 
   /// Title: Lost
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/lost_bqr2.svg" alt="Lost" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Lost_re_xqjt.svg" alt="Lost" width="200"/>
   lost,
 
   /// Title: Lost online
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/lost_online_wqob.svg" alt="Lost online" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Lost_online_re_upmy.svg" alt="Lost online" width="200"/>
   lost_online,
 
   /// Title: Love
@@ -3118,7 +3123,7 @@ enum UnDrawIllustration {
 
   /// Title: Mail
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mail_2_tqip.svg" alt="Mail" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Mail_re_duel.svg" alt="Mail" width="200"/>
   mail,
 
   /// Title: Mail sent
@@ -3223,7 +3228,7 @@ enum UnDrawIllustration {
 
   /// Title: Meditation
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Meditation_o89g.svg" alt="Meditation" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Meditation_re_gll0.svg" alt="Meditation" width="200"/>
   meditation,
 
   /// Title: Meet the team
@@ -3268,7 +3273,7 @@ enum UnDrawIllustration {
 
   /// Title: Messaging app
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/messaging_app_ch6t.svg" alt="Messaging app" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Messaging_app_re_aytg.svg" alt="Messaging app" width="200"/>
   messaging_app,
 
   /// Title: Messaging fun
@@ -3328,7 +3333,7 @@ enum UnDrawIllustration {
 
   /// Title: Mobile
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_prle.svg" alt="Mobile" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Mobile_re_q4nk.svg" alt="Mobile" width="200"/>
   mobile,
 
   /// Title: Mobile app
@@ -3378,7 +3383,7 @@ enum UnDrawIllustration {
 
   /// Title: Mobile inbox
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_inbox_3h46.svg" alt="Mobile inbox" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Mobile_inbox_re_ciwq.svg" alt="Mobile inbox" width="200"/>
   mobile_inbox,
 
   /// Title: Mobile interface
@@ -3393,7 +3398,7 @@ enum UnDrawIllustration {
 
   /// Title: Mobile login
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_login_ikmv.svg" alt="Mobile login" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Mobile_login_re_9ntv.svg" alt="Mobile login" width="200"/>
   mobile_login,
 
   /// Title: Mobile marketing
@@ -3413,7 +3418,7 @@ enum UnDrawIllustration {
 
   /// Title: Mobile payments
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_payments_vftl.svg" alt="Mobile payments" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Mobile_payments_re_7udl.svg" alt="Mobile payments" width="200"/>
   mobile_payments,
 
   /// Title: Mobile photos
@@ -3423,7 +3428,7 @@ enum UnDrawIllustration {
 
   /// Title: Mobile posts
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_posts_tlwg.svg" alt="Mobile posts" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Mobile_posts_re_bpuw.svg" alt="Mobile posts" width="200"/>
   mobile_posts,
 
   /// Title: Mobile prototyping
@@ -3443,7 +3448,7 @@ enum UnDrawIllustration {
 
   /// Title: Mobile ux
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_ux_o0e1.svg" alt="Mobile ux" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mobile_ux_re_59hr.svg" alt="Mobile ux" width="200"/>
   mobile_ux,
 
   /// Title: Mobile web
@@ -3473,7 +3478,7 @@ enum UnDrawIllustration {
 
   /// Title: Modern professional
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/modern_professional_yt9h.svg" alt="Modern professional" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Modern_professional_re_3b6l.svg" alt="Modern professional" width="200"/>
   modern_professional,
 
   /// Title: Modern woman
@@ -3513,7 +3518,7 @@ enum UnDrawIllustration {
 
   /// Title: Mornings
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Mornings_solb.svg" alt="Mornings" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/mornings_re_cofi.svg" alt="Mornings" width="200"/>
   mornings,
 
   /// Title: Motherhood
@@ -3548,7 +3553,7 @@ enum UnDrawIllustration {
 
   /// Title: My answer
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/my_answer_iw6k.svg" alt="My answer" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/My_answer_re_k4dv.svg" alt="My answer" width="200"/>
   my_answer,
 
   /// Title: My app
@@ -3563,12 +3568,12 @@ enum UnDrawIllustration {
 
   /// Title: My current location
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/my_current_location_om7g.svg" alt="My current location" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/My_current_location_re_whmt.svg" alt="My current location" width="200"/>
   my_current_location,
 
   /// Title: My documents
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/my_documents_ym8x.svg" alt="My documents" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/My_documents_re_13dc.svg" alt="My documents" width="200"/>
   my_documents,
 
   /// Title: My feed
@@ -3658,7 +3663,7 @@ enum UnDrawIllustration {
 
   /// Title: New entries
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/new_entries_nh3h.svg" alt="New entries" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/New_entries_re_cffr.svg" alt="New entries" width="200"/>
   new_entries,
 
   /// Title: New ideas
@@ -3668,12 +3673,12 @@ enum UnDrawIllustration {
 
   /// Title: New message
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/new_message_2gfk.svg" alt="New message" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/New_message_re_fp03.svg" alt="New message" width="200"/>
   new_message,
 
   /// Title: New notifications
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/new_notifications_fhvw.svg" alt="New notifications" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/New_notifications_re_xpcv.svg" alt="New notifications" width="200"/>
   new_notifications,
 
   /// Title: New year 2021
@@ -3738,7 +3743,7 @@ enum UnDrawIllustration {
 
   /// Title: Notebook
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Notebook_tlkl.svg" alt="Notebook" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Notebook_re_id0r.svg" alt="Notebook" width="200"/>
   notebook,
 
   /// Title: Noted
@@ -3768,7 +3773,7 @@ enum UnDrawIllustration {
 
   /// Title: Observations
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/observations_mejb.svg" alt="Observations" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Observations_re_ohja.svg" alt="Observations" width="200"/>
   observations,
 
   /// Title: Off road
@@ -3823,7 +3828,7 @@ enum UnDrawIllustration {
 
   /// Title: Online articles
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_articles_79ff.svg" alt="Online articles" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Online_articles_re_yrkj.svg" alt="Online articles" width="200"/>
   online_articles,
 
   /// Title: Online banking
@@ -3838,7 +3843,7 @@ enum UnDrawIllustration {
 
   /// Title: Online chat
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_chat_d7ek.svg" alt="Online chat" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Online_chat_re_c4lx.svg" alt="Online chat" width="200"/>
   online_chat,
 
   /// Title: Online collaboration
@@ -3853,7 +3858,7 @@ enum UnDrawIllustration {
 
   /// Title: Online cv
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_cv_qy9w.svg" alt="Online cv" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Online_cv_re_gn0a.svg" alt="Online cv" width="200"/>
   online_cv,
 
   /// Title: Online dating
@@ -3868,17 +3873,17 @@ enum UnDrawIllustration {
 
   /// Title: Online everywhere
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_everywhere_cd90.svg" alt="Online everywhere" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Online_everywhere_re_n3lr.svg" alt="Online everywhere" width="200"/>
   online_everywhere,
 
   /// Title: Online friends
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_friends_x73e.svg" alt="Online friends" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Online_friends_re_eqaj.svg" alt="Online friends" width="200"/>
   online_friends,
 
   /// Title: Online gallery
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_gallery_dmv3.svg" alt="Online gallery" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Online_gallery_re_3098.svg" alt="Online gallery" width="200"/>
   online_gallery,
 
   /// Title: Online groceries
@@ -3903,7 +3908,7 @@ enum UnDrawIllustration {
 
   /// Title: Online message
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_message_xq4c.svg" alt="Online message" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_message_re_3m5v.svg" alt="Online message" width="200"/>
   online_message,
 
   /// Title: Online messaging
@@ -3933,12 +3938,12 @@ enum UnDrawIllustration {
 
   /// Title: Online popularity
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_popularity_elhc.svg" alt="Online popularity" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Online_popularity_re_nm0s.svg" alt="Online popularity" width="200"/>
   online_popularity,
 
   /// Title: Online posts
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/online_posts_h475.svg" alt="Online posts" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Online_posts_re_7ucl.svg" alt="Online posts" width="200"/>
   online_posts,
 
   /// Title: Online reading
@@ -4038,7 +4043,7 @@ enum UnDrawIllustration {
 
   /// Title: Ordinary day
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Ordinary_day_3gk3.svg" alt="Ordinary day" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Ordinary_day_re_v5hy.svg" alt="Ordinary day" width="200"/>
   ordinary_day,
 
   /// Title: Organize photos
@@ -4048,7 +4053,7 @@ enum UnDrawIllustration {
 
   /// Title: Organize resume
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/organize_resume_utk5.svg" alt="Organize resume" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Organize_resume_re_k45b.svg" alt="Organize resume" width="200"/>
   organize_resume,
 
   /// Title: Organized content
@@ -4061,6 +4066,11 @@ enum UnDrawIllustration {
   /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Organizing_projects_0p9a.svg" alt="Organizing projects" width="200"/>
   organizing_projects,
 
+  /// Title: Our neighborhood
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/our_neighborhood_ya1h.svg" alt="Our neighborhood" width="200"/>
+  our_neighborhood,
+
   /// Title: Our solution
   /// <br/>
   /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/our_solution_htvp.svg" alt="Our solution" width="200"/>
@@ -4068,7 +4078,7 @@ enum UnDrawIllustration {
 
   /// Title: Outdoor adventure
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Camping_y4an.svg" alt="Outdoor adventure" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Outdoor_adventure_re_j3b7.svg" alt="Outdoor adventure" width="200"/>
   outdoor_adventure,
 
   /// Title: Outdoor party
@@ -4108,7 +4118,7 @@ enum UnDrawIllustration {
 
   /// Title: Partying
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/partying_p92d.svg" alt="Partying" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Partying_re_at7f.svg" alt="Partying" width="200"/>
   partying,
 
   /// Title: Passing by
@@ -4148,7 +4158,7 @@ enum UnDrawIllustration {
 
   /// Title: People search
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/people_search_wctu.svg" alt="People search" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/People_search_re_5rre.svg" alt="People search" width="200"/>
   people_search,
 
   /// Title: Percentages
@@ -4173,7 +4183,7 @@ enum UnDrawIllustration {
 
   /// Title: Personal email
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/personal_email_t7nw.svg" alt="Personal email" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Personal_email_re_4lx7.svg" alt="Personal email" width="200"/>
   personal_email,
 
   /// Title: Personal file
@@ -4218,7 +4228,7 @@ enum UnDrawIllustration {
 
   /// Title: Personal settings
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/personal_settings_kihd.svg" alt="Personal settings" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Personal_settings_re_i6w4.svg" alt="Personal settings" width="200"/>
   personal_settings,
 
   /// Title: Personal site
@@ -4268,7 +4278,7 @@ enum UnDrawIllustration {
 
   /// Title: Photo album
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/photo_album_e8hj.svg" alt="Photo album" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/photo_album_re_31c2.svg" alt="Photo album" width="200"/>
   photo_album,
 
   /// Title: Photo session
@@ -4303,7 +4313,7 @@ enum UnDrawIllustration {
 
   /// Title: Pie chart
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/pie_chart_6efe.svg" alt="Pie chart" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Pie_chart_re_bgs8.svg" alt="Pie chart" width="200"/>
   pie_chart,
 
   /// Title: Pie graph
@@ -4318,7 +4328,7 @@ enum UnDrawIllustration {
 
   /// Title: Pitching
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/pitching_36ol.svg" alt="Pitching" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Pitching_re_fpgk.svg" alt="Pitching" width="200"/>
   pitching,
 
   /// Title: Pizza sharing
@@ -4348,7 +4358,7 @@ enum UnDrawIllustration {
 
   /// Title: Playful cat
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Playful_cat_rchv.svg" alt="Playful cat" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Playful_cat_re_bxiu.svg" alt="Playful cat" width="200"/>
   playful_cat,
 
   /// Title: Playing cards
@@ -4398,7 +4408,7 @@ enum UnDrawIllustration {
 
   /// Title: Portfolio feedback
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/portfolio_feedback_exfk.svg" alt="Portfolio feedback" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/portfolio_feedback_6r17.svg" alt="Portfolio feedback" width="200"/>
   portfolio_feedback,
 
   /// Title: Portfolio update
@@ -4518,7 +4528,7 @@ enum UnDrawIllustration {
 
   /// Title: Product Tour
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/product_tour_foyt.svg" alt="Product Tour" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/product_tour_re_8bai.svg" alt="Product Tour" width="200"/>
   product_tour,
 
   /// Title: Product hunt
@@ -4553,7 +4563,7 @@ enum UnDrawIllustration {
 
   /// Title: Profile
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/profile_6l1l.svg" alt="Profile" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Profile_re_4a55.svg" alt="Profile" width="200"/>
   profile,
 
   /// Title: Profile data
@@ -4618,7 +4628,7 @@ enum UnDrawIllustration {
 
   /// Title: Project feedback
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/project_feedback_2s92.svg" alt="Project feedback" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Project_feedback_re_cm3l.svg" alt="Project feedback" width="200"/>
   project_feedback,
 
   /// Title: Project team
@@ -4648,7 +4658,7 @@ enum UnDrawIllustration {
 
   /// Title: Public discussion
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/public_discussion_btnw.svg" alt="Public discussion" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Public_discussion_re_w9up.svg" alt="Public discussion" width="200"/>
   public_discussion,
 
   /// Title: Publish article
@@ -4673,7 +4683,7 @@ enum UnDrawIllustration {
 
   /// Title: Push notifications
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/push_notifications_im0o.svg" alt="Push notifications" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Push_notifications_re_t84m.svg" alt="Push notifications" width="200"/>
   push_notifications,
 
   /// Title: QA engineers
@@ -4695,6 +4705,11 @@ enum UnDrawIllustration {
   /// <br/>
   /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Queue_j6ij.svg" alt="Queue" width="200"/>
   queue,
+
+  /// Title: Quick chat
+  /// <br/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/quick_chat_re_bit5.svg" alt="Quick chat" width="200"/>
+  quick_chat,
 
   /// Title: Quiet town
   /// <br/>
@@ -4718,7 +4733,7 @@ enum UnDrawIllustration {
 
   /// Title: Random thoughts
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/random_thoughts_xejj.svg" alt="Random thoughts" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Random_thoughts_re_cob6.svg" alt="Random thoughts" width="200"/>
   random_thoughts,
 
   /// Title: React
@@ -4753,7 +4768,7 @@ enum UnDrawIllustration {
 
   /// Title: Real-time sync
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/real-time_sync_o57k.svg" alt="Real-time sync" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Real_time_sync_re_nky7.svg" alt="Real-time sync" width="200"/>
   real_time_sync,
 
   /// Title: Receipt
@@ -4828,7 +4843,7 @@ enum UnDrawIllustration {
 
   /// Title: Remote meeting
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/remote_meeting_cbfk.svg" alt="Remote meeting" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Remote_meeting_re_abe7.svg" alt="Remote meeting" width="200"/>
   remote_meeting,
 
   /// Title: Remote team
@@ -4843,7 +4858,7 @@ enum UnDrawIllustration {
 
   /// Title: Report
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/report_mx0a.svg" alt="Report" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Report_re_kp7y.svg" alt="Report" width="200"/>
   report,
 
   /// Title: Researching
@@ -4858,7 +4873,7 @@ enum UnDrawIllustration {
 
   /// Title: Responsive
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/responsive_6c8s.svg" alt="Responsive" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Responsive_re_e1nn.svg" alt="Responsive" width="200"/>
   responsive,
 
   /// Title: Responsiveness
@@ -4983,7 +4998,7 @@ enum UnDrawIllustration {
 
   /// Title: Schedule
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/schedule_pnbk.svg" alt="Schedule" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Schedule_re_2vro.svg" alt="Schedule" width="200"/>
   schedule,
 
   /// Title: Schedule meeting
@@ -5048,7 +5063,7 @@ enum UnDrawIllustration {
 
   /// Title: Secure server
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/secure_server_s9u8.svg" alt="Secure server" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Secure_server_re_8wsq.svg" alt="Secure server" width="200"/>
   secure_server,
 
   /// Title: Security
@@ -5058,7 +5073,7 @@ enum UnDrawIllustration {
 
   /// Title: Security on
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Security_on_ff2u.svg" alt="Security on" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Security_on_re_e491.svg" alt="Security on" width="200"/>
   security_on,
 
   /// Title: Segment
@@ -5068,7 +5083,7 @@ enum UnDrawIllustration {
 
   /// Title: Segment analysis
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/segment_analysis_bdn4.svg" alt="Segment analysis" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Segment_analysis_re_ocsl.svg" alt="Segment analysis" width="200"/>
   segment_analysis,
 
   /// Title: Segmentation
@@ -5098,7 +5113,7 @@ enum UnDrawIllustration {
 
   /// Title: Selected options
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/selected_options_42hx.svg" alt="Selected options" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Selected_options_re_vtjd.svg" alt="Selected options" width="200"/>
   selected_options,
 
   /// Title: Selecting
@@ -5118,7 +5133,7 @@ enum UnDrawIllustration {
 
   /// Title: Selfie
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/selfie1_kpqf.svg" alt="Selfie" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Selfie_re_h9um.svg" alt="Selfie" width="200"/>
   selfie,
 
   /// Title: Selfie time
@@ -5128,7 +5143,7 @@ enum UnDrawIllustration {
 
   /// Title: Send gift
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/send_gift_7o4m.svg" alt="Send gift" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Send_gift_re_t5ni.svg" alt="Send gift" width="200"/>
   send_gift,
 
   /// Title: Sentiment analysis
@@ -5153,7 +5168,7 @@ enum UnDrawIllustration {
 
   /// Title: Server push
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/server_push_vtms.svg" alt="Server push" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Server_push_re_303w.svg" alt="Server push" width="200"/>
   server_push,
 
   /// Title: Server status
@@ -5173,7 +5188,7 @@ enum UnDrawIllustration {
 
   /// Title: Settings
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/settings_ii2j.svg" alt="Settings" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Settings_re_b08x.svg" alt="Settings" width="200"/>
   settings,
 
   /// Title: Settings tab
@@ -5188,7 +5203,7 @@ enum UnDrawIllustration {
 
   /// Title: Setup analytics
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/setup_analytics_8qkl.svg" alt="Setup analytics" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Setup_analytics_re_foim.svg" alt="Setup analytics" width="200"/>
   setup_analytics,
 
   /// Title: Setup wizard
@@ -5208,7 +5223,7 @@ enum UnDrawIllustration {
 
   /// Title: Share online
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/share_online_r87b.svg" alt="Share online" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Share_online_re_gal9.svg" alt="Share online" width="200"/>
   share_online,
 
   /// Title: Share opinion
@@ -5223,7 +5238,7 @@ enum UnDrawIllustration {
 
   /// Title: Shared workspace
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/shared_workspace_hwky.svg" alt="Shared workspace" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Shared_workspace_re_3gsu.svg" alt="Shared workspace" width="200"/>
   shared_workspace,
 
   /// Title: Sharing articles
@@ -5258,12 +5273,12 @@ enum UnDrawIllustration {
 
   /// Title: Site content
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/site_content_ihgn.svg" alt="Site content" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Site_content_re_4ctl.svg" alt="Site content" width="200"/>
   site_content,
 
   /// Title: Site stats
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/site_stats_l57q.svg" alt="Site stats" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Site_stats_re_ejgy.svg" alt="Site stats" width="200"/>
   site_stats,
 
   /// Title: Skateboard
@@ -5293,7 +5308,7 @@ enum UnDrawIllustration {
 
   /// Title: Smart home
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/smart_home_28oy.svg" alt="Smart home" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/smart_home_re_orvn.svg" alt="Smart home" width="200"/>
   smart_home,
 
   /// Title: Smart resize
@@ -5338,7 +5353,7 @@ enum UnDrawIllustration {
 
   /// Title: Social bio
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_bio_8pql.svg" alt="Social bio" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Social_bio_re_0t9u.svg" alt="Social bio" width="200"/>
   social_bio,
 
   /// Title: Social dashboard
@@ -5378,7 +5393,7 @@ enum UnDrawIllustration {
 
   /// Title: Social influencer
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_influencer_sgsv.svg" alt="Social influencer" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Social_influencer_re_beim.svg" alt="Social influencer" width="200"/>
   social_influencer,
 
   /// Title: Social interaction
@@ -5413,7 +5428,7 @@ enum UnDrawIllustration {
 
   /// Title: Social share
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_share_algy.svg" alt="Social share" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Social_share_re_qb4v.svg" alt="Social share" width="200"/>
   social_share,
 
   /// Title: Social sharing
@@ -5443,7 +5458,7 @@ enum UnDrawIllustration {
 
   /// Title: Social user
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/social_user_lff0.svg" alt="Social user" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Social_user_re_8cky.svg" alt="Social user" width="200"/>
   social_user,
 
   /// Title: Software engineer
@@ -5473,7 +5488,7 @@ enum UnDrawIllustration {
 
   /// Title: Specs
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Specs_djh3.svg" alt="Specs" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Specs_re_546x.svg" alt="Specs" width="200"/>
   specs,
 
   /// Title: Speech to text
@@ -5603,7 +5618,7 @@ enum UnDrawIllustration {
 
   /// Title: Street food
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/street_food_hm5i.svg" alt="Street food" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Street_food_re_uwex.svg" alt="Street food" width="200"/>
   street_food,
 
   /// Title: Stripe payments
@@ -5648,7 +5663,7 @@ enum UnDrawIllustration {
 
   /// Title: Successful purchase
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/successful_purchase_uyin.svg" alt="Successful purchase" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Successful_purchase_re_mpig.svg" alt="Successful purchase" width="200"/>
   successful_purchase,
 
   /// Title: Summer
@@ -5663,12 +5678,12 @@ enum UnDrawIllustration {
 
   /// Title: Sunny day
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/sunny_day_bk3m.svg" alt="Sunny day" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Sunny_day_re_gyxr.svg" alt="Sunny day" width="200"/>
   sunny_day,
 
   /// Title: Super thank you
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/super_thank_you_obwk.svg" alt="Super thank you" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Super_thank_you_re_f8bo.svg" alt="Super thank you" width="200"/>
   super_thank_you,
 
   /// Title: Super woman
@@ -5703,7 +5718,7 @@ enum UnDrawIllustration {
 
   /// Title: Swipe
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/swipe_xh98.svg" alt="Swipe" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/swipe_re_vhc5.svg" alt="Swipe" width="200"/>
   swipe,
 
   /// Title: Swipe options
@@ -5713,7 +5728,7 @@ enum UnDrawIllustration {
 
   /// Title: Swipe profiles
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/swipe_profiles1_i6mr.svg" alt="Swipe profiles" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Swipe_profiles_re_tvqm.svg" alt="Swipe profiles" width="200"/>
   swipe_profiles,
 
   /// Title: Switches
@@ -5723,12 +5738,12 @@ enum UnDrawIllustration {
 
   /// Title: Sync
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/sync4_xlc6.svg" alt="Sync" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Sync_re_492g.svg" alt="Sync" width="200"/>
   sync,
 
   /// Title: Sync files
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/sync_files_xb3r.svg" alt="Sync files" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Sync_files_re_ws4c.svg" alt="Sync files" width="200"/>
   sync_files,
 
   /// Title: Synchronize
@@ -5763,7 +5778,7 @@ enum UnDrawIllustration {
 
   /// Title: Taking selfie
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/taking_selfie_lbo7.svg" alt="Taking selfie" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Taking_selfie_re_wlgd.svg" alt="Taking selfie" width="200"/>
   taking_selfie,
 
   /// Title: Target
@@ -5783,7 +5798,7 @@ enum UnDrawIllustration {
 
   /// Title: Tasks
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/tasks_av87.svg" alt="Tasks" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/tasks_re_v2v4.svg" alt="Tasks" width="200"/>
   tasks,
 
   /// Title: Tasting
@@ -5868,7 +5883,7 @@ enum UnDrawIllustration {
 
   /// Title: Texting
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/texting_k35o.svg" alt="Texting" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Texting_re_l11n.svg" alt="Texting" width="200"/>
   texting,
 
   /// Title: The search
@@ -5898,7 +5913,7 @@ enum UnDrawIllustration {
 
   /// Title: Through the desert
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Through_the_desert_rqtu.svg" alt="Through the desert" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Through_the_desert_re_1q2x.svg" alt="Through the desert" width="200"/>
   through_the_desert,
 
   /// Title: Through the park
@@ -5953,7 +5968,7 @@ enum UnDrawIllustration {
 
   /// Title: Together
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/together_j0gj.svg" alt="Together" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Together_re_a8x4.svg" alt="Together" width="200"/>
   together,
 
   /// Title: Tourist map
@@ -5983,7 +5998,7 @@ enum UnDrawIllustration {
 
   /// Title: Transfer files
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/transfer_files_6tns.svg" alt="Transfer files" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Transfer_files_re_a2a9.svg" alt="Transfer files" width="200"/>
   transfer_files,
 
   /// Title: Transfer money
@@ -5993,7 +6008,7 @@ enum UnDrawIllustration {
 
   /// Title: Travel booking
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/travel_booking_6koc.svg" alt="Travel booking" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Travel_booking_re_6umu.svg" alt="Travel booking" width="200"/>
   travel_booking,
 
   /// Title: Travel mode
@@ -6113,7 +6128,7 @@ enum UnDrawIllustration {
 
   /// Title: Update
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/update_uxn2.svg" alt="Update" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Update_re_swkp.svg" alt="Update" width="200"/>
   update,
 
   /// Title: Updated
@@ -6143,7 +6158,7 @@ enum UnDrawIllustration {
 
   /// Title: Upload image
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/upload_image_iwej.svg" alt="Upload image" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Upload_image_re_svxx.svg" alt="Upload image" width="200"/>
   upload_image,
 
   /// Title: Uploading
@@ -6163,7 +6178,7 @@ enum UnDrawIllustration {
 
   /// Title: Usability testing
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/usability_testing_2xs4.svg" alt="Usability testing" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Usability_testing_re_uu1g.svg" alt="Usability testing" width="200"/>
   usability_testing,
 
   /// Title: User flow
@@ -6178,7 +6193,7 @@ enum UnDrawIllustration {
 
   /// Title: Vault
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/vault_9cmw.svg" alt="Vault" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Vault_re_s4my.svg" alt="Vault" width="200"/>
   vault,
 
   /// Title: Vehicle sale
@@ -6193,12 +6208,12 @@ enum UnDrawIllustration {
 
   /// Title: Version control
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/version_control_9bpv.svg" alt="Version control" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/version_control_re_mg66.svg" alt="Version control" width="200"/>
   version_control,
 
   /// Title: Video call
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/video_call_kxyp.svg" alt="Video call" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Video_call_re_4p26.svg" alt="Video call" width="200"/>
   video_call,
 
   /// Title: Video files
@@ -6243,7 +6258,7 @@ enum UnDrawIllustration {
 
   /// Title: Virtual reality
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/virtual_reality_y5ig.svg" alt="Virtual reality" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Virtual_reality_re_yg8i.svg" alt="Virtual reality" width="200"/>
   virtual_reality,
 
   /// Title: Visionary technology
@@ -6293,7 +6308,7 @@ enum UnDrawIllustration {
 
   /// Title: Walk in the city
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/walk_in_the_city_1ma6.svg" alt="Walk in the city" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Walk_in_the_city_re_039v.svg" alt="Walk in the city" width="200"/>
   walk_in_the_city,
 
   /// Title: Walking around
@@ -6308,7 +6323,7 @@ enum UnDrawIllustration {
 
   /// Title: Wall post
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/wall_post_83ul.svg" alt="Wall post" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Wall_post_re_y78d.svg" alt="Wall post" width="200"/>
   wall_post,
 
   /// Title: Wallet
@@ -6348,7 +6363,7 @@ enum UnDrawIllustration {
 
   /// Title: Weather notification
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/weather_notification_4sbo.svg" alt="Weather notification" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Weather_notification_re_3pad.svg" alt="Weather notification" width="200"/>
   weather_notification,
 
   /// Title: Web browsing
@@ -6358,7 +6373,7 @@ enum UnDrawIllustration {
 
   /// Title: Web developer
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/web_developer_p3e5.svg" alt="Web developer" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Web_developer_re_h7ie.svg" alt="Web developer" width="200"/>
   web_developer,
 
   /// Title: Web development
@@ -6378,12 +6393,12 @@ enum UnDrawIllustration {
 
   /// Title: Web shopping
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/web_shopping_dd4l.svg" alt="Web shopping" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/web_shopping_re_owap.svg" alt="Web shopping" width="200"/>
   web_shopping,
 
   /// Title: Website builder
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/website_builder_bxki.svg" alt="Website builder" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Website_builder_re_ii6e.svg" alt="Website builder" width="200"/>
   website_builder,
 
   /// Title: Website setup
@@ -6433,7 +6448,7 @@ enum UnDrawIllustration {
 
   /// Title: Windows
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/windows_q9m0.svg" alt="Windows" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Windows_re_uo4w.svg" alt="Windows" width="200"/>
   windows,
 
   /// Title: Windy day
@@ -6483,7 +6498,7 @@ enum UnDrawIllustration {
 
   /// Title: Wireframing
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/wireframing_nxyi.svg" alt="Wireframing" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Wireframing_re_q6k6.svg" alt="Wireframing" width="200"/>
   wireframing,
 
   /// Title: Wishes
@@ -6533,7 +6548,7 @@ enum UnDrawIllustration {
 
   /// Title: Work from anywhere
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/work_from_anywhere_7sdx.svg" alt="Work from anywhere" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Work_from_anywhere_re_s2i6.svg" alt="Work from anywhere" width="200"/>
   work_from_anywhere,
 
   /// Title: Work in progress
@@ -6553,7 +6568,7 @@ enum UnDrawIllustration {
 
   /// Title: Working
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Working_oh83.svg" alt="Working" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Working_re_ddwy.svg" alt="Working" width="200"/>
   working,
 
   /// Title: Working from anywhere
@@ -6613,7 +6628,7 @@ enum UnDrawIllustration {
 
   /// Title: Youtube tutorial
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/youtube_tutorial_2gn3.svg" alt="Youtube tutorial" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Youtube_tutorial_re_69qc.svg" alt="Youtube tutorial" width="200"/>
   youtube_tutorial,
 
   /// Title: Zoom in
@@ -6638,13 +6653,12 @@ enum UnDrawIllustration {
 
   /// Title: visual data
   /// <br/>
-  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/visual_data_b1wx.svg" alt="visual data" width="200"/>
+  /// <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/visual_data_re_mxxo.svg" alt="visual data" width="200"/>
   visual_data
 }
 
 /// Base url for the illustrations
-const baseUrl =
-    "https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations";
+const baseUrl = "https://undraw.co/api/illustrations";
 
 /// Map of illustrations with url to download
 const illustrationMap = <UnDrawIllustration, String>{
@@ -6656,27 +6670,27 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.a_moment_to_relax: '$baseUrl/a_moment_to_relax_bbpa.svg',
   UnDrawIllustration.a_whole_year: '$baseUrl/a_whole_year_vnfm.svg',
   UnDrawIllustration.about_me: '$baseUrl/about_me_wa29.svg',
-  UnDrawIllustration.about_us_page: '$baseUrl/about_us_page_ee1k.svg',
+  UnDrawIllustration.about_us_page: '$baseUrl/About_us_page_re_2jfm.svg',
   UnDrawIllustration.absorbed_in: '$baseUrl/absorbed_in_xahs.svg',
-  UnDrawIllustration.abstract: '$baseUrl/abstract_x68e.svg',
+  UnDrawIllustration.abstract: '$baseUrl/Abstract_re_l9xy.svg',
   UnDrawIllustration.accept_request: '$baseUrl/Accept_request_re_d81h.svg',
   UnDrawIllustration.accept_tasks: '$baseUrl/accept_tasks_po1c.svg',
   UnDrawIllustration.accept_terms: '$baseUrl/accept_terms_4in8.svg',
   UnDrawIllustration.access_account: '$baseUrl/Access_account_re_8spm.svg',
   UnDrawIllustration.access_denied: '$baseUrl/access_denied_re_awnf.svg',
   UnDrawIllustration.account: '$baseUrl/Account_re_o7id.svg',
-  UnDrawIllustration.active_options: '$baseUrl/active_options_8je6.svg',
-  UnDrawIllustration.active_support: '$baseUrl/active_support_6rwo.svg',
+  UnDrawIllustration.active_options: '$baseUrl/Active_options_re_8rj3.svg',
+  UnDrawIllustration.active_support: '$baseUrl/Active_support_re_b7sj.svg',
   UnDrawIllustration.activity_tracker: '$baseUrl/Activity_tracker_re_2lvv.svg',
   UnDrawIllustration.add_color: '$baseUrl/add_color_19gv.svg',
   UnDrawIllustration.add_content: '$baseUrl/Add_content_re_vgqa.svg',
-  UnDrawIllustration.add_document: '$baseUrl/add_document_0hek.svg',
-  UnDrawIllustration.add_file: '$baseUrl/add_file_4gfw.svg',
+  UnDrawIllustration.add_document: '$baseUrl/add_document_re_mbjx.svg',
+  UnDrawIllustration.add_file: '$baseUrl/Add_file_re_s4qf.svg',
   UnDrawIllustration.add_files: '$baseUrl/Add_files_re_v09g.svg',
-  UnDrawIllustration.add_friends: '$baseUrl/Add_friends_wa2a.svg',
+  UnDrawIllustration.add_friends: '$baseUrl/add_friends_re_3xte.svg',
   UnDrawIllustration.add_notes: '$baseUrl/Add_notes_re_ln36.svg',
-  UnDrawIllustration.add_post: '$baseUrl/add_post_64nu.svg',
-  UnDrawIllustration.add_tasks: '$baseUrl/add_tasks_mxew.svg',
+  UnDrawIllustration.add_post: '$baseUrl/Add_post_re_174w.svg',
+  UnDrawIllustration.add_tasks: '$baseUrl/Add_tasks_re_s5yj.svg',
   UnDrawIllustration.add_to_cart: '$baseUrl/add_to_cart_vkjp.svg',
   UnDrawIllustration.add_user: '$baseUrl/Add_user_re_5oib.svg',
   UnDrawIllustration.address: '$baseUrl/Address_re_yaoj.svg',
@@ -6691,7 +6705,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.air_support: '$baseUrl/air_support_wy1q.svg',
   UnDrawIllustration.aircraft: '$baseUrl/aircraft_fbvl.svg',
   UnDrawIllustration.airport: '$baseUrl/Airport_re_oqk1.svg',
-  UnDrawIllustration.alert: '$baseUrl/alert_mc7b.svg',
+  UnDrawIllustration.alert: '$baseUrl/Alert_re_j2op.svg',
   UnDrawIllustration.algolia: '$baseUrl/algolia_msba.svg',
   UnDrawIllustration.alien_science: '$baseUrl/alien_science_nonm.svg',
   UnDrawIllustration.all_the_data: '$baseUrl/All_the_data_re_hh4w.svg',
@@ -6703,17 +6717,18 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.android: '$baseUrl/android_jr64.svg',
   UnDrawIllustration.animating: '$baseUrl/animating_1rgh.svg',
   UnDrawIllustration.annotation: '$baseUrl/annotation_7das.svg',
-  UnDrawIllustration.anonymous_feedback: '$baseUrl/anonymous_feedback_y3co.svg',
+  UnDrawIllustration.anonymous_feedback:
+      '$baseUrl/Anonymous_feedback_re_rc5v.svg',
   UnDrawIllustration.apartment_rent: '$baseUrl/apartment_rent_o0ut.svg',
-  UnDrawIllustration.app_data: '$baseUrl/app_data_516s.svg',
+  UnDrawIllustration.app_data: '$baseUrl/app_data_re_vg5c.svg',
   UnDrawIllustration.app_installation: '$baseUrl/App_installation_re_h36x.svg',
   UnDrawIllustration.app_wireframe: '$baseUrl/App_wireframe_re_d467.svg',
   UnDrawIllustration.appreciation: '$baseUrl/Appreciation_re_p6rl.svg',
   UnDrawIllustration.approve: '$baseUrl/approve_qwp7.svg',
   UnDrawIllustration.apps: '$baseUrl/apps_m7mh.svg',
   UnDrawIllustration.around_the_world: '$baseUrl/Around_the_world_re_n353.svg',
-  UnDrawIllustration.arrived: '$baseUrl/arrived_f58d.svg',
-  UnDrawIllustration.art: '$baseUrl/art_0tat.svg',
+  UnDrawIllustration.arrived: '$baseUrl/Arrived_re_t2bw.svg',
+  UnDrawIllustration.art: '$baseUrl/Art_re_vj2w.svg',
   UnDrawIllustration.art_lover: '$baseUrl/art_lover_yjfr.svg',
   UnDrawIllustration.art_museum: '$baseUrl/art_museum_8or4.svg',
   UnDrawIllustration.art_thinking: '$baseUrl/art_thinking_3g82.svg',
@@ -6721,13 +6736,14 @@ const illustrationMap = <UnDrawIllustration, String>{
       '$baseUrl/Artificial_intelligence_re_enpp.svg',
   UnDrawIllustration.artist: '$baseUrl/artist_b4rc.svg',
   UnDrawIllustration.ask_me_anything: '$baseUrl/ask_me_anything_k8o0.svg',
-  UnDrawIllustration.asset_selection: '$baseUrl/asset_selection_ix3v.svg',
+  UnDrawIllustration.asset_selection: '$baseUrl/Asset_selection_re_k5fj.svg',
   UnDrawIllustration.astronaut: '$baseUrl/Astronaut_re_8c33.svg',
   UnDrawIllustration.at_home: '$baseUrl/at_home_octe.svg',
   UnDrawIllustration.at_the_park: '$baseUrl/at_the_park_2e47.svg',
   UnDrawIllustration.at_work: '$baseUrl/At_work_re_qotl.svg',
   UnDrawIllustration.attached_file: '$baseUrl/attached_file_n4wm.svg',
-  UnDrawIllustration.audio_conversation: '$baseUrl/audio_conversation_dgtw.svg',
+  UnDrawIllustration.audio_conversation:
+      '$baseUrl/Audio_conversation_re_ptsl.svg',
   UnDrawIllustration.audio_player: '$baseUrl/audio_player_re_cl20.svg',
   UnDrawIllustration.augmented_reality: '$baseUrl/augmented_reality_heuy.svg',
   UnDrawIllustration.authentication: '$baseUrl/authentication_fsn5.svg',
@@ -6745,7 +6761,8 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.be_the_hero: '$baseUrl/be_the_hero_ssr2.svg',
   UnDrawIllustration.beach: '$baseUrl/Beach_rvmg.svg',
   UnDrawIllustration.bear_market: '$baseUrl/bear_market_ania.svg',
-  UnDrawIllustration.beer_celebration: '$baseUrl/Beer_celebration_cefj.svg',
+  UnDrawIllustration.beer: '$baseUrl/beer_xg5f.svg',
+  UnDrawIllustration.beer_celebration: '$baseUrl/Beer_celebration_re_0iqw.svg',
   UnDrawIllustration.before_dawn: '$baseUrl/before_dawn_bqrj.svg',
   UnDrawIllustration.begin_chat: '$baseUrl/begin_chat_c6pj.svg',
   UnDrawIllustration.best_place: '$baseUrl/best_place_r685.svg',
@@ -6759,7 +6776,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.black_lives_matter: '$baseUrl/black_lives_matter_rndk.svg',
   UnDrawIllustration.blank_canvas: '$baseUrl/blank_canvas_3rbb.svg',
   UnDrawIllustration.blog_post: '$baseUrl/Blog_post_re_fy5x.svg',
-  UnDrawIllustration.blogging: '$baseUrl/blogging_vpvv.svg',
+  UnDrawIllustration.blogging: '$baseUrl/Blogging_re_kl0d.svg',
   UnDrawIllustration.blooming: '$baseUrl/blooming_jtv6.svg',
   UnDrawIllustration.body_text: '$baseUrl/body_text_l3ld.svg',
   UnDrawIllustration.book_lover: '$baseUrl/book_lover_mkck.svg',
@@ -6775,8 +6792,8 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.breaking_barriers: '$baseUrl/breaking_barriers_vnf3.svg',
   UnDrawIllustration.broadcast: '$baseUrl/broadcast_jhwx.svg',
   UnDrawIllustration.browser_stats: '$baseUrl/Browser_stats_re_j7wy.svg',
-  UnDrawIllustration.browsing: '$baseUrl/browsing_urt9.svg',
-  UnDrawIllustration.browsing_online: '$baseUrl/browsing_online_sr8c.svg',
+  UnDrawIllustration.browsing: '$baseUrl/Browsing_re_eycn.svg',
+  UnDrawIllustration.browsing_online: '$baseUrl/Browsing_online_re_umsa.svg',
   UnDrawIllustration.buddies: '$baseUrl/buddies_tb1l.svg',
   UnDrawIllustration.buffer: '$baseUrl/buffer_wq43.svg',
   UnDrawIllustration.bug_fixing: '$baseUrl/bug_fixing_oc7a.svg',
@@ -6785,7 +6802,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.building: '$baseUrl/Building_re_xfcm.svg',
   UnDrawIllustration.building_blocks: '$baseUrl/building_blocks_n0nc.svg',
   UnDrawIllustration.building_websites: '$baseUrl/building_websites_i78t.svg',
-  UnDrawIllustration.bus_stop: '$baseUrl/Bus_stop_8ib0.svg',
+  UnDrawIllustration.bus_stop: '$baseUrl/Bus_stop_re_h8ej.svg',
   UnDrawIllustration.business_analytics:
       '$baseUrl/Business_analytics_re_tfh3.svg',
   UnDrawIllustration.business_chat: '$baseUrl/business_chat_ldig.svg',
@@ -6804,7 +6821,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.cabin: '$baseUrl/cabin_hkfr.svg',
   UnDrawIllustration.calculator: '$baseUrl/Calculator_0evy.svg',
   UnDrawIllustration.calendar: '$baseUrl/Calendar_re_ki49.svg',
-  UnDrawIllustration.calling: '$baseUrl/calling_kpbp.svg',
+  UnDrawIllustration.calling: '$baseUrl/Calling_re_mgft.svg',
   UnDrawIllustration.camera: '$baseUrl/Camera_re_cnp4.svg',
   UnDrawIllustration.campfire: '$baseUrl/campfire_s6y4.svg',
   UnDrawIllustration.camping: '$baseUrl/camping_noc8.svg',
@@ -6815,31 +6832,31 @@ const illustrationMap = <UnDrawIllustration, String>{
       '$baseUrl/Career_development_re_sv91.svg',
   UnDrawIllustration.cautious_dog: '$baseUrl/Cautious_dog_q83f.svg',
   UnDrawIllustration.celebrating: '$baseUrl/Celebrating_rtuv.svg',
-  UnDrawIllustration.celebration: '$baseUrl/celebration_0jvk.svg',
+  UnDrawIllustration.celebration: '$baseUrl/Celebration_re_kc9k.svg',
   UnDrawIllustration.certificate: '$baseUrl/certificate_343v.svg',
   UnDrawIllustration.certification: '$baseUrl/certification_aif8.svg',
   UnDrawIllustration.character_drawing: '$baseUrl/Character_drawing_ii11.svg',
   UnDrawIllustration.charts: '$baseUrl/Charts_re_5qe9.svg',
-  UnDrawIllustration.chasing_love: '$baseUrl/chasing_love_3v98.svg',
+  UnDrawIllustration.chasing_love: '$baseUrl/Chasing_love_re_9r1c.svg',
   UnDrawIllustration.chat: '$baseUrl/Chat_re_re1u.svg',
   UnDrawIllustration.chat_bot: '$baseUrl/Chat_bot_re_e2gj.svg',
   UnDrawIllustration.chatting: '$baseUrl/Chatting_re_j55r.svg',
-  UnDrawIllustration.check_boxes: '$baseUrl/check_boxes_m3d0.svg',
+  UnDrawIllustration.check_boxes: '$baseUrl/Check_boxes_re_v40f.svg',
   UnDrawIllustration.checking_boxes: '$baseUrl/checking_boxes_2ibd.svg',
   UnDrawIllustration.checklist: '$baseUrl/Checklist__re_2w7v.svg',
   UnDrawIllustration.chef: '$baseUrl/Chef_cu0r.svg',
   UnDrawIllustration.children: '$baseUrl/children_4rtb.svg',
-  UnDrawIllustration.chilling: '$baseUrl/chilling_8tii.svg',
+  UnDrawIllustration.chilling: '$baseUrl/Chilling_re_4iq9.svg',
   UnDrawIllustration.choice: '$baseUrl/Choice_re_2hkp.svg',
-  UnDrawIllustration.choose: '$baseUrl/Choose_bwbs.svg',
+  UnDrawIllustration.choose: '$baseUrl/Choose_re_7d5a.svg',
   UnDrawIllustration.choosing_house: '$baseUrl/choosing_house_v37h.svg',
-  UnDrawIllustration.chore_list: '$baseUrl/chore_list_iof3.svg',
+  UnDrawIllustration.chore_list: '$baseUrl/chore_list_re_2lq8.svg',
   UnDrawIllustration.christmas_stocking: '$baseUrl/Christmas_stocking_wux9.svg',
   UnDrawIllustration.christmas_tree: '$baseUrl/christmas_tree_56sw.svg',
   UnDrawIllustration.circles: '$baseUrl/circles_y7s2.svg',
   UnDrawIllustration.circuit: '$baseUrl/circuit_sdmr.svg',
   UnDrawIllustration.circuit_board: '$baseUrl/circuit_board_4c4d.svg',
-  UnDrawIllustration.city_driver: '$baseUrl/city_driver_jh2h.svg',
+  UnDrawIllustration.city_driver: '$baseUrl/city_driver_re_0x5e.svg',
   UnDrawIllustration.city_girl: '$baseUrl/city_girl_ccpd.svg',
   UnDrawIllustration.city_life: '$baseUrl/city_life_gnpr.svg',
   UnDrawIllustration.clean_up: '$baseUrl/clean_up_ucm0.svg',
@@ -6848,16 +6865,16 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.cloud_docs: '$baseUrl/Cloud_docs_re_xjht.svg',
   UnDrawIllustration.cloud_files: '$baseUrl/cloud_files_wmo8.svg',
   UnDrawIllustration.cloud_hosting: '$baseUrl/cloud_hosting_aodd.svg',
-  UnDrawIllustration.cloud_sync: '$baseUrl/cloud_sync_2aph.svg',
+  UnDrawIllustration.cloud_sync: '$baseUrl/Cloud_sync_re_02p1.svg',
   UnDrawIllustration.co_workers: '$baseUrl/Co_workers_re_1i6i.svg',
   UnDrawIllustration.co_working: '$baseUrl/co-working_825n.svg',
   UnDrawIllustration.code_inspection: '$baseUrl/code_inspection_bdl7.svg',
   UnDrawIllustration.code_review: '$baseUrl/Code_review_re_woeb.svg',
   UnDrawIllustration.code_thinking: '$baseUrl/Code_thinking_re_gka2.svg',
   UnDrawIllustration.code_typing: '$baseUrl/Code_typing_re_p8b9.svg',
-  UnDrawIllustration.coding: '$baseUrl/coding_6mjf.svg',
-  UnDrawIllustration.coffee_break: '$baseUrl/coffee_break_j3of.svg',
-  UnDrawIllustration.coffee_break_1: '$baseUrl/coffee_break_h3uu.svg',
+  UnDrawIllustration.coding: '$baseUrl/Coding_re_iv62.svg',
+  UnDrawIllustration.coffee_break: '$baseUrl/coffee_break_h3uu.svg',
+  UnDrawIllustration.coffee_break_1: '$baseUrl/coffee_break_j3of.svg',
   UnDrawIllustration.cohort_analysis: '$baseUrl/cohort_analysis_stny.svg',
   UnDrawIllustration.collab: '$baseUrl/collab_8oes.svg',
   UnDrawIllustration.collaborating: '$baseUrl/collaborating_g8k8.svg',
@@ -6870,9 +6887,9 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.coming_home: '$baseUrl/coming_home_52ir.svg',
   UnDrawIllustration.community: '$baseUrl/community_8nwl.svg',
   UnDrawIllustration.complete_design: '$baseUrl/complete_design_ongo.svg',
-  UnDrawIllustration.complete_task: '$baseUrl/complete_task_u2c3.svg',
+  UnDrawIllustration.complete_task: '$baseUrl/Complete_task_re_44tb.svg',
   UnDrawIllustration.completed: '$baseUrl/Completed_re_cisp.svg',
-  UnDrawIllustration.completed_steps: '$baseUrl/completed_steps_yurw.svg',
+  UnDrawIllustration.completed_steps: '$baseUrl/Completed_steps_re_h9wc.svg',
   UnDrawIllustration.completed_tasks: '$baseUrl/completed_tasks_vs6q.svg',
   UnDrawIllustration.completing: '$baseUrl/completing_6bhr.svg',
   UnDrawIllustration.compose_music: '$baseUrl/compose_music_ovo2.svg',
@@ -6911,7 +6928,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.couple: '$baseUrl/couple_a7s9.svg',
   UnDrawIllustration.create: '$baseUrl/Create_re_57a3.svg',
   UnDrawIllustration.creation: '$baseUrl/creation_rd0e.svg',
-  UnDrawIllustration.creation_process: '$baseUrl/Creation_process_ukbh.svg',
+  UnDrawIllustration.creation_process: '$baseUrl/Creation_process_re_74on.svg',
   UnDrawIllustration.creative_draft: '$baseUrl/creative_draft_vb5x.svg',
   UnDrawIllustration.creative_experiment:
       '$baseUrl/creative_experiment_8dk3.svg',
@@ -6922,43 +6939,44 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.creativity: '$baseUrl/creativity_wqmm.svg',
   UnDrawIllustration.credit_card: '$baseUrl/Credit_card_re_blml.svg',
   UnDrawIllustration.credit_card_payment:
-      '$baseUrl/credit_card_payment_yb88.svg',
+      '$baseUrl/Credit_card_payment_re_o911.svg',
   UnDrawIllustration.credit_card_payments:
-      '$baseUrl/credit_card_payment_12va.svg',
+      '$baseUrl/Credit_card_payments_re_qboh.svg',
   UnDrawIllustration.crypto_flowers: '$baseUrl/Crypto_flowers_bjmo.svg',
   UnDrawIllustration.crypto_portfolio: '$baseUrl/crypto_portfolio_2jy5.svg',
   UnDrawIllustration.cup_of_tea: '$baseUrl/cup_of_tea_6nqg.svg',
   UnDrawIllustration.current_location: '$baseUrl/current_location_rypt.svg',
-  UnDrawIllustration.customer_survey: '$baseUrl/customer_survey_f9ur.svg',
+  UnDrawIllustration.customer_survey: '$baseUrl/Customer_survey_re_v9cj.svg',
   UnDrawIllustration.dark_alley: '$baseUrl/dark_alley_hl3o.svg',
-  UnDrawIllustration.dark_analytics: '$baseUrl/dark_analytics_7axy.svg',
+  UnDrawIllustration.dark_analytics: '$baseUrl/Dark_analytics_re_2kvy.svg',
   UnDrawIllustration.dark_mode: '$baseUrl/dark_mode_2xam.svg',
   UnDrawIllustration.dashboard: '$baseUrl/Dashboard_re_3b76.svg',
   UnDrawIllustration.data: '$baseUrl/Data_re_80ws.svg',
-  UnDrawIllustration.data_extraction: '$baseUrl/data_extraction_ih3n.svg',
+  UnDrawIllustration.data_extraction: '$baseUrl/Data_extraction_re_0rd3.svg',
   UnDrawIllustration.data_input: '$baseUrl/data_input_fxv2.svg',
   UnDrawIllustration.data_points: '$baseUrl/Data_points_re_vkpq.svg',
   UnDrawIllustration.data_processing: '$baseUrl/data_processing_yrrv.svg',
-  UnDrawIllustration.data_report: '$baseUrl/data_report_bi6l.svg',
+  UnDrawIllustration.data_report: '$baseUrl/Data_report_re_p4so.svg',
   UnDrawIllustration.data_reports: '$baseUrl/data_reports_706v.svg',
   UnDrawIllustration.data_trends: '$baseUrl/Data_trends_re_2cdy.svg',
   UnDrawIllustration.date_night: '$baseUrl/date_night_bda8.svg',
   UnDrawIllustration.date_picker: '$baseUrl/date_picker_gorr.svg',
-  UnDrawIllustration.decide: '$baseUrl/decide_3iwx.svg',
+  UnDrawIllustration.decide: '$baseUrl/Decide_re_ixfw.svg',
   UnDrawIllustration.deconstructed: '$baseUrl/deconstructed_alud.svg',
   UnDrawIllustration.decorative_friends: '$baseUrl/decorative_friends_q2np.svg',
   UnDrawIllustration.deliveries: '$baseUrl/deliveries_131a.svg',
   UnDrawIllustration.delivery: '$baseUrl/Delivery_re_f50b.svg',
   UnDrawIllustration.delivery_address: '$baseUrl/delivery_address_03n0.svg',
-  UnDrawIllustration.departing: '$baseUrl/departing_lsgy.svg',
+  UnDrawIllustration.departing: '$baseUrl/Departing_re_mlq3.svg',
   UnDrawIllustration.design_community: '$baseUrl/design_community_rcft.svg',
   UnDrawIllustration.design_components: '$baseUrl/design_components_9vy6.svg',
   UnDrawIllustration.design_data: '$baseUrl/design_data_khdb.svg',
-  UnDrawIllustration.design_feedback: '$baseUrl/design_feedback_dexe.svg',
+  UnDrawIllustration.design_feedback: '$baseUrl/Design_feedback_re_8gtk.svg',
   UnDrawIllustration.design_inspiration: '$baseUrl/design_inspiration_fmjm.svg',
-  UnDrawIllustration.design_notes: '$baseUrl/design_notes_8dmv.svg',
-  UnDrawIllustration.design_objectives: '$baseUrl/design_objectives_fy1r.svg',
-  UnDrawIllustration.design_process: '$baseUrl/design_process_cxoh.svg',
+  UnDrawIllustration.design_notes: '$baseUrl/Design_notes_re_eklr.svg',
+  UnDrawIllustration.design_objectives:
+      '$baseUrl/Design_objectives_re_94pd.svg',
+  UnDrawIllustration.design_process: '$baseUrl/Design_process_re_0dhf.svg',
   UnDrawIllustration.design_sprint: '$baseUrl/Design_sprint_re_tke3.svg',
   UnDrawIllustration.design_stats: '$baseUrl/design_stats_ne2k.svg',
   UnDrawIllustration.design_team: '$baseUrl/design_team_af2y.svg',
@@ -6970,16 +6988,17 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.designer_mindset: '$baseUrl/Designer_mindset_re_2w1k.svg',
   UnDrawIllustration.destination: '$baseUrl/Destination_re_sr74.svg',
   UnDrawIllustration.destinations: '$baseUrl/destinations_fpv7.svg',
-  UnDrawIllustration.detailed_analysis: '$baseUrl/detailed_analysis_xn7y.svg',
+  UnDrawIllustration.detailed_analysis:
+      '$baseUrl/Detailed_analysis_re_tk6j.svg',
   UnDrawIllustration.detailed_examination:
       '$baseUrl/detailed_examination_joef.svg',
   UnDrawIllustration.detailed_information:
       '$baseUrl/Detailed_information_re_qmuc.svg',
-  UnDrawIllustration.dev_focus: '$baseUrl/dev_focus_b9xo.svg',
+  UnDrawIllustration.dev_focus: '$baseUrl/Dev_focus_re_6iwt.svg',
   UnDrawIllustration.dev_productivity: '$baseUrl/dev_productivity_umsq.svg',
   UnDrawIllustration.develop_app: '$baseUrl/develop_app_re_bi4i.svg',
   UnDrawIllustration.developer_activity: '$baseUrl/developer_activity_bv83.svg',
-  UnDrawIllustration.development: '$baseUrl/development_ouy3.svg',
+  UnDrawIllustration.development: '$baseUrl/Development_re_g5hq.svg',
   UnDrawIllustration.devices: '$baseUrl/Devices_re_dxae.svg',
   UnDrawIllustration.diary: '$baseUrl/diary_99km.svg',
   UnDrawIllustration.diet: '$baseUrl/diet_ghvw.svg',
@@ -6995,23 +7014,23 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.dog_walking: '$baseUrl/Dog_walking_re_l61p.svg',
   UnDrawIllustration.doll_play: '$baseUrl/doll_play_evbw.svg',
   UnDrawIllustration.domain_names: '$baseUrl/Domain_names_re_0uun.svg',
-  UnDrawIllustration.done: '$baseUrl/done_a34v.svg',
+  UnDrawIllustration.done: '$baseUrl/Done_re_oak4.svg',
   UnDrawIllustration.done_checking: '$baseUrl/Done_checking_re_6vyx.svg',
   UnDrawIllustration.donut_love: '$baseUrl/donut_love_kau1.svg',
-  UnDrawIllustration.download: '$baseUrl/download_pc33.svg',
+  UnDrawIllustration.download: '$baseUrl/Download_re_li50.svg',
   UnDrawIllustration.drag: '$baseUrl/drag_5i9w.svg',
   UnDrawIllustration.dream_world: '$baseUrl/dream_world_cin1.svg',
   UnDrawIllustration.dreamer: '$baseUrl/dreamer_gxxi.svg',
   UnDrawIllustration.drone_delivery: '$baseUrl/drone_delivery_5vrm.svg',
   UnDrawIllustration.drone_race: '$baseUrl/drone_race_0sim.svg',
   UnDrawIllustration.drone_surveillance: '$baseUrl/drone_surveillance_kjjg.svg',
-  UnDrawIllustration.dropdown_menu: '$baseUrl/dropdown_menu_vv9j.svg',
+  UnDrawIllustration.dropdown_menu: '$baseUrl/Dropdown_menu_re_jqqs.svg',
   UnDrawIllustration.dua_lipa: '$baseUrl/dua_lipa_ixam.svg',
-  UnDrawIllustration.duplicate: '$baseUrl/duplicate_xac4.svg',
+  UnDrawIllustration.duplicate: '$baseUrl/Duplicate_re_d39g.svg',
   UnDrawIllustration.easter_egg_hunt: '$baseUrl/easter_egg_hunt_r36d.svg',
-  UnDrawIllustration.eating_together: '$baseUrl/eating_together_tjhx.svg',
+  UnDrawIllustration.eating_together: '$baseUrl/Eating_together_re_ux62.svg',
   UnDrawIllustration.eco_conscious: '$baseUrl/Eco_conscious_re_r2bs.svg',
-  UnDrawIllustration.edit_photo: '$baseUrl/edit_photo_2m6o.svg',
+  UnDrawIllustration.edit_photo: '$baseUrl/Edit_photo_re_ton4.svg',
   UnDrawIllustration.editable: '$baseUrl/editable_dywm.svg',
   UnDrawIllustration.education: '$baseUrl/education_f8ru.svg',
   UnDrawIllustration.educator: '$baseUrl/educator_oxfm.svg',
@@ -7021,7 +7040,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.elements: '$baseUrl/elements_cipa.svg',
   UnDrawIllustration.email_campaign: '$baseUrl/Email_campaign_re_m6k5.svg',
   UnDrawIllustration.email_capture: '$baseUrl/email_capture_x8kv.svg',
-  UnDrawIllustration.emails: '$baseUrl/emails_6uqr.svg',
+  UnDrawIllustration.emails: '$baseUrl/Emails_re_cqen.svg',
   UnDrawIllustration.empty: '$baseUrl/empty_xct9.svg',
   UnDrawIllustration.empty_cart: '$baseUrl/empty_cart_co35.svg',
   UnDrawIllustration.empty_street: '$baseUrl/empty_street_sfxm.svg',
@@ -7030,11 +7049,11 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.envelope: '$baseUrl/Envelope_re_f5j4.svg',
   UnDrawIllustration.environment: '$baseUrl/environment_iaus.svg',
   UnDrawIllustration.environmental_study:
-      '$baseUrl/environmental_study_skau.svg',
+      '$baseUrl/Environmental_study_re_q4q8.svg',
   UnDrawIllustration.escaping: '$baseUrl/escaping_my1b.svg',
   UnDrawIllustration.ether: '$baseUrl/ethereum_desire_wy1b.svg',
   UnDrawIllustration.ethereum: '$baseUrl/Ethereum_re_0m68.svg',
-  UnDrawIllustration.events: '$baseUrl/events_2p66.svg',
+  UnDrawIllustration.events: '$baseUrl/Events_re_98ue.svg',
   UnDrawIllustration.everyday_design: '$baseUrl/everyday_design_gy64.svg',
   UnDrawIllustration.everyday_life: '$baseUrl/everyday_life_hjnw.svg',
   UnDrawIllustration.everywhere_together:
@@ -7042,7 +7061,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.exams: '$baseUrl/exams_g4ow.svg',
   UnDrawIllustration.exciting_news: '$baseUrl/exciting_news_ksse.svg',
   UnDrawIllustration.experience_design: '$baseUrl/experience_design_eq3j.svg',
-  UnDrawIllustration.experts: '$baseUrl/experts3_3njd.svg',
+  UnDrawIllustration.experts: '$baseUrl/Experts_re_i40h.svg',
   UnDrawIllustration.explore: '$baseUrl/explore_7ofa.svg',
   UnDrawIllustration.exploring: '$baseUrl/exploring_1l7f.svg',
   UnDrawIllustration.export_files: '$baseUrl/export_files_re_99ar.svg',
@@ -7055,7 +7074,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.fashion_blogging: '$baseUrl/fashion_blogging_w9ol.svg',
   UnDrawIllustration.fashion_photoshoot: '$baseUrl/fashion_photoshoot_mtq8.svg',
   UnDrawIllustration.fast_car: '$baseUrl/fast_car_p4cu.svg',
-  UnDrawIllustration.fast_loading: '$baseUrl/fast_loading_0lbh.svg',
+  UnDrawIllustration.fast_loading: '$baseUrl/fast_loading_re_8oi3.svg',
   UnDrawIllustration.fatherhood: '$baseUrl/fatherhood_7i19.svg',
   UnDrawIllustration.features_overview: '$baseUrl/features_overview_jg7a.svg',
   UnDrawIllustration.feedback: '$baseUrl/feedback_h2ft.svg',
@@ -7092,7 +7111,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.fitting_pieces: '$baseUrl/fitting_pieces_cli3.svg',
   UnDrawIllustration.fixing_bugs: '$baseUrl/fixing_bugs_w7gi.svg',
   UnDrawIllustration.flagged: '$baseUrl/flagged_2uty.svg',
-  UnDrawIllustration.floating: '$baseUrl/floating_61u6.svg',
+  UnDrawIllustration.floating: '$baseUrl/Floating_re_xtcj.svg',
   UnDrawIllustration.flowers: '$baseUrl/flowers_vx06.svg',
   UnDrawIllustration.flutter_dev: '$baseUrl/flutter_dev_wvqj.svg',
   UnDrawIllustration.focus: '$baseUrl/focus_sey6.svg',
@@ -7106,10 +7125,11 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.for_sale: '$baseUrl/For_sale_re_egkk.svg',
   UnDrawIllustration.forever: '$baseUrl/forever_5ag7.svg',
   UnDrawIllustration.forgot_password: '$baseUrl/forgot_password_gi2d.svg',
-  UnDrawIllustration.forming_ideas: '$baseUrl/forming_ideas_0pav.svg',
+  UnDrawIllustration.forming_ideas: '$baseUrl/Forming_ideas_re_2afc.svg',
   UnDrawIllustration.forms: '$baseUrl/Forms_re_pkrt.svg',
   UnDrawIllustration.freelancer: '$baseUrl/Freelancer_re_irh4.svg',
-  UnDrawIllustration.fresh_notification: '$baseUrl/fresh_notification_bvtv.svg',
+  UnDrawIllustration.fresh_notification:
+      '$baseUrl/Fresh_notification_re_whq4.svg',
   UnDrawIllustration.friends: '$baseUrl/friends_r511.svg',
   UnDrawIllustration.friends_online: '$baseUrl/Friends_online_re_r7pq.svg',
   UnDrawIllustration.friendship: '$baseUrl/friendship_mni7.svg',
@@ -7125,17 +7145,18 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.gatsbyjs: '$baseUrl/gatsbyjs_st4g.svg',
   UnDrawIllustration.genius: '$baseUrl/geniuses_9h9g.svg',
   UnDrawIllustration.getting_coffee: '$baseUrl/getting_coffee_wntr.svg',
-  UnDrawIllustration.gift: '$baseUrl/gift1_sgf8.svg',
+  UnDrawIllustration.gift: '$baseUrl/Gift_re_qr17.svg',
   UnDrawIllustration.gift_box: '$baseUrl/Gift_box_re_vau4.svg',
   UnDrawIllustration.gift_card: '$baseUrl/Gift_card_re_5dyy.svg',
-  UnDrawIllustration.gifts: '$baseUrl/gifts_btw0.svg',
+  UnDrawIllustration.gifts: '$baseUrl/Gifts_re_97j6.svg',
   UnDrawIllustration.girls_just_wanna_have_fun:
       '$baseUrl/girl_just_wanna_have_fun_9d5u.svg',
   UnDrawIllustration.goal: '$baseUrl/goal_0v5v.svg',
   UnDrawIllustration.goals: '$baseUrl/Goals_re_lu76.svg',
   UnDrawIllustration.going_offline: '$baseUrl/going_offline_ihag.svg',
   UnDrawIllustration.going_up: '$baseUrl/going_up_ttm5.svg',
-  UnDrawIllustration.golden_gate_bridge: '$baseUrl/Golden_gate_bridge_jkph.svg',
+  UnDrawIllustration.golden_gate_bridge:
+      '$baseUrl/Golden_gate_bridge_re_e8tc.svg',
   UnDrawIllustration.golf: '$baseUrl/golf_neir.svg',
   UnDrawIllustration.gone_shopping: '$baseUrl/gone_shopping_vwmc.svg',
   UnDrawIllustration.good_doggy: '$baseUrl/good_doggy_4wfq.svg',
@@ -7143,7 +7164,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.google_analytics: '$baseUrl/google_analytics_a57d.svg',
   UnDrawIllustration.google_docs: '$baseUrl/Google_docs_re_evm3.svg',
   UnDrawIllustration.grades: '$baseUrl/grades_j6jn.svg',
-  UnDrawIllustration.graduation: '$baseUrl/Graduation_ktn0.svg',
+  UnDrawIllustration.graduation: '$baseUrl/Graduation_re_gthn.svg',
   UnDrawIllustration.grand_slam: '$baseUrl/grand_slam_0q5r.svg',
   UnDrawIllustration.grandma: '$baseUrl/gradma_wanr.svg',
   UnDrawIllustration.gravitas: '$baseUrl/gravitas_d3ep.svg',
@@ -7151,16 +7172,16 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.grid_design: '$baseUrl/grid_design_obmd.svg',
   UnDrawIllustration.group_chat: '$baseUrl/Group_chat_re_frmo.svg',
   UnDrawIllustration.group_hangout: '$baseUrl/group_hangout_5gmq.svg',
-  UnDrawIllustration.group_selfie: '$baseUrl/group_selfie_ijc6.svg',
+  UnDrawIllustration.group_selfie: '$baseUrl/Group_selfie_re_h8gb.svg',
   UnDrawIllustration.group_video: '$baseUrl/group_video_el8e.svg',
   UnDrawIllustration.growing: '$baseUrl/Growing_re_olpi.svg',
-  UnDrawIllustration.growth_analytics: '$baseUrl/growth_analytics_8btt.svg',
+  UnDrawIllustration.growth_analytics: '$baseUrl/Growth_analytics_re_pyxf.svg',
   UnDrawIllustration.growth_chart: '$baseUrl/growth_chart_r99m.svg',
-  UnDrawIllustration.growth_curve: '$baseUrl/growth_curve_8mqx.svg',
+  UnDrawIllustration.growth_curve: '$baseUrl/Growth_curve_re_t5s7.svg',
   UnDrawIllustration.hacker_mind: '$baseUrl/hacker_mind_6y85.svg',
   UnDrawIllustration.hacker_mindset: '$baseUrl/Hacker_mindset_re_8a33.svg',
   UnDrawIllustration.hamburger: '$baseUrl/Hamburger_8ge6.svg',
-  UnDrawIllustration.hang_out: '$baseUrl/hang_out_h9ud.svg',
+  UnDrawIllustration.hang_out: '$baseUrl/Hang_out_re_udl4.svg',
   UnDrawIllustration.happy_2019: '$baseUrl/happy_2019_jq3f.svg',
   UnDrawIllustration.happy_2021: '$baseUrl/happy_2021_h01d.svg',
   UnDrawIllustration.happy_announcement: '$baseUrl/happy_announcement_ac67.svg',
@@ -7169,14 +7190,14 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.happy_music: '$baseUrl/happy_music_g6wc.svg',
   UnDrawIllustration.happy_news: '$baseUrl/happy_news_hxmt.svg',
   UnDrawIllustration.happy_women_day: '$baseUrl/happy_women_day_fbjt.svg',
-  UnDrawIllustration.having_fun: '$baseUrl/having_fun_iais.svg',
+  UnDrawIllustration.having_fun: '$baseUrl/Having_fun_re_vj4h.svg',
   UnDrawIllustration.healthy_habit: '$baseUrl/healthy_habit_bh5w.svg',
   UnDrawIllustration.healthy_lifestyle: '$baseUrl/healthy_lifestyle_6tyl.svg',
   UnDrawIllustration.healthy_options: '$baseUrl/healthy_options_sdo3.svg',
   UnDrawIllustration.heartbroken: '$baseUrl/heartbroken_cble.svg',
   UnDrawIllustration.heatmap: '$baseUrl/heatmap_uyye.svg',
   UnDrawIllustration.heavy_box: '$baseUrl/heavy_box_agqi.svg',
-  UnDrawIllustration.hello: '$baseUrl/Hello_qnas.svg',
+  UnDrawIllustration.hello: '$baseUrl/Hello_re_3evm.svg',
   UnDrawIllustration.helpful_sign: '$baseUrl/Helpful_sign_re_8ms5.svg',
   UnDrawIllustration.hey_by_basecamp: '$baseUrl/hey_email_liaa.svg',
   UnDrawIllustration.high_five: '$baseUrl/High_five_u364.svg',
@@ -7191,7 +7212,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.hooked: '$baseUrl/hooked_c757.svg',
   UnDrawIllustration.horror_movie: '$baseUrl/horror_movie_3988.svg',
   UnDrawIllustration.hot_beverage: '$baseUrl/hot_beverage_2vw3.svg',
-  UnDrawIllustration.house_searching: '$baseUrl/house_searching_n8mp.svg',
+  UnDrawIllustration.house_searching: '$baseUrl/House_searching_re_stk8.svg',
   UnDrawIllustration.houses: '$baseUrl/houses3_xwf7.svg',
   UnDrawIllustration.i_can_fly: '$baseUrl/i_can_fly_7egl.svg',
   UnDrawIllustration.ice_cream: '$baseUrl/ice_cream_s2rh.svg',
@@ -7200,11 +7221,11 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.ideas: '$baseUrl/ideas_s70l.svg',
   UnDrawIllustration.ideas_flow: '$baseUrl/ideas_flow_cy7b.svg',
   UnDrawIllustration.ideation: '$baseUrl/ideation_re_8i2h.svg',
-  UnDrawIllustration.image_focus: '$baseUrl/image_focus_wm20.svg',
+  UnDrawIllustration.image_focus: '$baseUrl/Image_focus_re_qqxc.svg',
   UnDrawIllustration.image_folder: '$baseUrl/Image__folder_re_hgp7.svg',
   UnDrawIllustration.image_options: '$baseUrl/image_options_7uph.svg',
   UnDrawIllustration.image_post: '$baseUrl/image_post_24iy.svg',
-  UnDrawIllustration.image_upload: '$baseUrl/image_upload_wqh3.svg',
+  UnDrawIllustration.image_upload: '$baseUrl/Image_upload_re_w7pm.svg',
   UnDrawIllustration.image_viewer: '$baseUrl/image_viewer_wxce.svg',
   UnDrawIllustration.images: '$baseUrl/Images_re_0kll.svg',
   UnDrawIllustration.imagination: '$baseUrl/Imagination_re_i0xi.svg',
@@ -7215,7 +7236,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.in_sync: '$baseUrl/in_sync_xwsa.svg',
   UnDrawIllustration.in_the_office: '$baseUrl/in_the_office_o44c.svg',
   UnDrawIllustration.in_the_pool: '$baseUrl/in_the_pool_c5h0.svg',
-  UnDrawIllustration.in_thought: '$baseUrl/in_thought_gjsf.svg',
+  UnDrawIllustration.in_thought: '$baseUrl/in_thought_re_qyxl.svg',
   UnDrawIllustration.inbox: '$baseUrl/inbox_oppv.svg',
   UnDrawIllustration.inbox_cleanup: '$baseUrl/inbox_cleanup_w2ur.svg',
   UnDrawIllustration.indoor_bike: '$baseUrl/indoor_bike_pwa4.svg',
@@ -7243,19 +7264,19 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.invest: '$baseUrl/Invest_re_8jl5.svg',
   UnDrawIllustration.investing: '$baseUrl/Investing_re_bov7.svg',
   UnDrawIllustration.investment: '$baseUrl/investment_xv9d.svg',
-  UnDrawIllustration.investment_data: '$baseUrl/investment_data_yfvt.svg',
+  UnDrawIllustration.investment_data: '$baseUrl/Investment_data_re_sh9x.svg',
   UnDrawIllustration.invite: '$baseUrl/Invite_re_rrcp.svg',
   UnDrawIllustration.japan: '$baseUrl/japan_ubgk.svg',
   UnDrawIllustration.jason_mask: '$baseUrl/jason_mask_t07o.svg',
   UnDrawIllustration.javascript_frameworks:
       '$baseUrl/JavaScript_frameworks_8qpc.svg',
   UnDrawIllustration.jewelry: '$baseUrl/jewelry_iima.svg',
-  UnDrawIllustration.job_hunt: '$baseUrl/Job_hunt_tinb.svg',
+  UnDrawIllustration.job_hunt: '$baseUrl/Job_hunt_re_q203.svg',
   UnDrawIllustration.job_offers: '$baseUrl/job_offers_kw5d.svg',
   UnDrawIllustration.jogging: '$baseUrl/Jogging_t14q.svg',
   UnDrawIllustration.join: '$baseUrl/join_of2w.svg',
   UnDrawIllustration.journey: '$baseUrl/journey_lwlj.svg',
-  UnDrawIllustration.joyride: '$baseUrl/joyride_hnno.svg',
+  UnDrawIllustration.joyride: '$baseUrl/Joyride_re_968t.svg',
   UnDrawIllustration.judge: '$baseUrl/judge_katerina_limpitsouni_ny1q.svg',
   UnDrawIllustration.junior_soccer: '$baseUrl/junior_soccer_6sop.svg',
   UnDrawIllustration.just_browsing: '$baseUrl/just_browsing_m0vg.svg',
@@ -7271,11 +7292,11 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.learning: '$baseUrl/learning_2q1h.svg',
   UnDrawIllustration.letter: '$baseUrl/Letter_re_8m03.svg',
   UnDrawIllustration.light_the_fire: '$baseUrl/light_the_fire_gt58.svg',
-  UnDrawIllustration.lightbulb_moment: '$baseUrl/lightbulb_moment_evxr.svg',
+  UnDrawIllustration.lightbulb_moment: '$baseUrl/lightbulb_moment_re_ulyo.svg',
   UnDrawIllustration.lighthouse: '$baseUrl/Lighthouse_frb8.svg',
   UnDrawIllustration.like_dislike: '$baseUrl/Like_dislike_re_dwcj.svg',
   UnDrawIllustration.link_shortener: '$baseUrl/link_shortener_mvf6.svg',
-  UnDrawIllustration.listening: '$baseUrl/listening_1u79.svg',
+  UnDrawIllustration.listening: '$baseUrl/Listening_re_c2w0.svg',
   UnDrawIllustration.live_collaboration:
       '$baseUrl/Live_collaboration_re_60ha.svg',
   UnDrawIllustration.live_photo: '$baseUrl/Live_photo_re_4khn.svg',
@@ -7289,13 +7310,13 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.login: '$baseUrl/Login_re_4vu2.svg',
   UnDrawIllustration.logistics: '$baseUrl/logistics_x4dc.svg',
   UnDrawIllustration.logo_design: '$baseUrl/Logo_design_re_gfu6.svg',
-  UnDrawIllustration.lost: '$baseUrl/lost_bqr2.svg',
-  UnDrawIllustration.lost_online: '$baseUrl/lost_online_wqob.svg',
+  UnDrawIllustration.lost: '$baseUrl/Lost_re_xqjt.svg',
+  UnDrawIllustration.lost_online: '$baseUrl/Lost_online_re_upmy.svg',
   UnDrawIllustration.love: '$baseUrl/love_xfcv.svg',
   UnDrawIllustration.love_is_in_the_air: '$baseUrl/love_is_in_the_air_4mmc.svg',
   UnDrawIllustration.loving_it: '$baseUrl/Loving_it_re_jfh4.svg',
   UnDrawIllustration.loving_story: '$baseUrl/loving_story_0j59.svg',
-  UnDrawIllustration.mail: '$baseUrl/mail_2_tqip.svg',
+  UnDrawIllustration.mail: '$baseUrl/Mail_re_duel.svg',
   UnDrawIllustration.mail_sent: '$baseUrl/Mail_sent_re_0ofv.svg',
   UnDrawIllustration.mailbox: '$baseUrl/Mailbox_re_dvds.svg',
   UnDrawIllustration.maintenance: '$baseUrl/Maintenance_re_59vn.svg',
@@ -7316,7 +7337,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.medical_research: '$baseUrl/medical_research_qg4d.svg',
   UnDrawIllustration.medicine: '$baseUrl/medicine_b1ol.svg',
   UnDrawIllustration.meditating: '$baseUrl/Meditating_re_aiqa.svg',
-  UnDrawIllustration.meditation: '$baseUrl/Meditation_o89g.svg',
+  UnDrawIllustration.meditation: '$baseUrl/Meditation_re_gll0.svg',
   UnDrawIllustration.meet_the_team: '$baseUrl/meet_the_team_e5b7.svg',
   UnDrawIllustration.meeting: '$baseUrl/Meeting_re_i53h.svg',
   UnDrawIllustration.mello: '$baseUrl/mello_otq1.svg',
@@ -7325,7 +7346,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.message_sent: '$baseUrl/message_sent_1030.svg',
   UnDrawIllustration.messages: '$baseUrl/Messages_re_qy9x.svg',
   UnDrawIllustration.messaging: '$baseUrl/Messaging_re_pgx8.svg',
-  UnDrawIllustration.messaging_app: '$baseUrl/messaging_app_ch6t.svg',
+  UnDrawIllustration.messaging_app: '$baseUrl/Messaging_app_re_aytg.svg',
   UnDrawIllustration.messaging_fun: '$baseUrl/Messaging_fun_re_vic9.svg',
   UnDrawIllustration.messenger: '$baseUrl/messenger_e7iu.svg',
   UnDrawIllustration.metrics: '$baseUrl/Metrics_re_6g90.svg',
@@ -7337,7 +7358,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.miro: '$baseUrl/miro_qvwm.svg',
   UnDrawIllustration.missed_chances: '$baseUrl/missed_chances_k3cq.svg',
   UnDrawIllustration.mission_impossible: '$baseUrl/mission_impossible_bwa2.svg',
-  UnDrawIllustration.mobile: '$baseUrl/mobile_prle.svg',
+  UnDrawIllustration.mobile: '$baseUrl/Mobile_re_q4nk.svg',
   UnDrawIllustration.mobile_app: '$baseUrl/Mobile_app_re_catg.svg',
   UnDrawIllustration.mobile_application: '$baseUrl/Mobile_application_mr4r.svg',
   UnDrawIllustration.mobile_apps: '$baseUrl/Mobile_apps_re_3wjf.svg',
@@ -7347,27 +7368,27 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.mobile_encryption: '$baseUrl/mobile_encryption_cl5q.svg',
   UnDrawIllustration.mobile_feed: '$baseUrl/Mobile_feed_re_72ta.svg',
   UnDrawIllustration.mobile_images: '$baseUrl/mobile_images_rc0q.svg',
-  UnDrawIllustration.mobile_inbox: '$baseUrl/mobile_inbox_3h46.svg',
+  UnDrawIllustration.mobile_inbox: '$baseUrl/Mobile_inbox_re_ciwq.svg',
   UnDrawIllustration.mobile_interface: '$baseUrl/mobile_interface_wakp.svg',
   UnDrawIllustration.mobile_life: '$baseUrl/Mobile_life_re_jtih.svg',
-  UnDrawIllustration.mobile_login: '$baseUrl/mobile_login_ikmv.svg',
+  UnDrawIllustration.mobile_login: '$baseUrl/Mobile_login_re_9ntv.svg',
   UnDrawIllustration.mobile_marketing: '$baseUrl/Mobile_marketing_re_p77p.svg',
   UnDrawIllustration.mobile_messages: '$baseUrl/Mobile_messages_re_yx8w.svg',
   UnDrawIllustration.mobile_pay: '$baseUrl/Mobile_pay_re_sjb8.svg',
-  UnDrawIllustration.mobile_payments: '$baseUrl/mobile_payments_vftl.svg',
+  UnDrawIllustration.mobile_payments: '$baseUrl/Mobile_payments_re_7udl.svg',
   UnDrawIllustration.mobile_photos: '$baseUrl/mobile_photos_psm5.svg',
-  UnDrawIllustration.mobile_posts: '$baseUrl/mobile_posts_tlwg.svg',
+  UnDrawIllustration.mobile_posts: '$baseUrl/Mobile_posts_re_bpuw.svg',
   UnDrawIllustration.mobile_prototyping: '$baseUrl/mobile_prototyping_grmd.svg',
   UnDrawIllustration.mobile_testing: '$baseUrl/mobile_testing_reah.svg',
   UnDrawIllustration.mobile_user: '$baseUrl/mobile_user_7oqo.svg',
-  UnDrawIllustration.mobile_ux: '$baseUrl/mobile_ux_o0e1.svg',
+  UnDrawIllustration.mobile_ux: '$baseUrl/mobile_ux_re_59hr.svg',
   UnDrawIllustration.mobile_web: '$baseUrl/mobile_web_2g8b.svg',
   UnDrawIllustration.mobile_wireframe: '$baseUrl/Mobile_wireframe_re_jxui.svg',
   UnDrawIllustration.modern_art: '$baseUrl/modern_art_re_pff5.svg',
   UnDrawIllustration.modern_design: '$baseUrl/modern_design_v3wv.svg',
   UnDrawIllustration.modern_life: '$baseUrl/Modern_life_re_8pdp.svg',
   UnDrawIllustration.modern_professional:
-      '$baseUrl/modern_professional_yt9h.svg',
+      '$baseUrl/Modern_professional_re_3b6l.svg',
   UnDrawIllustration.modern_woman: '$baseUrl/Modern_woman_lxh7.svg',
   UnDrawIllustration.moment_to_remember: '$baseUrl/moment_to_remember_02gj.svg',
   UnDrawIllustration.moments: '$baseUrl/moments_0y20.svg',
@@ -7375,19 +7396,19 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.monster_artist: '$baseUrl/monster_artist_2crm.svg',
   UnDrawIllustration.moonlight: '$baseUrl/moonlight_5ksn.svg',
   UnDrawIllustration.more_music: '$baseUrl/more_music_w70e.svg',
-  UnDrawIllustration.mornings: '$baseUrl/Mornings_solb.svg',
+  UnDrawIllustration.mornings: '$baseUrl/mornings_re_cofi.svg',
   UnDrawIllustration.motherhood: '$baseUrl/motherhood_7htu.svg',
   UnDrawIllustration.movie_night: '$baseUrl/movie_night_fldd.svg',
   UnDrawIllustration.moving: '$baseUrl/Moving_twwf.svg',
   UnDrawIllustration.moving_forward: '$baseUrl/moving_forward_lhhd.svg',
   UnDrawIllustration.multitasking: '$baseUrl/multitasking_hqg3.svg',
   UnDrawIllustration.music: '$baseUrl/Music_re_a2jk.svg',
-  UnDrawIllustration.my_answer: '$baseUrl/my_answer_iw6k.svg',
+  UnDrawIllustration.my_answer: '$baseUrl/My_answer_re_k4dv.svg',
   UnDrawIllustration.my_app: '$baseUrl/my_app_re_gxtj.svg',
   UnDrawIllustration.my_code_snippets: '$baseUrl/my_code_snippets_lynx.svg',
   UnDrawIllustration.my_current_location:
-      '$baseUrl/my_current_location_om7g.svg',
-  UnDrawIllustration.my_documents: '$baseUrl/my_documents_ym8x.svg',
+      '$baseUrl/My_current_location_re_whmt.svg',
+  UnDrawIllustration.my_documents: '$baseUrl/My_documents_re_13dc.svg',
   UnDrawIllustration.my_feed: '$baseUrl/my_feed_inj0.svg',
   UnDrawIllustration.my_files: '$baseUrl/my_files_swob.svg',
   UnDrawIllustration.my_location: '$baseUrl/My_location_re_r52x.svg',
@@ -7405,10 +7426,11 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.neighbors: '$baseUrl/neighbors_ciwb.svg',
   UnDrawIllustration.netflix: '$baseUrl/netflix_q00o.svg',
   UnDrawIllustration.new_decade: '$baseUrl/new_decade_n4qd.svg',
-  UnDrawIllustration.new_entries: '$baseUrl/new_entries_nh3h.svg',
+  UnDrawIllustration.new_entries: '$baseUrl/New_entries_re_cffr.svg',
   UnDrawIllustration.new_ideas: '$baseUrl/new_ideas_jdea.svg',
-  UnDrawIllustration.new_message: '$baseUrl/new_message_2gfk.svg',
-  UnDrawIllustration.new_notifications: '$baseUrl/new_notifications_fhvw.svg',
+  UnDrawIllustration.new_message: '$baseUrl/New_message_re_fp03.svg',
+  UnDrawIllustration.new_notifications:
+      '$baseUrl/New_notifications_re_xpcv.svg',
   UnDrawIllustration.new_year_2021: '$baseUrl/new_year_2021_2neh.svg',
   UnDrawIllustration.news: '$baseUrl/News_re_6uub.svg',
   UnDrawIllustration.newsletter: '$baseUrl/Newsletter_re_wrob.svg',
@@ -7421,13 +7443,13 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.no_data: '$baseUrl/No_data_re_kwbl.svg',
   UnDrawIllustration.not_found: '$baseUrl/not_found_60pq.svg',
   UnDrawIllustration.note_list: '$baseUrl/Note_list_re_r4u9.svg',
-  UnDrawIllustration.notebook: '$baseUrl/Notebook_tlkl.svg',
+  UnDrawIllustration.notebook: '$baseUrl/Notebook_re_id0r.svg',
   UnDrawIllustration.noted: '$baseUrl/noted_pc9f.svg',
   UnDrawIllustration.notes: '$baseUrl/Notes_re_pxhw.svg',
   UnDrawIllustration.notify: '$baseUrl/Notify_re_65on.svg',
   UnDrawIllustration.nuxt_js: '$baseUrl/nuxt_js_0fq9.svg',
   UnDrawIllustration.os_upgrade: '$baseUrl/os_upgrade_nj2m.svg',
-  UnDrawIllustration.observations: '$baseUrl/observations_mejb.svg',
+  UnDrawIllustration.observations: '$baseUrl/Observations_re_ohja.svg',
   UnDrawIllustration.off_road: '$baseUrl/off_road_9oae.svg',
   UnDrawIllustration.old_day: '$baseUrl/old_day_6x25.svg',
   UnDrawIllustration.omega: '$baseUrl/omega_4kob.svg',
@@ -7438,32 +7460,34 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.online_ad: '$baseUrl/online_ad_re_ol62.svg',
   UnDrawIllustration.online_art: '$baseUrl/online_art_bgb4.svg',
   UnDrawIllustration.online_article: '$baseUrl/Online_article_re_daq5.svg',
-  UnDrawIllustration.online_articles: '$baseUrl/online_articles_79ff.svg',
+  UnDrawIllustration.online_articles: '$baseUrl/Online_articles_re_yrkj.svg',
   UnDrawIllustration.online_banking: '$baseUrl/online_banking_7jy4.svg',
   UnDrawIllustration.online_calendar: '$baseUrl/Online_calendar_re_wk3t.svg',
-  UnDrawIllustration.online_chat: '$baseUrl/online_chat_d7ek.svg',
+  UnDrawIllustration.online_chat: '$baseUrl/Online_chat_re_c4lx.svg',
   UnDrawIllustration.online_collaboration:
       '$baseUrl/Online_collaboration_re_bkpm.svg',
   UnDrawIllustration.online_connection: '$baseUrl/online_connection_6778.svg',
-  UnDrawIllustration.online_cv: '$baseUrl/online_cv_qy9w.svg',
+  UnDrawIllustration.online_cv: '$baseUrl/Online_cv_re_gn0a.svg',
   UnDrawIllustration.online_dating: '$baseUrl/online_dating_yruf.svg',
   UnDrawIllustration.online_discussion: '$baseUrl/online_discussion_5wgl.svg',
-  UnDrawIllustration.online_everywhere: '$baseUrl/online_everywhere_cd90.svg',
-  UnDrawIllustration.online_friends: '$baseUrl/online_friends_x73e.svg',
-  UnDrawIllustration.online_gallery: '$baseUrl/online_gallery_dmv3.svg',
+  UnDrawIllustration.online_everywhere:
+      '$baseUrl/Online_everywhere_re_n3lr.svg',
+  UnDrawIllustration.online_friends: '$baseUrl/Online_friends_re_eqaj.svg',
+  UnDrawIllustration.online_gallery: '$baseUrl/Online_gallery_re_3098.svg',
   UnDrawIllustration.online_groceries: '$baseUrl/online_groceries_a02y.svg',
   UnDrawIllustration.online_information:
       '$baseUrl/Online_information_re_erks.svg',
   UnDrawIllustration.online_learning: '$baseUrl/Online_learning_re_qw08.svg',
   UnDrawIllustration.online_media: '$baseUrl/online_media_62jb.svg',
-  UnDrawIllustration.online_message: '$baseUrl/online_message_xq4c.svg',
+  UnDrawIllustration.online_message: '$baseUrl/online_message_re_3m5v.svg',
   UnDrawIllustration.online_messaging: '$baseUrl/Online_messaging_re_qft3.svg',
   UnDrawIllustration.online_organizer: '$baseUrl/online_organizer_ofxm.svg',
   UnDrawIllustration.online_page: '$baseUrl/Online_page_re_lhgx.svg',
   UnDrawIllustration.online_party: '$baseUrl/Online_party_re_7t6g.svg',
   UnDrawIllustration.online_payments: '$baseUrl/online_payments_luau.svg',
-  UnDrawIllustration.online_popularity: '$baseUrl/online_popularity_elhc.svg',
-  UnDrawIllustration.online_posts: '$baseUrl/online_posts_h475.svg',
+  UnDrawIllustration.online_popularity:
+      '$baseUrl/Online_popularity_re_nm0s.svg',
+  UnDrawIllustration.online_posts: '$baseUrl/Online_posts_re_7ucl.svg',
   UnDrawIllustration.online_reading: '$baseUrl/online_reading_np7n.svg',
   UnDrawIllustration.online_resume: '$baseUrl/online_resume_re_ru7s.svg',
   UnDrawIllustration.online_shopping: '$baseUrl/Online_shopping_re_k1sv.svg',
@@ -7484,15 +7508,17 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.order_confirmed: '$baseUrl/Order_confirmed_re_g0if.svg',
   UnDrawIllustration.order_delivered: '$baseUrl/order_delivered_p6ba.svg',
   UnDrawIllustration.order_ride: '$baseUrl/Order_ride_re_372k.svg',
-  UnDrawIllustration.ordinary_day: '$baseUrl/Ordinary_day_3gk3.svg',
+  UnDrawIllustration.ordinary_day: '$baseUrl/Ordinary_day_re_v5hy.svg',
   UnDrawIllustration.organize_photos: '$baseUrl/Organize_photos_re_ogcy.svg',
-  UnDrawIllustration.organize_resume: '$baseUrl/organize_resume_utk5.svg',
+  UnDrawIllustration.organize_resume: '$baseUrl/Organize_resume_re_k45b.svg',
   UnDrawIllustration.organized_content:
       '$baseUrl/Organized_content_re_831r.svg',
   UnDrawIllustration.organizing_projects:
       '$baseUrl/Organizing_projects_0p9a.svg',
+  UnDrawIllustration.our_neighborhood: '$baseUrl/our_neighborhood_ya1h.svg',
   UnDrawIllustration.our_solution: '$baseUrl/our_solution_htvp.svg',
-  UnDrawIllustration.outdoor_adventure: '$baseUrl/Camping_y4an.svg',
+  UnDrawIllustration.outdoor_adventure:
+      '$baseUrl/Outdoor_adventure_re_j3b7.svg',
   UnDrawIllustration.outdoor_party: '$baseUrl/outdoor_party_oqh3.svg',
   UnDrawIllustration.outdoors: '$baseUrl/outdoors_amdn.svg',
   UnDrawIllustration.outer_space: '$baseUrl/Outer_space_drqu.svg',
@@ -7500,7 +7526,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.page_not_found: '$baseUrl/page_not_found_su7k.svg',
   UnDrawIllustration.palette: '$baseUrl/palette_110c.svg',
   UnDrawIllustration.party: '$baseUrl/Party_re_nmwj.svg',
-  UnDrawIllustration.partying: '$baseUrl/partying_p92d.svg',
+  UnDrawIllustration.partying: '$baseUrl/Partying_re_at7f.svg',
   UnDrawIllustration.passing_by: '$baseUrl/passing_by_gqfk.svg',
   UnDrawIllustration.pay_online: '$baseUrl/pay_online_b1hk.svg',
   UnDrawIllustration.payments: '$baseUrl/Payments_re_77x0.svg',
@@ -7509,13 +7535,13 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.pen_tool: '$baseUrl/pen_nqf7.svg',
   UnDrawIllustration.pending_approval: '$baseUrl/pending_approval_xuu9.svg',
   UnDrawIllustration.people: '$baseUrl/people_tax5.svg',
-  UnDrawIllustration.people_search: '$baseUrl/people_search_wctu.svg',
+  UnDrawIllustration.people_search: '$baseUrl/People_search_re_5rre.svg',
   UnDrawIllustration.percentages: '$baseUrl/percentages_0rur.svg',
   UnDrawIllustration.performance_overview:
       '$baseUrl/performance_overview_p9bm.svg',
   UnDrawIllustration.personal_data: '$baseUrl/personal_data_29co.svg',
   UnDrawIllustration.personal_documents: '$baseUrl/personal_documents_cgj5.svg',
-  UnDrawIllustration.personal_email: '$baseUrl/personal_email_t7nw.svg',
+  UnDrawIllustration.personal_email: '$baseUrl/Personal_email_re_4lx7.svg',
   UnDrawIllustration.personal_file: '$baseUrl/personal_file_222m.svg',
   UnDrawIllustration.personal_finance: '$baseUrl/personal_finance_tqcd.svg',
   UnDrawIllustration.personal_goals: '$baseUrl/Personal_goals_re_iow7.svg',
@@ -7527,7 +7553,8 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.personal_notes: '$baseUrl/personal_notes_8n63.svg',
   UnDrawIllustration.personal_opinions:
       '$baseUrl/Personal_opinions_re_qw29.svg',
-  UnDrawIllustration.personal_settings: '$baseUrl/personal_settings_kihd.svg',
+  UnDrawIllustration.personal_settings:
+      '$baseUrl/Personal_settings_re_i6w4.svg',
   UnDrawIllustration.personal_site: '$baseUrl/Personal_site_re_c4bp.svg',
   UnDrawIllustration.personal_text: '$baseUrl/Personal_text_re_vqj3.svg',
   UnDrawIllustration.personal_trainer: '$baseUrl/personal_trainer_ote3.svg',
@@ -7537,24 +7564,24 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.pet_adoption: '$baseUrl/pet_adoption_2qkw.svg',
   UnDrawIllustration.phone_call: '$baseUrl/phone_call_grmk.svg',
   UnDrawIllustration.photo: '$baseUrl/Photo_re_5blb.svg',
-  UnDrawIllustration.photo_album: '$baseUrl/photo_album_e8hj.svg',
+  UnDrawIllustration.photo_album: '$baseUrl/photo_album_re_31c2.svg',
   UnDrawIllustration.photo_session: '$baseUrl/photo_session_clqr.svg',
   UnDrawIllustration.photo_sharing: '$baseUrl/Photo_sharing_re_jip7.svg',
   UnDrawIllustration.photocopy: '$baseUrl/photocopy_gj0t.svg',
   UnDrawIllustration.photograph: '$baseUrl/Photograph_re_up3b.svg',
   UnDrawIllustration.photos: '$baseUrl/Photos_re_pvh3.svg',
   UnDrawIllustration.picture: '$baseUrl/picture_k52w.svg',
-  UnDrawIllustration.pie_chart: '$baseUrl/pie_chart_6efe.svg',
+  UnDrawIllustration.pie_chart: '$baseUrl/Pie_chart_re_bgs8.svg',
   UnDrawIllustration.pie_graph: '$baseUrl/pie_graph_x9dy.svg',
   UnDrawIllustration.pilates: '$baseUrl/pilates_gpdb.svg',
-  UnDrawIllustration.pitching: '$baseUrl/pitching_36ol.svg',
+  UnDrawIllustration.pitching: '$baseUrl/Pitching_re_fpgk.svg',
   UnDrawIllustration.pizza_sharing: '$baseUrl/pizza_sharing_wxop.svg',
   UnDrawIllustration.placeholders: '$baseUrl/Placeholders_re_pvr4.svg',
   UnDrawIllustration.plain_credit_card:
       '$baseUrl/Plain_credit_card_re_c07w.svg',
   UnDrawIllustration.plans: '$baseUrl/Plans_re_s9mf.svg',
   UnDrawIllustration.play_time: '$baseUrl/play_time_7k7b.svg',
-  UnDrawIllustration.playful_cat: '$baseUrl/Playful_cat_rchv.svg',
+  UnDrawIllustration.playful_cat: '$baseUrl/Playful_cat_re_bxiu.svg',
   UnDrawIllustration.playing_cards: '$baseUrl/playing_cards_cywn.svg',
   UnDrawIllustration.playing_fetch: '$baseUrl/playing_fetch_cm19.svg',
   UnDrawIllustration.playlist: '$baseUrl/Playlist_re_1oed.svg',
@@ -7564,7 +7591,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.polaroid: '$baseUrl/polaroid_gg6n.svg',
   UnDrawIllustration.popular: '$baseUrl/Popular_re_mlfe.svg',
   UnDrawIllustration.portfolio: '$baseUrl/Portfolio_re_qwm5.svg',
-  UnDrawIllustration.portfolio_feedback: '$baseUrl/portfolio_feedback_exfk.svg',
+  UnDrawIllustration.portfolio_feedback: '$baseUrl/portfolio_feedback_6r17.svg',
   UnDrawIllustration.portfolio_update: '$baseUrl/Portfolio_update_re_jqnp.svg',
   UnDrawIllustration.portfolio_website: '$baseUrl/portfolio_website_lidw.svg',
   UnDrawIllustration.positive_attitude: '$baseUrl/positive_attitude_xaae.svg',
@@ -7590,7 +7617,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.processing: '$baseUrl/Processing_re_tbdu.svg',
   UnDrawIllustration.processing_thoughts:
       '$baseUrl/processing_thoughts_d8ha.svg',
-  UnDrawIllustration.product_tour: '$baseUrl/product_tour_foyt.svg',
+  UnDrawIllustration.product_tour: '$baseUrl/product_tour_re_8bai.svg',
   UnDrawIllustration.product_hunt: '$baseUrl/product_hunt_n3f5.svg',
   UnDrawIllustration.product_iteration: '$baseUrl/product_iteration_kjok.svg',
   UnDrawIllustration.product_photography:
@@ -7598,7 +7625,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.product_teardown: '$baseUrl/product_teardown_elol.svg',
   UnDrawIllustration.professional_card: '$baseUrl/professional_card_otb4.svg',
   UnDrawIllustration.professor: '$baseUrl/professor_8lrt.svg',
-  UnDrawIllustration.profile: '$baseUrl/profile_6l1l.svg',
+  UnDrawIllustration.profile: '$baseUrl/Profile_re_4a55.svg',
   UnDrawIllustration.profile_data: '$baseUrl/Profile_data_re_v81r.svg',
   UnDrawIllustration.profile_details: '$baseUrl/profile_details_f8b7.svg',
   UnDrawIllustration.profile_image: '$baseUrl/profile_image_re_ic2f.svg',
@@ -7615,28 +7642,31 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.progressive_app: '$baseUrl/progressive_app_m9ms.svg',
   UnDrawIllustration.project_completed:
       '$baseUrl/Project_completed_re_pqqq.svg',
-  UnDrawIllustration.project_feedback: '$baseUrl/project_feedback_2s92.svg',
+  UnDrawIllustration.project_feedback: '$baseUrl/Project_feedback_re_cm3l.svg',
   UnDrawIllustration.project_team: '$baseUrl/project_team_lc5a.svg',
   UnDrawIllustration.projections: '$baseUrl/Projections_re_1mrh.svg',
   UnDrawIllustration.prototyping_process:
       '$baseUrl/prototyping_process_rswj.svg',
   UnDrawIllustration.proud_coder: '$baseUrl/proud_coder_7ain.svg',
   UnDrawIllustration.proud_self: '$baseUrl/proud_self_1ddv.svg',
-  UnDrawIllustration.public_discussion: '$baseUrl/public_discussion_btnw.svg',
+  UnDrawIllustration.public_discussion:
+      '$baseUrl/Public_discussion_re_w9up.svg',
   UnDrawIllustration.publish_article: '$baseUrl/Publish_article_re_3x8h.svg',
   UnDrawIllustration.publish_post: '$baseUrl/publish_post_vowb.svg',
   UnDrawIllustration.pull_request: '$baseUrl/pull_request_gld8.svg',
   UnDrawIllustration.pure_love: '$baseUrl/pure_love_ay8a.svg',
-  UnDrawIllustration.push_notifications: '$baseUrl/push_notifications_im0o.svg',
+  UnDrawIllustration.push_notifications:
+      '$baseUrl/Push_notifications_re_t84m.svg',
   UnDrawIllustration.qa_engineers: '$baseUrl/QA_engineers_dg5p.svg',
   UnDrawIllustration.quality_time: '$baseUrl/quality_time_wiyl.svg',
   UnDrawIllustration.questions: '$baseUrl/Questions_re_1fy7.svg',
   UnDrawIllustration.queue: '$baseUrl/Queue_j6ij.svg',
+  UnDrawIllustration.quick_chat: '$baseUrl/quick_chat_re_bit5.svg',
   UnDrawIllustration.quiet_town: '$baseUrl/quite_town_mg2q.svg',
   UnDrawIllustration.quitting_time: '$baseUrl/quitting_time_dm8t.svg',
   UnDrawIllustration.quiz: '$baseUrl/quiz_nlyh.svg',
   UnDrawIllustration.raining: '$baseUrl/Raining_re_4b55.svg',
-  UnDrawIllustration.random_thoughts: '$baseUrl/random_thoughts_xejj.svg',
+  UnDrawIllustration.random_thoughts: '$baseUrl/Random_thoughts_re_cob6.svg',
   UnDrawIllustration.react: '$baseUrl/react_y7wq.svg',
   UnDrawIllustration.reading: '$baseUrl/Reading_re_29f8.svg',
   UnDrawIllustration.reading_book: '$baseUrl/Reading_book_re_kqpk.svg',
@@ -7644,7 +7674,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.reading_time: '$baseUrl/reading_time_gvg0.svg',
   UnDrawIllustration.real_time_collaboration:
       '$baseUrl/real_time_collaboration_c62i.svg',
-  UnDrawIllustration.real_time_sync: '$baseUrl/real-time_sync_o57k.svg',
+  UnDrawIllustration.real_time_sync: '$baseUrl/Real_time_sync_re_nky7.svg',
   UnDrawIllustration.receipt: '$baseUrl/Receipt_re_fre3.svg',
   UnDrawIllustration.recording: '$baseUrl/Recording_re_5xyq.svg',
   UnDrawIllustration.redesign_feedback:
@@ -7661,13 +7691,13 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.reminder: '$baseUrl/reminder_pa79.svg',
   UnDrawIllustration.reminders: '$baseUrl/reminders_697p.svg',
   UnDrawIllustration.remote_design_team: '$baseUrl/remote_design_team_0hp4.svg',
-  UnDrawIllustration.remote_meeting: '$baseUrl/remote_meeting_cbfk.svg',
+  UnDrawIllustration.remote_meeting: '$baseUrl/Remote_meeting_re_abe7.svg',
   UnDrawIllustration.remote_team: '$baseUrl/Remote_team_re_ck1y.svg',
   UnDrawIllustration.remotely: '$baseUrl/remotely_2j6y.svg',
-  UnDrawIllustration.report: '$baseUrl/report_mx0a.svg',
+  UnDrawIllustration.report: '$baseUrl/Report_re_kp7y.svg',
   UnDrawIllustration.researching: '$baseUrl/researching_22gp.svg',
   UnDrawIllustration.respond: '$baseUrl/respond_8wjt.svg',
-  UnDrawIllustration.responsive: '$baseUrl/responsive_6c8s.svg',
+  UnDrawIllustration.responsive: '$baseUrl/Responsive_re_e1nn.svg',
   UnDrawIllustration.responsiveness: '$baseUrl/Responsiveness_re_cuv5.svg',
   UnDrawIllustration.result: '$baseUrl/result_5583.svg',
   UnDrawIllustration.resume: '$baseUrl/Resume_re_hkth.svg',
@@ -7693,7 +7723,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.santa_visit: '$baseUrl/santa_visit_loux.svg',
   UnDrawIllustration.save_to_bookmarks: '$baseUrl/save_to_bookmarks_y708.svg',
   UnDrawIllustration.savings: '$baseUrl/Savings_re_eq4w.svg',
-  UnDrawIllustration.schedule: '$baseUrl/schedule_pnbk.svg',
+  UnDrawIllustration.schedule: '$baseUrl/Schedule_re_2vro.svg',
   UnDrawIllustration.schedule_meeting: '$baseUrl/schedule_meeting_52nu.svg',
   UnDrawIllustration.science: '$baseUrl/science_fqhl.svg',
   UnDrawIllustration.scooter: '$baseUrl/scooter_aia8.svg',
@@ -7706,56 +7736,56 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.season_change: '$baseUrl/season_change_f99v.svg',
   UnDrawIllustration.secure_files: '$baseUrl/secure_files_re_6vdh.svg',
   UnDrawIllustration.secure_login: '$baseUrl/secure_login_pdn4.svg',
-  UnDrawIllustration.secure_server: '$baseUrl/secure_server_s9u8.svg',
+  UnDrawIllustration.secure_server: '$baseUrl/Secure_server_re_8wsq.svg',
   UnDrawIllustration.security: '$baseUrl/security_o890.svg',
-  UnDrawIllustration.security_on: '$baseUrl/Security_on_ff2u.svg',
+  UnDrawIllustration.security_on: '$baseUrl/Security_on_re_e491.svg',
   UnDrawIllustration.segment: '$baseUrl/Segment_re_a3e7.svg',
-  UnDrawIllustration.segment_analysis: '$baseUrl/segment_analysis_bdn4.svg',
+  UnDrawIllustration.segment_analysis: '$baseUrl/Segment_analysis_re_ocsl.svg',
   UnDrawIllustration.segmentation: '$baseUrl/Segmentation_re_gduq.svg',
   UnDrawIllustration.select: '$baseUrl/Select_re_3kbd.svg',
   UnDrawIllustration.select_house: '$baseUrl/select_house_qbag.svg',
   UnDrawIllustration.select_option: '$baseUrl/Select_option_re_u4qn.svg',
   UnDrawIllustration.select_player: '$baseUrl/select_player_64ca.svg',
-  UnDrawIllustration.selected_options: '$baseUrl/selected_options_42hx.svg',
+  UnDrawIllustration.selected_options: '$baseUrl/Selected_options_re_vtjd.svg',
   UnDrawIllustration.selecting: '$baseUrl/selecting_1lx3.svg',
   UnDrawIllustration.selecting_team: '$baseUrl/Selecting_team_re_ndkb.svg',
   UnDrawIllustration.selection: '$baseUrl/selection_re_ycpo.svg',
-  UnDrawIllustration.selfie: '$baseUrl/selfie1_kpqf.svg',
+  UnDrawIllustration.selfie: '$baseUrl/Selfie_re_h9um.svg',
   UnDrawIllustration.selfie_time: '$baseUrl/selfie_time_cws4.svg',
-  UnDrawIllustration.send_gift: '$baseUrl/send_gift_7o4m.svg',
+  UnDrawIllustration.send_gift: '$baseUrl/Send_gift_re_t5ni.svg',
   UnDrawIllustration.sentiment_analysis: '$baseUrl/sentiment_analysis_jp6w.svg',
   UnDrawIllustration.server: '$baseUrl/Server_re_twwj.svg',
   UnDrawIllustration.server_cluster: '$baseUrl/server_cluster_jwwq.svg',
   UnDrawIllustration.server_down: '$baseUrl/server_down_s4lk.svg',
-  UnDrawIllustration.server_push: '$baseUrl/server_push_vtms.svg',
+  UnDrawIllustration.server_push: '$baseUrl/Server_push_re_303w.svg',
   UnDrawIllustration.server_status: '$baseUrl/server_status_5pbv.svg',
   UnDrawIllustration.services: '$baseUrl/services_5tv9.svg',
   UnDrawIllustration.set_preferences: '$baseUrl/set_preferences_kwia.svg',
-  UnDrawIllustration.settings: '$baseUrl/settings_ii2j.svg',
+  UnDrawIllustration.settings: '$baseUrl/Settings_re_b08x.svg',
   UnDrawIllustration.settings_tab: '$baseUrl/settings_tab_mgiw.svg',
   UnDrawIllustration.setup: '$baseUrl/Setup_re_y9w8.svg',
-  UnDrawIllustration.setup_analytics: '$baseUrl/setup_analytics_8qkl.svg',
+  UnDrawIllustration.setup_analytics: '$baseUrl/Setup_analytics_re_foim.svg',
   UnDrawIllustration.setup_wizard: '$baseUrl/Setup_wizard_re_nday.svg',
   UnDrawIllustration.share: '$baseUrl/Share_re_9kfx.svg',
   UnDrawIllustration.share_link: '$baseUrl/share_link_qtxe.svg',
-  UnDrawIllustration.share_online: '$baseUrl/share_online_r87b.svg',
+  UnDrawIllustration.share_online: '$baseUrl/Share_online_re_gal9.svg',
   UnDrawIllustration.share_opinion: '$baseUrl/Share_opinion_re_4qk7.svg',
   UnDrawIllustration.shared_goals: '$baseUrl/shared_goals_3d12.svg',
-  UnDrawIllustration.shared_workspace: '$baseUrl/shared_workspace_hwky.svg',
+  UnDrawIllustration.shared_workspace: '$baseUrl/Shared_workspace_re_3gsu.svg',
   UnDrawIllustration.sharing_articles: '$baseUrl/Sharing_articles_re_jnkp.svg',
   UnDrawIllustration.shopping: '$baseUrl/shopping_eii3.svg',
   UnDrawIllustration.shopping_app: '$baseUrl/shopping_app_flsj.svg',
   UnDrawIllustration.short_bio: '$baseUrl/Short_bio_re_fmx0.svg',
   UnDrawIllustration.sign_in: '$baseUrl/Sign_in_re_o58h.svg',
   UnDrawIllustration.signal_searching: '$baseUrl/signal_searching_bhpc.svg',
-  UnDrawIllustration.site_content: '$baseUrl/site_content_ihgn.svg',
-  UnDrawIllustration.site_stats: '$baseUrl/site_stats_l57q.svg',
+  UnDrawIllustration.site_content: '$baseUrl/Site_content_re_4ctl.svg',
+  UnDrawIllustration.site_stats: '$baseUrl/Site_stats_re_ejgy.svg',
   UnDrawIllustration.skateboard: '$baseUrl/skateboard_d6or.svg',
   UnDrawIllustration.skateboarding: '$baseUrl/skateboarding_929d.svg',
   UnDrawIllustration.sleep_analysis: '$baseUrl/sleep_analysis_o5f9.svg',
   UnDrawIllustration.slider: '$baseUrl/slider_5bgj.svg',
   UnDrawIllustration.small_town: '$baseUrl/small_town_rxs3.svg',
-  UnDrawIllustration.smart_home: '$baseUrl/smart_home_28oy.svg',
+  UnDrawIllustration.smart_home: '$baseUrl/smart_home_re_orvn.svg',
   UnDrawIllustration.smart_resize: '$baseUrl/smart_resize_wpn8.svg',
   UnDrawIllustration.smartwatch: '$baseUrl/smartwatch_74tv.svg',
   UnDrawIllustration.smiley_face: '$baseUrl/Smiley_face_re_9uid.svg',
@@ -7764,7 +7794,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.snow_games: '$baseUrl/snow_games_ohkc.svg',
   UnDrawIllustration.snow_globe: '$baseUrl/snow_globe_923j.svg',
   UnDrawIllustration.snowman: '$baseUrl/snowman_1_a2ch.svg',
-  UnDrawIllustration.social_bio: '$baseUrl/social_bio_8pql.svg',
+  UnDrawIllustration.social_bio: '$baseUrl/Social_bio_re_0t9u.svg',
   UnDrawIllustration.social_dashboard: '$baseUrl/social_dashboard_k3pt.svg',
   UnDrawIllustration.social_distancing: '$baseUrl/social_distancing_2g0u.svg',
   UnDrawIllustration.social_expert: '$baseUrl/Social_expert_re_elbp.svg',
@@ -7772,7 +7802,8 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.social_girl: '$baseUrl/social_girl_562b.svg',
   UnDrawIllustration.social_growth: '$baseUrl/Social_growth_re_tjy9.svg',
   UnDrawIllustration.social_ideas: '$baseUrl/Social_ideas_re_j5v4.svg',
-  UnDrawIllustration.social_influencer: '$baseUrl/social_influencer_sgsv.svg',
+  UnDrawIllustration.social_influencer:
+      '$baseUrl/Social_influencer_re_beim.svg',
   UnDrawIllustration.social_interaction: '$baseUrl/social_interaction_cy9i.svg',
   UnDrawIllustration.social_life: '$baseUrl/Social_life_re_x7t5.svg',
   UnDrawIllustration.social_media: '$baseUrl/Social_media_re_w12q.svg',
@@ -7781,19 +7812,19 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.social_notifications:
       '$baseUrl/Social_notifications_re_xcbi.svg',
   UnDrawIllustration.social_serenity: '$baseUrl/social_serenity_vhix.svg',
-  UnDrawIllustration.social_share: '$baseUrl/social_share_algy.svg',
+  UnDrawIllustration.social_share: '$baseUrl/Social_share_re_qb4v.svg',
   UnDrawIllustration.social_sharing: '$baseUrl/social_sharing_ibwq.svg',
   UnDrawIllustration.social_strategy: '$baseUrl/Social_strategy_re_mk87.svg',
   UnDrawIllustration.social_thinking: '$baseUrl/social_thinking_7ule.svg',
   UnDrawIllustration.social_tree: '$baseUrl/social_tree_1_y9wa.svg',
   UnDrawIllustration.social_update: '$baseUrl/social_update_puv0.svg',
-  UnDrawIllustration.social_user: '$baseUrl/social_user_lff0.svg',
+  UnDrawIllustration.social_user: '$baseUrl/Social_user_re_8cky.svg',
   UnDrawIllustration.software_engineer: '$baseUrl/software_engineer_lvl5.svg',
   UnDrawIllustration.solution_mindset: '$baseUrl/solution_mindset_34bi.svg',
   UnDrawIllustration.sorting_thoughts: '$baseUrl/Sorting_thoughts_re_fgli.svg',
   UnDrawIllustration.source_code: '$baseUrl/Source_code_re_wd9m.svg',
   UnDrawIllustration.special_event: '$baseUrl/special_event_4aj8.svg',
-  UnDrawIllustration.specs: '$baseUrl/Specs_djh3.svg',
+  UnDrawIllustration.specs: '$baseUrl/Specs_re_546x.svg',
   UnDrawIllustration.speech_to_text: '$baseUrl/speech_to_text_9uir.svg',
   UnDrawIllustration.speed_test: '$baseUrl/speed_test_wxl0.svg',
   UnDrawIllustration.split_testing: '$baseUrl/split_testing_l1uw.svg',
@@ -7819,7 +7850,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.steps: '$baseUrl/Steps_re_odoy.svg',
   UnDrawIllustration.stock_prices: '$baseUrl/Stock_prices_re_js33.svg',
   UnDrawIllustration.stranded_traveler: '$baseUrl/stranded_traveler_pdbw.svg',
-  UnDrawIllustration.street_food: '$baseUrl/street_food_hm5i.svg',
+  UnDrawIllustration.street_food: '$baseUrl/Street_food_re_uwex.svg',
   UnDrawIllustration.stripe_payments: '$baseUrl/stripe_payments_o7aw.svg',
   UnDrawIllustration.studying: '$baseUrl/studying_s3l7.svg',
   UnDrawIllustration.subscribe: '$baseUrl/subscribe_vspl.svg',
@@ -7829,34 +7860,34 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.subway: '$baseUrl/subway_7vh7.svg',
   UnDrawIllustration.success_factors: '$baseUrl/Success_factors_re_ce93.svg',
   UnDrawIllustration.successful_purchase:
-      '$baseUrl/successful_purchase_uyin.svg',
+      '$baseUrl/Successful_purchase_re_mpig.svg',
   UnDrawIllustration.summer: '$baseUrl/summer_jx06.svg',
   UnDrawIllustration.sunlight: '$baseUrl/sunlight_tn7t.svg',
-  UnDrawIllustration.sunny_day: '$baseUrl/sunny_day_bk3m.svg',
-  UnDrawIllustration.super_thank_you: '$baseUrl/super_thank_you_obwk.svg',
+  UnDrawIllustration.sunny_day: '$baseUrl/Sunny_day_re_gyxr.svg',
+  UnDrawIllustration.super_thank_you: '$baseUrl/Super_thank_you_re_f8bo.svg',
   UnDrawIllustration.super_woman: '$baseUrl/super_woman_dv0y.svg',
   UnDrawIllustration.superhero: '$baseUrl/superhero_kguv.svg',
   UnDrawIllustration.surfer: '$baseUrl/surfer_m6jb.svg',
   UnDrawIllustration.surveillance: '$baseUrl/Surveillance_re_8tkl.svg',
   UnDrawIllustration.survey: '$baseUrl/survey_05s5.svg',
   UnDrawIllustration.sweet_home: '$baseUrl/sweet_home_dkhr.svg',
-  UnDrawIllustration.swipe: '$baseUrl/swipe_xh98.svg',
+  UnDrawIllustration.swipe: '$baseUrl/swipe_re_vhc5.svg',
   UnDrawIllustration.swipe_options: '$baseUrl/swipe_options_2e4v.svg',
-  UnDrawIllustration.swipe_profiles: '$baseUrl/swipe_profiles1_i6mr.svg',
+  UnDrawIllustration.swipe_profiles: '$baseUrl/Swipe_profiles_re_tvqm.svg',
   UnDrawIllustration.switches: '$baseUrl/switches_1js3.svg',
-  UnDrawIllustration.sync: '$baseUrl/sync4_xlc6.svg',
-  UnDrawIllustration.sync_files: '$baseUrl/sync_files_xb3r.svg',
+  UnDrawIllustration.sync: '$baseUrl/Sync_re_492g.svg',
+  UnDrawIllustration.sync_files: '$baseUrl/Sync_files_re_ws4c.svg',
   UnDrawIllustration.synchronize: '$baseUrl/synchronize_ccxk.svg',
   UnDrawIllustration.tabs: '$baseUrl/Tabs_re_a2bd.svg',
   UnDrawIllustration.tailwind_css: '$baseUrl/tailwind_css_1egw.svg',
   UnDrawIllustration.take_out_boxes: '$baseUrl/takeout_boxes_ap54.svg',
   UnDrawIllustration.taken: '$baseUrl/Taken_re_yn20.svg',
   UnDrawIllustration.taking_notes: '$baseUrl/Taking_notes_re_bnaf.svg',
-  UnDrawIllustration.taking_selfie: '$baseUrl/taking_selfie_lbo7.svg',
+  UnDrawIllustration.taking_selfie: '$baseUrl/Taking_selfie_re_wlgd.svg',
   UnDrawIllustration.target: '$baseUrl/target_kriv.svg',
   UnDrawIllustration.task: '$baseUrl/Task_re_wi3v.svg',
   UnDrawIllustration.task_list: '$baseUrl/task_list_6x9d.svg',
-  UnDrawIllustration.tasks: '$baseUrl/tasks_av87.svg',
+  UnDrawIllustration.tasks: '$baseUrl/tasks_re_v2v4.svg',
   UnDrawIllustration.tasting: '$baseUrl/tasting_de22.svg',
   UnDrawIllustration.teacher: '$baseUrl/teacher_35j2.svg',
   UnDrawIllustration.teaching: '$baseUrl/teaching_f1cm.svg',
@@ -7873,13 +7904,14 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.terms: '$baseUrl/Terms_re_6ak4.svg',
   UnDrawIllustration.text_field: '$baseUrl/text_field_htlv.svg',
   UnDrawIllustration.text_files: '$baseUrl/text_files_au1q.svg',
-  UnDrawIllustration.texting: '$baseUrl/texting_k35o.svg',
+  UnDrawIllustration.texting: '$baseUrl/Texting_re_l11n.svg',
   UnDrawIllustration.the_search: '$baseUrl/the_search_s0xf.svg',
   UnDrawIllustration.the_world_is_mine: '$baseUrl/the_world_is_mine_nb0e.svg',
   UnDrawIllustration.things_to_say: '$baseUrl/things_to_say_ewwb.svg',
   UnDrawIllustration.thought_process: '$baseUrl/thought_process_67my.svg',
   UnDrawIllustration.thoughts: '$baseUrl/thoughts_e49y.svg',
-  UnDrawIllustration.through_the_desert: '$baseUrl/Through_the_desert_rqtu.svg',
+  UnDrawIllustration.through_the_desert:
+      '$baseUrl/Through_the_desert_re_1q2x.svg',
   UnDrawIllustration.through_the_park: '$baseUrl/through_the_park_lxnl.svg',
   UnDrawIllustration.through_the_window: '$baseUrl/through_the_window_51ew.svg',
   UnDrawIllustration.throw_away: '$baseUrl/Throw_away_re_x60k.svg',
@@ -7890,15 +7922,15 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.to_do_list: '$baseUrl/To_do_list_re_9nt7.svg',
   UnDrawIllustration.to_the_moon: '$baseUrl/to_the_moon_v1mv.svg',
   UnDrawIllustration.to_the_stars: '$baseUrl/To_the_stars_qhyy.svg',
-  UnDrawIllustration.together: '$baseUrl/together_j0gj.svg',
+  UnDrawIllustration.together: '$baseUrl/Together_re_a8x4.svg',
   UnDrawIllustration.tourist_map: '$baseUrl/tourist_map_re_293e.svg',
   UnDrawIllustration.towing: '$baseUrl/towing_6yy4.svg',
   UnDrawIllustration.town: '$baseUrl/town_r6pc.svg',
   UnDrawIllustration.toy_car: '$baseUrl/toy_car_7umw.svg',
   UnDrawIllustration.track_and_field: '$baseUrl/track_and_field_33qn.svg',
-  UnDrawIllustration.transfer_files: '$baseUrl/transfer_files_6tns.svg',
+  UnDrawIllustration.transfer_files: '$baseUrl/Transfer_files_re_a2a9.svg',
   UnDrawIllustration.transfer_money: '$baseUrl/transfer_money_rywa.svg',
-  UnDrawIllustration.travel_booking: '$baseUrl/travel_booking_6koc.svg',
+  UnDrawIllustration.travel_booking: '$baseUrl/Travel_booking_re_6umu.svg',
   UnDrawIllustration.travel_mode: '$baseUrl/Travel_mode_re_2lxo.svg',
   UnDrawIllustration.travel_plans: '$baseUrl/travel_plans_li01.svg',
   UnDrawIllustration.travel_together: '$baseUrl/travel_together_re_kjf2.svg',
@@ -7923,24 +7955,25 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.unicorn: '$baseUrl/unicorn_dp2f.svg',
   UnDrawIllustration.unlock: '$baseUrl/unlock_24mb.svg',
   UnDrawIllustration.up_to_date: '$baseUrl/Up_to_date_re_nqid.svg',
-  UnDrawIllustration.update: '$baseUrl/update_uxn2.svg',
+  UnDrawIllustration.update: '$baseUrl/Update_re_swkp.svg',
   UnDrawIllustration.updated: '$baseUrl/Updated_re_u4yh.svg',
   UnDrawIllustration.updated_resume: '$baseUrl/Updated_resume_re_q1or.svg',
   UnDrawIllustration.updates: '$baseUrl/Updates_re_o5af.svg',
   UnDrawIllustration.upgrade: '$baseUrl/upgrade_06a0.svg',
   UnDrawIllustration.upload: '$baseUrl/Upload_re_pasx.svg',
-  UnDrawIllustration.upload_image: '$baseUrl/upload_image_iwej.svg',
+  UnDrawIllustration.upload_image: '$baseUrl/Upload_image_re_svxx.svg',
   UnDrawIllustration.uploading: '$baseUrl/uploading_go67.svg',
   UnDrawIllustration.upvote: '$baseUrl/Upvote_re_qn2k.svg',
   UnDrawIllustration.urban_design: '$baseUrl/urban_design_kpu8.svg',
-  UnDrawIllustration.usability_testing: '$baseUrl/usability_testing_2xs4.svg',
+  UnDrawIllustration.usability_testing:
+      '$baseUrl/Usability_testing_re_uu1g.svg',
   UnDrawIllustration.user_flow: '$baseUrl/User_flow_re_bvfx.svg',
   UnDrawIllustration.vr_chat: '$baseUrl/vr_chat_kq3p.svg',
-  UnDrawIllustration.vault: '$baseUrl/vault_9cmw.svg',
+  UnDrawIllustration.vault: '$baseUrl/Vault_re_s4my.svg',
   UnDrawIllustration.vehicle_sale: '$baseUrl/Vehicle_sale_a645.svg',
   UnDrawIllustration.verified: '$baseUrl/verified_re_4io7.svg',
-  UnDrawIllustration.version_control: '$baseUrl/version_control_9bpv.svg',
-  UnDrawIllustration.video_call: '$baseUrl/video_call_kxyp.svg',
+  UnDrawIllustration.version_control: '$baseUrl/version_control_re_mg66.svg',
+  UnDrawIllustration.video_call: '$baseUrl/Video_call_re_4p26.svg',
   UnDrawIllustration.video_files: '$baseUrl/video_files_fu10.svg',
   UnDrawIllustration.video_game_night: '$baseUrl/video_game_night_8h8m.svg',
   UnDrawIllustration.video_influencer: '$baseUrl/video_influencer_9oyy.svg',
@@ -7949,7 +7982,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.videographer: '$baseUrl/videographer_nnc7.svg',
   UnDrawIllustration.viral_tweet: '$baseUrl/viral_tweet_gndb.svg',
   UnDrawIllustration.virtual_assistant: '$baseUrl/virtual_assistant_jjo2.svg',
-  UnDrawIllustration.virtual_reality: '$baseUrl/virtual_reality_y5ig.svg',
+  UnDrawIllustration.virtual_reality: '$baseUrl/Virtual_reality_re_yg8i.svg',
   UnDrawIllustration.visionary_technology:
       '$baseUrl/visionary_technology_33jy.svg',
   UnDrawIllustration.visualization: '$baseUrl/visualization_c2ps.svg',
@@ -7960,10 +7993,10 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.voting: '$baseUrl/voting_nvu7.svg',
   UnDrawIllustration.waiting_for_you: '$baseUrl/Waiting__for_you_ldha.svg',
   UnDrawIllustration.walk_dreaming: '$baseUrl/walk_dreaming_u58a.svg',
-  UnDrawIllustration.walk_in_the_city: '$baseUrl/walk_in_the_city_1ma6.svg',
+  UnDrawIllustration.walk_in_the_city: '$baseUrl/Walk_in_the_city_re_039v.svg',
   UnDrawIllustration.walking_around: '$baseUrl/walking_around_25f5.svg',
   UnDrawIllustration.walking_outside: '$baseUrl/Walking_outside_re_56xo.svg',
-  UnDrawIllustration.wall_post: '$baseUrl/wall_post_83ul.svg',
+  UnDrawIllustration.wall_post: '$baseUrl/Wall_post_re_y78d.svg',
   UnDrawIllustration.wallet: '$baseUrl/wallet_aym5.svg',
   UnDrawIllustration.wandering_mind: '$baseUrl/wandering_mind_0mkm.svg',
   UnDrawIllustration.warning: '$baseUrl/warning_cyit.svg',
@@ -7972,14 +8005,14 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.weather: '$baseUrl/Weather_re_qsmd.svg',
   UnDrawIllustration.weather_app: '$baseUrl/Weather_app_re_kcb1.svg',
   UnDrawIllustration.weather_notification:
-      '$baseUrl/weather_notification_4sbo.svg',
+      '$baseUrl/Weather_notification_re_3pad.svg',
   UnDrawIllustration.web_browsing: '$baseUrl/web_browsing_p77h.svg',
-  UnDrawIllustration.web_developer: '$baseUrl/web_developer_p3e5.svg',
+  UnDrawIllustration.web_developer: '$baseUrl/Web_developer_re_h7ie.svg',
   UnDrawIllustration.web_development: '$baseUrl/web_development_w2vv.svg',
   UnDrawIllustration.web_devices: '$baseUrl/web_devices_ad58.svg',
   UnDrawIllustration.web_search: '$baseUrl/Web_search_re_efla.svg',
-  UnDrawIllustration.web_shopping: '$baseUrl/web_shopping_dd4l.svg',
-  UnDrawIllustration.website_builder: '$baseUrl/website_builder_bxki.svg',
+  UnDrawIllustration.web_shopping: '$baseUrl/web_shopping_re_owap.svg',
+  UnDrawIllustration.website_builder: '$baseUrl/Website_builder_re_ii6e.svg',
   UnDrawIllustration.website_setup: '$baseUrl/Website_setup_re_d4y9.svg',
   UnDrawIllustration.wedding: '$baseUrl/wedding_t1yl.svg',
   UnDrawIllustration.welcome: '$baseUrl/welcome_3gvl.svg',
@@ -7989,7 +8022,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.wilderness: '$baseUrl/wilderness_81ka.svg',
   UnDrawIllustration.wind_turbine: '$baseUrl/wind_turbine_x2k4.svg',
   UnDrawIllustration.window_shopping: '$baseUrl/window_shopping_b96y.svg',
-  UnDrawIllustration.windows: '$baseUrl/windows_q9m0.svg',
+  UnDrawIllustration.windows: '$baseUrl/Windows_re_uo4w.svg',
   UnDrawIllustration.windy_day: '$baseUrl/windy_day_x63l.svg',
   UnDrawIllustration.wine_tasting: '$baseUrl/wine_tasting_30vw.svg',
   UnDrawIllustration.winners: '$baseUrl/winners_ao2o.svg',
@@ -7999,7 +8032,7 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.winter_olympics: '$baseUrl/Winter_olympics_p07j.svg',
   UnDrawIllustration.winter_road: '$baseUrl/winter_road_mcqj.svg',
   UnDrawIllustration.winter_walk: '$baseUrl/winter_walk_2yac.svg',
-  UnDrawIllustration.wireframing: '$baseUrl/wireframing_nxyi.svg',
+  UnDrawIllustration.wireframing: '$baseUrl/Wireframing_re_q6k6.svg',
   UnDrawIllustration.wishes: '$baseUrl/wishes_icyp.svg',
   UnDrawIllustration.wishlist: '$baseUrl/Wishlist_re_m7tv.svg',
   UnDrawIllustration.witch: '$baseUrl/witch_7uk7.svg',
@@ -8009,11 +8042,12 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.word_of_mouth: '$baseUrl/word_of_mouth_v1j9.svg',
   UnDrawIllustration.wordpress: '$baseUrl/wordpress_utxt.svg',
   UnDrawIllustration.work_chat: '$baseUrl/Work_chat_re_qes4.svg',
-  UnDrawIllustration.work_from_anywhere: '$baseUrl/work_from_anywhere_7sdx.svg',
+  UnDrawIllustration.work_from_anywhere:
+      '$baseUrl/Work_from_anywhere_re_s2i6.svg',
   UnDrawIllustration.work_in_progress: '$baseUrl/work_in_progress_uhmv.svg',
   UnDrawIllustration.work_time: '$baseUrl/Work_time_re_hdyv.svg',
   UnDrawIllustration.work_together: '$baseUrl/work_together_h63l.svg',
-  UnDrawIllustration.working: '$baseUrl/Working_oh83.svg',
+  UnDrawIllustration.working: '$baseUrl/Working_re_ddwy.svg',
   UnDrawIllustration.working_from_anywhere:
       '$baseUrl/working_from_anywhere_ub67.svg',
   UnDrawIllustration.working_late: '$baseUrl/working_late_pukg.svg',
@@ -8026,10 +8060,10 @@ const illustrationMap = <UnDrawIllustration, String>{
   UnDrawIllustration.yacht: '$baseUrl/Yacht_re_kkai.svg',
   UnDrawIllustration.yoga: '$baseUrl/yoga_248n.svg',
   UnDrawIllustration.young_and_happy: '$baseUrl/young_and_happy_hfpe.svg',
-  UnDrawIllustration.youtube_tutorial: '$baseUrl/youtube_tutorial_2gn3.svg',
+  UnDrawIllustration.youtube_tutorial: '$baseUrl/Youtube_tutorial_re_69qc.svg',
   UnDrawIllustration.zoom_in: '$baseUrl/zoom_in_1txs.svg',
   UnDrawIllustration.career_progress: '$baseUrl/career_progress_ivdb.svg',
   UnDrawIllustration.pair_programming: '$baseUrl/pair_programming_njlp.svg',
   UnDrawIllustration.undraw_1000: '$baseUrl/unDraw_1000_gty8.svg',
-  UnDrawIllustration.visual_data: '$baseUrl/visual_data_b1wx.svg'
+  UnDrawIllustration.visual_data: '$baseUrl/visual_data_re_mxxo.svg'
 };
