@@ -1,5 +1,9 @@
 # Changelog
 
+## [3.0.1+2] - 2022-03-10
+
+* More illustrations added or updated
+
 ## [3.0.1+1] - 2021-08-25
 
 * hotfix
